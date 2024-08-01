@@ -33,11 +33,9 @@ data from Statistics Denmark.
 But before we can do that, we need to know how the SD-API expects to receive 
 data.
 
-Hopefully we can get that by reading the documentation. We can find that here:
+Hopefully we can get that by reading the [documentation, that can be found here.]https://www.dst.dk/en/Statistik/brug-statistikken/muligheder-i-statistikbanken/api
 
-https://www.dst.dk/en/Statistik/brug-statistikken/muligheder-i-statistikbanken/api
-
-That was confusing!
+But that is rather confusing.
 
 
 The main points:
@@ -143,7 +141,7 @@ result
 
 ``` output
 Response [https://api.statbank.dk/v1/subjects]
-  Date: 2024-08-01 13:05
+  Date: 2024-08-01 13:17
   Status: 200
   Content-Type: text/json; charset=utf-8
   Size: 884 B
