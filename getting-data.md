@@ -53,10 +53,10 @@ GET("https://icanhazdadjoke.com/")
 
 ``` output
 Response [https://icanhazdadjoke.com/]
-  Date: 2024-08-01 11:39
+  Date: 2024-08-01 13:05
   Status: 200
   Content-Type: text/html; charset=utf-8
-  Size: 9.84 kB
+  Size: 9.83 kB
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -95,10 +95,10 @@ result
 
 ``` output
 Response [https://icanhazdadjoke.com/]
-  Date: 2024-08-01 11:39
+  Date: 2024-08-01 13:05
   Status: 200
   Content-Type: text/plain
-  Size: 43 B
+  Size: 103 B
 ```
 We still get the response from the server, telling us that Status is 200, and
 everything is OK. But where is our dad-joke?
@@ -116,7 +116,7 @@ No encoding supplied: defaulting to UTF-8.
 ```
 
 ``` output
-[1] "How do you make Lady Gaga cry? Poker face. "
+[1] "Did you know you should always take an extra pair of pants golfing? Just in case you get a hole in one."
 ```
 
 There is a little warning about the encoding of the string. But now we have a dad-joke!
@@ -168,11 +168,11 @@ result
 
 ``` output
 Response [https://icanhazdadjoke.com/]
-  Date: 2024-08-01 11:39
+  Date: 2024-08-01 13:05
   Status: 200
   Content-Type: application/json
-  Size: 145 B
-{"id":"HBszX8MJ6h","joke":"I was so proud when I finished the puzzle in six m...
+  Size: 112 B
+{"id":"pjyA59MRusc","joke":"There\u2019s a new type of broom out, it\u2019s s...
 ```
 
 Again - everything is nice and 200 = OK.
@@ -188,10 +188,10 @@ content(result)
 
 ``` output
 $id
-[1] "HBszX8MJ6h"
+[1] "pjyA59MRusc"
 
 $joke
-[1] "I was so proud when I finished the puzzle in six months, when on the side it said three to four years."
+[1] "There’s a new type of broom out, it’s sweeping the nation."
 
 $status
 [1] 200
@@ -262,18 +262,18 @@ $previous_page
 $results
 $results[[1]]
 $results[[1]]$id
-[1] "82wHlbaapzd"
+[1] "YvkV8xXnjyd"
 
 $results[[1]]$joke
-[1] "Me: If humans lose the ability to hear high frequency volumes as they get older, can my 4 week old son hear a dog whistle?\r\n\r\nDoctor: No, humans can never hear that high of a frequency no matter what age they are.\r\n\r\nMe: Trick question... dogs can't whistle."
+[1] "Why did the cowboy have a weiner dog? Somebody told him to get a long little doggy."
 
 
 $results[[2]]
 $results[[2]]$id
-[1] "YvkV8xXnjyd"
+[1] "82wHlbaapzd"
 
 $results[[2]]$joke
-[1] "Why did the cowboy have a weiner dog? Somebody told him to get a long little doggy."
+[1] "Me: If humans lose the ability to hear high frequency volumes as they get older, can my 4 week old son hear a dog whistle?\r\n\r\nDoctor: No, humans can never hear that high of a frequency no matter what age they are.\r\n\r\nMe: Trick question... dogs can't whistle."
 
 
 $results[[3]]
@@ -426,28 +426,28 @@ $previous_page
 
 $results
             id
-1  82wHlbaapzd
-2  YvkV8xXnjyd
+1  YvkV8xXnjyd
+2  82wHlbaapzd
 3  lyk3EIBQfxc
 4  DIeaUDlbUDd
 5  EBQfiyXD5ob
-6   obhFBljb2g
-7  89MZLmWnWvc
-8  GtH6E6UD5Ed
+6  89MZLmWnWvc
+7  GtH6E6UD5Ed
+8   obhFBljb2g
 9  R7UfaahVfFd
 10  71wsPKeF6h
 11 sPRnOfiyAAd
 12 AQn3wPKeqrc
 13 Lmjqzsr49pb
                                                                                                                                                                                                                                                                          joke
-1  Me: If humans lose the ability to hear high frequency volumes as they get older, can my 4 week old son hear a dog whistle?\r\n\r\nDoctor: No, humans can never hear that high of a frequency no matter what age they are.\r\n\r\nMe: Trick question... dogs can't whistle.
-2                                                                                                                                                                                         Why did the cowboy have a weiner dog? Somebody told him to get a long little doggy.
+1                                                                                                                                                                                         Why did the cowboy have a weiner dog? Somebody told him to get a long little doggy.
+2  Me: If humans lose the ability to hear high frequency volumes as they get older, can my 4 week old son hear a dog whistle?\r\n\r\nDoctor: No, humans can never hear that high of a frequency no matter what age they are.\r\n\r\nMe: Trick question... dogs can't whistle.
 3                                                                                                                                                                                             I went to the zoo the other day, there was only one dog in it. It was a shitzu.
 4                                                                                                                                                                                                                          “My Dog has no nose.” “How does he smell?” “Awful”
 5                                                                                                                                                                                                          what do you call a dog that can do magic tricks? a labracadabrador
-6                                                                                                                                                                                     I adopted my dog from a blacksmith. As soon as we got home he made a bolt for the door.
-7                                                                                                                                                I can't take my dog to the pond anymore because the ducks keep attacking him. That's what I get for buying a pure bread dog.
-8                                                                                                                                                                                                What kind of dog lives in a particle accelerator? A Fermilabrador Retriever.
+6                                                                                                                                                I can't take my dog to the pond anymore because the ducks keep attacking him. That's what I get for buying a pure bread dog.
+7                                                                                                                                                                                                What kind of dog lives in a particle accelerator? A Fermilabrador Retriever.
+8                                                                                                                                                                                     I adopted my dog from a blacksmith. As soon as we got home he made a bolt for the door.
 9                                                                                                                                                                                     My dog used to chase people on a bike a lot. It got so bad I had to take his bike away.
 10                                                                                                                                                                                                                          What did the dog say to the two trees? Bark bark.
 11                                                                                                                                              At the boxing match, the dad got into the popcorn line and the line for hot dogs, but he wanted to stay out of the punchline.
@@ -514,32 +514,32 @@ $previous_page
 
 $results
             id
-1  YvkV8xXnjyd
-2  82wHlbaapzd
-3  EBQfiyXD5ob
-4  GtH6E6UD5Ed
-5   obhFBljb2g
-6  89MZLmWnWvc
-7   71wsPKeF6h
-8  R7UfaahVfFd
-9  lyk3EIBQfxc
-10 DIeaUDlbUDd
-11 AQn3wPKeqrc
-12 sPRnOfiyAAd
+1  82wHlbaapzd
+2  YvkV8xXnjyd
+3  lyk3EIBQfxc
+4  DIeaUDlbUDd
+5  EBQfiyXD5ob
+6  GtH6E6UD5Ed
+7   obhFBljb2g
+8  89MZLmWnWvc
+9   71wsPKeF6h
+10 R7UfaahVfFd
+11 sPRnOfiyAAd
+12 AQn3wPKeqrc
 13 Lmjqzsr49pb
                                                                                                                                                                                                                                                                          joke
-1                                                                                                                                                                                         Why did the cowboy have a weiner dog? Somebody told him to get a long little doggy.
-2  Me: If humans lose the ability to hear high frequency volumes as they get older, can my 4 week old son hear a dog whistle?\r\n\r\nDoctor: No, humans can never hear that high of a frequency no matter what age they are.\r\n\r\nMe: Trick question... dogs can't whistle.
-3                                                                                                                                                                                                          what do you call a dog that can do magic tricks? a labracadabrador
-4                                                                                                                                                                                                What kind of dog lives in a particle accelerator? A Fermilabrador Retriever.
-5                                                                                                                                                                                     I adopted my dog from a blacksmith. As soon as we got home he made a bolt for the door.
-6                                                                                                                                                I can't take my dog to the pond anymore because the ducks keep attacking him. That's what I get for buying a pure bread dog.
-7                                                                                                                                                                                                                           What did the dog say to the two trees? Bark bark.
-8                                                                                                                                                                                     My dog used to chase people on a bike a lot. It got so bad I had to take his bike away.
-9                                                                                                                                                                                             I went to the zoo the other day, there was only one dog in it. It was a shitzu.
-10                                                                                                                                                                                                                         “My Dog has no nose.” “How does he smell?” “Awful”
-11                                                                                                                                                                                                  It was raining cats and dogs the other day. I almost stepped in a poodle.
-12                                                                                                                                              At the boxing match, the dad got into the popcorn line and the line for hot dogs, but he wanted to stay out of the punchline.
+1  Me: If humans lose the ability to hear high frequency volumes as they get older, can my 4 week old son hear a dog whistle?\r\n\r\nDoctor: No, humans can never hear that high of a frequency no matter what age they are.\r\n\r\nMe: Trick question... dogs can't whistle.
+2                                                                                                                                                                                         Why did the cowboy have a weiner dog? Somebody told him to get a long little doggy.
+3                                                                                                                                                                                             I went to the zoo the other day, there was only one dog in it. It was a shitzu.
+4                                                                                                                                                                                                                          “My Dog has no nose.” “How does he smell?” “Awful”
+5                                                                                                                                                                                                          what do you call a dog that can do magic tricks? a labracadabrador
+6                                                                                                                                                                                                What kind of dog lives in a particle accelerator? A Fermilabrador Retriever.
+7                                                                                                                                                                                     I adopted my dog from a blacksmith. As soon as we got home he made a bolt for the door.
+8                                                                                                                                                I can't take my dog to the pond anymore because the ducks keep attacking him. That's what I get for buying a pure bread dog.
+9                                                                                                                                                                                                                           What did the dog say to the two trees? Bark bark.
+10                                                                                                                                                                                    My dog used to chase people on a bike a lot. It got so bad I had to take his bike away.
+11                                                                                                                                              At the boxing match, the dad got into the popcorn line and the line for hot dogs, but he wanted to stay out of the punchline.
+12                                                                                                                                                                                                  It was raining cats and dogs the other day. I almost stepped in a poodle.
 13                                                                                                                                                                                            What did the Zen Buddist say to the hotdog vendor? Make me one with everything.
 
 $search_term
