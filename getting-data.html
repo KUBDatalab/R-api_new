@@ -118,11 +118,11 @@
   Lesson Title
 </div>
 
-<aside class="col-md-12 lesson-progress"><div style="width: 30%" class="percentage">
-    30%
+<aside class="col-md-12 lesson-progress"><div style="width: 26%" class="percentage">
+    26%
   </div>
   <div class="progress incubator">
-    <div class="progress-bar incubator" role="progressbar" style="width: 30%" aria-valuenow="30" aria-label="Lesson Progress" aria-valuemin="0" aria-valuemax="100">
+    <div class="progress-bar incubator" role="progressbar" style="width: 26%" aria-valuenow="26" aria-label="Lesson Progress" aria-valuemin="0" aria-valuemax="100">
     </div>
   </div>
 </aside><div class="container">
@@ -245,6 +245,15 @@
   <div class="accordion-item">
     <div class="accordion-header" id="flush-heading5">
         <a href="post-statistics-denmark.html">4. Using POST</a>
+    </div><!--/div.accordion-header-->
+
+  </div><!--/div.accordion-item-->
+</div><!--/div.accordion-flush-->
+
+<div class="accordion accordion-flush" id="accordionFlush6">
+  <div class="accordion-item">
+    <div class="accordion-header" id="flush-heading6">
+        <a href="danstat.html">5. What about danstat?</a>
     </div><!--/div.accordion-header-->
 
   </div><!--/div.accordion-item-->
@@ -387,10 +396,10 @@ directly:</p>
 <h3 class="code-label">OUTPUT<i aria-hidden="true" data-feather="chevron-left"></i><i aria-hidden="true" data-feather="chevron-right"></i>
 </h3>
 <pre class="output" tabindex="0"><code>Response [https://icanhazdadjoke.com/]
-  Date: 2024-08-01 11:30
+  Date: 2024-08-01 11:39
   Status: 200
   Content-Type: text/html; charset=utf-8
-  Size: 9.87 kB
+  Size: 9.84 kB
 &lt;!DOCTYPE html&gt;
 &lt;html lang="en"&gt;
 &lt;head&gt;
@@ -429,10 +438,10 @@ want a response in just text:</p>
 <h3 class="code-label">OUTPUT<i aria-hidden="true" data-feather="chevron-left"></i><i aria-hidden="true" data-feather="chevron-right"></i>
 </h3>
 <pre class="output" tabindex="0"><code>Response [https://icanhazdadjoke.com/]
-  Date: 2024-08-01 11:30
+  Date: 2024-08-01 11:39
   Status: 200
   Content-Type: text/plain
-  Size: 65 B</code></pre>
+  Size: 43 B</code></pre>
 </div>
 <p>We still get the response from the server, telling us that Status is
 200, and everything is OK. But where is our dad-joke?</p>
@@ -453,7 +462,7 @@ binary code, so we are using the <em>content()</em> function, also from
 <div class="codewrapper">
 <h3 class="code-label">OUTPUT<i aria-hidden="true" data-feather="chevron-left"></i><i aria-hidden="true" data-feather="chevron-right"></i>
 </h3>
-<pre class="output" tabindex="0"><code>[1] "What do you call two guys hanging out by your window? Kurt &amp; Rod."</code></pre>
+<pre class="output" tabindex="0"><code>[1] "How do you make Lady Gaga cry? Poker face. "</code></pre>
 </div>
 <p>There is a little warning about the encoding of the string. But now
 we have a dad-joke!</p>
@@ -499,11 +508,11 @@ sets the <em>accept</em> part of the header:</p>
 <h3 class="code-label">OUTPUT<i aria-hidden="true" data-feather="chevron-left"></i><i aria-hidden="true" data-feather="chevron-right"></i>
 </h3>
 <pre class="output" tabindex="0"><code>Response [https://icanhazdadjoke.com/]
-  Date: 2024-08-01 11:30
+  Date: 2024-08-01 11:39
   Status: 200
   Content-Type: application/json
-  Size: 129 B
-{"id":"x5M799Ufib","joke":"I wish I could clean mirrors for a living. It's ju...</code></pre>
+  Size: 145 B
+{"id":"HBszX8MJ6h","joke":"I was so proud when I finished the puzzle in six m...</code></pre>
 </div>
 <p>Again - everything is nice and 200 = OK.</p>
 <p>We also see a truncated version of the actual joke.</p>
@@ -518,10 +527,10 @@ sets the <em>accept</em> part of the header:</p>
 <h3 class="code-label">OUTPUT<i aria-hidden="true" data-feather="chevron-left"></i><i aria-hidden="true" data-feather="chevron-right"></i>
 </h3>
 <pre class="output" tabindex="0"><code>$id
-[1] "x5M799Ufib"
+[1] "HBszX8MJ6h"
 
 $joke
-[1] "I wish I could clean mirrors for a living. It's just something I can see myself doing."
+[1] "I was so proud when I finished the puzzle in six months, when on the side it said three to four years."
 
 $status
 [1] 200</code></pre>
@@ -826,7 +835,7 @@ so funny data.</p>
 <button class="accordion-button solution-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSolution1" aria-expanded="false" aria-controls="collapseSolution1">
   <h4 class="accordion-header" id="headingSolution1"> Show me the solution </h4>
 </button>
-<div id="collapseSolution1" class="accordion-collapse collapse" aria-labelledby="headingSolution1" data-bs-parent="#accordionSolution1">
+<div id="collapseSolution1" class="accordion-collapse collapse" data-bs-parent="#accordionSolution1" aria-labelledby="headingSolution1">
 <div class="accordion-body">
 <div class="codewrapper sourceCode" id="cb24">
 <h3 class="code-label">R<i aria-hidden="true" data-feather="chevron-left"></i><i aria-hidden="true" data-feather="chevron-right"></i>
