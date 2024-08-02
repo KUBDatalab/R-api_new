@@ -312,6 +312,18 @@
 </div>
 <!--/div.accordion-flush-->
 
+<div class="accordion accordion-flush" id="accordionFlush8">
+  <div class="accordion-item">
+    <div class="accordion-header" id="flush-heading8">
+        <a href="ggplot2.html">7. ggplot2</a>
+    </div>
+<!--/div.accordion-header-->
+
+  </div>
+<!--/div.accordion-item-->
+</div>
+<!--/div.accordion-flush-->
+
                 </div>
               </div>
             </div>
@@ -368,7 +380,7 @@
         
 <section id="aio-introduction"><p>Content from <a href="introduction.html">introduction</a></p>
 <hr>
-<p>Last updated on 2024-08-01 |
+<p>Last updated on 2024-08-02 |
 
         <a href="https://github.com/KUBDatalab/R-api_new/edit/main/episodes/introduction.Rmd" class="external-link">Edit this page <i aria-hidden="true" data-feather="edit"></i></a></p>
 <div class="text-end">
@@ -489,7 +501,7 @@ any links that you are not going to use.
  -->
 </section></section><section id="aio-api-in-general"><p>Content from <a href="api-in-general.html">What is an API?</a></p>
 <hr>
-<p>Last updated on 2024-08-01 |
+<p>Last updated on 2024-08-02 |
 
         <a href="https://github.com/KUBDatalab/R-api_new/edit/main/episodes/api-in-general.Rmd" class="external-link">Edit this page <i aria-hidden="true" data-feather="edit"></i></a></p>
 <div class="text-end">
@@ -638,7 +650,7 @@ any links that you are not going to use.
  -->
 </section></section><section id="aio-getting-data"><p>Content from <a href="getting-data.html">GETting data</a></p>
 <hr>
-<p>Last updated on 2024-08-01 |
+<p>Last updated on 2024-08-02 |
 
         <a href="https://github.com/KUBDatalab/R-api_new/edit/main/episodes/getting-data.Rmd" class="external-link">Edit this page <i aria-hidden="true" data-feather="edit"></i></a></p>
 <div class="text-end">
@@ -717,10 +729,10 @@ directly:</p>
 <h3 class="code-label">OUTPUT<i aria-hidden="true" data-feather="chevron-left"></i><i aria-hidden="true" data-feather="chevron-right"></i>
 </h3>
 <pre class="output" tabindex="0"><code>Response [https://icanhazdadjoke.com/]
-  Date: 2024-08-01 13:17
+  Date: 2024-08-02 09:07
   Status: 200
   Content-Type: text/html; charset=utf-8
-  Size: 9.83 kB
+  Size: 9.8 kB
 &lt;!DOCTYPE html&gt;
 &lt;html lang="en"&gt;
 &lt;head&gt;
@@ -759,10 +771,10 @@ want a response in just text:</p>
 <h3 class="code-label">OUTPUT<i aria-hidden="true" data-feather="chevron-left"></i><i aria-hidden="true" data-feather="chevron-right"></i>
 </h3>
 <pre class="output" tabindex="0"><code>Response [https://icanhazdadjoke.com/]
-  Date: 2024-08-01 13:17
+  Date: 2024-08-02 09:07
   Status: 200
   Content-Type: text/plain
-  Size: 71 B</code></pre>
+  Size: 102 B</code></pre>
 </div>
 <p>We still get the response from the server, telling us that Status is
 200, and everything is OK. But where is our dad-joke?</p>
@@ -783,7 +795,7 @@ binary code, so we are using the <em>content()</em> function, also from
 <div class="codewrapper">
 <h3 class="code-label">OUTPUT<i aria-hidden="true" data-feather="chevron-left"></i><i aria-hidden="true" data-feather="chevron-right"></i>
 </h3>
-<pre class="output" tabindex="0"><code>[1] "New atoms frequently lose electrons when they fail to keep an ion them."</code></pre>
+<pre class="output" tabindex="0"><code>[1] "I’ve deleted the phone numbers of all the Germans I know from my mobile phone. Now it’s Hans free."</code></pre>
 </div>
 <p>There is a little warning about the encoding of the string. But now
 we have a dad-joke!</p>
@@ -829,11 +841,11 @@ sets the <em>accept</em> part of the header:</p>
 <h3 class="code-label">OUTPUT<i aria-hidden="true" data-feather="chevron-left"></i><i aria-hidden="true" data-feather="chevron-right"></i>
 </h3>
 <pre class="output" tabindex="0"><code>Response [https://icanhazdadjoke.com/]
-  Date: 2024-08-01 13:17
+  Date: 2024-08-02 09:07
   Status: 200
   Content-Type: application/json
-  Size: 125 B
-{"id":"ozsPmORZvzd","joke":"A bartender broke up with her boyfriend, but he k...</code></pre>
+  Size: 156 B
+{"id":"o4MexXSClb","joke":"What did the judge say to the dentist? Do you swea...</code></pre>
 </div>
 <p>Again - everything is nice and 200 = OK.</p>
 <p>We also see a truncated version of the actual joke.</p>
@@ -848,10 +860,10 @@ sets the <em>accept</em> part of the header:</p>
 <h3 class="code-label">OUTPUT<i aria-hidden="true" data-feather="chevron-left"></i><i aria-hidden="true" data-feather="chevron-right"></i>
 </h3>
 <pre class="output" tabindex="0"><code>$id
-[1] "ozsPmORZvzd"
+[1] "o4MexXSClb"
 
 $joke
-[1] "A bartender broke up with her boyfriend, but he kept asking her for another shot."
+[1] "What did the judge say to the dentist? Do you swear to pull the tooth, the whole tooth and nothing but the tooth?"
 
 $status
 [1] 200</code></pre>
@@ -958,42 +970,42 @@ $results[[5]]$joke
 
 $results[[6]]
 $results[[6]]$id
-[1] "89MZLmWnWvc"
+[1] "GtH6E6UD5Ed"
 
 $results[[6]]$joke
-[1] "I can't take my dog to the pond anymore because the ducks keep attacking him. That's what I get for buying a pure bread dog."
+[1] "What kind of dog lives in a particle accelerator? A Fermilabrador Retriever."
 
 
 $results[[7]]
 $results[[7]]$id
-[1] "GtH6E6UD5Ed"
+[1] "obhFBljb2g"
 
 $results[[7]]$joke
-[1] "What kind of dog lives in a particle accelerator? A Fermilabrador Retriever."
+[1] "I adopted my dog from a blacksmith. As soon as we got home he made a bolt for the door."
 
 
 $results[[8]]
 $results[[8]]$id
-[1] "obhFBljb2g"
+[1] "89MZLmWnWvc"
 
 $results[[8]]$joke
-[1] "I adopted my dog from a blacksmith. As soon as we got home he made a bolt for the door."
+[1] "I can't take my dog to the pond anymore because the ducks keep attacking him. That's what I get for buying a pure bread dog."
 
 
 $results[[9]]
 $results[[9]]$id
-[1] "R7UfaahVfFd"
+[1] "71wsPKeF6h"
 
 $results[[9]]$joke
-[1] "My dog used to chase people on a bike a lot. It got so bad I had to take his bike away."
+[1] "What did the dog say to the two trees? Bark bark."
 
 
 $results[[10]]
 $results[[10]]$id
-[1] "71wsPKeF6h"
+[1] "R7UfaahVfFd"
 
 $results[[10]]$joke
-[1] "What did the dog say to the two trees? Bark bark."
+[1] "My dog used to chase people on a bike a lot. It got so bad I had to take his bike away."
 
 
 $results[[11]]
@@ -1094,11 +1106,11 @@ $results
 3  lyk3EIBQfxc
 4  DIeaUDlbUDd
 5  EBQfiyXD5ob
-6   obhFBljb2g
-7  89MZLmWnWvc
-8  GtH6E6UD5Ed
-9  R7UfaahVfFd
-10  71wsPKeF6h
+6  GtH6E6UD5Ed
+7   obhFBljb2g
+8  89MZLmWnWvc
+9   71wsPKeF6h
+10 R7UfaahVfFd
 11 sPRnOfiyAAd
 12 AQn3wPKeqrc
 13 Lmjqzsr49pb
@@ -1108,11 +1120,11 @@ $results
 3                                                                                                                                                                                             I went to the zoo the other day, there was only one dog in it. It was a shitzu.
 4                                                                                                                                                                                                                          “My Dog has no nose.” “How does he smell?” “Awful”
 5                                                                                                                                                                                                          what do you call a dog that can do magic tricks? a labracadabrador
-6                                                                                                                                                                                     I adopted my dog from a blacksmith. As soon as we got home he made a bolt for the door.
-7                                                                                                                                                I can't take my dog to the pond anymore because the ducks keep attacking him. That's what I get for buying a pure bread dog.
-8                                                                                                                                                                                                What kind of dog lives in a particle accelerator? A Fermilabrador Retriever.
-9                                                                                                                                                                                     My dog used to chase people on a bike a lot. It got so bad I had to take his bike away.
-10                                                                                                                                                                                                                          What did the dog say to the two trees? Bark bark.
+6                                                                                                                                                                                                What kind of dog lives in a particle accelerator? A Fermilabrador Retriever.
+7                                                                                                                                                                                     I adopted my dog from a blacksmith. As soon as we got home he made a bolt for the door.
+8                                                                                                                                                I can't take my dog to the pond anymore because the ducks keep attacking him. That's what I get for buying a pure bread dog.
+9                                                                                                                                                                                                                           What did the dog say to the two trees? Bark bark.
+10                                                                                                                                                                                    My dog used to chase people on a bike a lot. It got so bad I had to take his bike away.
 11                                                                                                                                              At the boxing match, the dad got into the popcorn line and the line for hot dogs, but he wanted to stay out of the punchline.
 12                                                                                                                                                                                                  It was raining cats and dogs the other day. I almost stepped in a poodle.
 13                                                                                                                                                                                            What did the Zen Buddist say to the hotdog vendor? Make me one with everything.
@@ -1156,7 +1168,7 @@ so funny data.</p>
 <button class="accordion-button solution-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSolution1" aria-expanded="false" aria-controls="collapseSolution1">
   <h4 class="accordion-header" id="headingSolution1"> Show me the solution </h4>
 </button>
-<div id="collapseSolution1" class="accordion-collapse collapse" aria-labelledby="headingSolution1" data-bs-parent="#accordionSolution1">
+<div id="collapseSolution1" class="accordion-collapse collapse" data-bs-parent="#accordionSolution1" aria-labelledby="headingSolution1">
 <div class="accordion-body">
 <div class="codewrapper sourceCode" id="cb24">
 <h3 class="code-label">R<i aria-hidden="true" data-feather="chevron-left"></i><i aria-hidden="true" data-feather="chevron-right"></i>
@@ -1193,11 +1205,11 @@ $results
 3  lyk3EIBQfxc
 4  DIeaUDlbUDd
 5  EBQfiyXD5ob
-6  89MZLmWnWvc
-7  GtH6E6UD5Ed
-8   obhFBljb2g
-9  R7UfaahVfFd
-10  71wsPKeF6h
+6  GtH6E6UD5Ed
+7   obhFBljb2g
+8  89MZLmWnWvc
+9   71wsPKeF6h
+10 R7UfaahVfFd
 11 sPRnOfiyAAd
 12 AQn3wPKeqrc
 13 Lmjqzsr49pb
@@ -1207,11 +1219,11 @@ $results
 3                                                                                                                                                                                             I went to the zoo the other day, there was only one dog in it. It was a shitzu.
 4                                                                                                                                                                                                                          “My Dog has no nose.” “How does he smell?” “Awful”
 5                                                                                                                                                                                                          what do you call a dog that can do magic tricks? a labracadabrador
-6                                                                                                                                                I can't take my dog to the pond anymore because the ducks keep attacking him. That's what I get for buying a pure bread dog.
-7                                                                                                                                                                                                What kind of dog lives in a particle accelerator? A Fermilabrador Retriever.
-8                                                                                                                                                                                     I adopted my dog from a blacksmith. As soon as we got home he made a bolt for the door.
-9                                                                                                                                                                                     My dog used to chase people on a bike a lot. It got so bad I had to take his bike away.
-10                                                                                                                                                                                                                          What did the dog say to the two trees? Bark bark.
+6                                                                                                                                                                                                What kind of dog lives in a particle accelerator? A Fermilabrador Retriever.
+7                                                                                                                                                                                     I adopted my dog from a blacksmith. As soon as we got home he made a bolt for the door.
+8                                                                                                                                                I can't take my dog to the pond anymore because the ducks keep attacking him. That's what I get for buying a pure bread dog.
+9                                                                                                                                                                                                                           What did the dog say to the two trees? Bark bark.
+10                                                                                                                                                                                    My dog used to chase people on a bike a lot. It got so bad I had to take his bike away.
 11                                                                                                                                              At the boxing match, the dad got into the popcorn line and the line for hot dogs, but he wanted to stay out of the punchline.
 12                                                                                                                                                                                                  It was raining cats and dogs the other day. I almost stepped in a poodle.
 13                                                                                                                                                                                            What did the Zen Buddist say to the hotdog vendor? Make me one with everything.
@@ -1254,7 +1266,7 @@ any links that you are not going to use.
  -->
 </section></section><section id="aio-post-statistics-denmark"><p>Content from <a href="post-statistics-denmark.html">Using POST</a></p>
 <hr>
-<p>Last updated on 2024-08-01 |
+<p>Last updated on 2024-08-02 |
 
         <a href="https://github.com/KUBDatalab/R-api_new/edit/main/episodes/post-statistics-denmark.Rmd" class="external-link">Edit this page <i aria-hidden="true" data-feather="edit"></i></a></p>
 <div class="text-end">
@@ -1418,7 +1430,7 @@ able to contain almost anything.</p>
 <h3 class="code-label">OUTPUT<i aria-hidden="true" data-feather="chevron-left"></i><i aria-hidden="true" data-feather="chevron-right"></i>
 </h3>
 <pre class="output" tabindex="0"><code>Response [https://api.statbank.dk/v1/subjects]
-  Date: 2024-08-01 13:17
+  Date: 2024-08-02 09:07
   Status: 200
   Content-Type: text/json; charset=utf-8
   Size: 884 B</code></pre>
@@ -1848,7 +1860,7 @@ any links that you are not going to use.
  -->
 </section></section><section id="aio-danstat"><p>Content from <a href="danstat.html">What about danstat?</a></p>
 <hr>
-<p>Last updated on 2024-08-01 |
+<p>Last updated on 2024-08-02 |
 
         <a href="https://github.com/KUBDatalab/R-api_new/edit/main/episodes/danstat.Rmd" class="external-link">Edit this page <i aria-hidden="true" data-feather="edit"></i></a></p>
 <div class="text-end">
@@ -2478,7 +2490,7 @@ any links that you are not going to use.
  -->
 </section></section><section id="aio-note-on-time"><p>Content from <a href="note-on-time.html">note-on-time</a></p>
 <hr>
-<p>Last updated on 2024-08-01 |
+<p>Last updated on 2024-08-02 |
 
         <a href="https://github.com/KUBDatalab/R-api_new/edit/main/episodes/note-on-time.Rmd" class="external-link">Edit this page <i aria-hidden="true" data-feather="edit"></i></a></p>
 <div class="text-end">
@@ -2775,7 +2787,568 @@ Place links that you need to refer to multiple times across pages here. Delete
 any links that you are not going to use.
  -->
 </div>
-</div></section>
+</div></section><section id="aio-ggplot2"><p>Content from <a href="ggplot2.html">ggplot2</a></p>
+<hr>
+<p>Last updated on 2024-08-02 |
+
+        <a href="https://github.com/KUBDatalab/R-api_new/edit/main/episodes/ggplot2.Rmd" class="external-link">Edit this page <i aria-hidden="true" data-feather="edit"></i></a></p>
+<div class="text-end">
+          <button role="button" aria-pressed="false" tabindex="0" id="expand-code" class="pull-right" data-expand="Expand All Solutions " data-collapse="Collapse All Solutions "> Expand All Solutions <i aria-hidden="true" data-feather="plus"></i></button>
+        </div>
+<div class="overview card">
+<h2 class="card-header">Overview</h2>
+<div class="row g-0">
+<div class="col-md-4">
+<div class="card-body">
+<div class="inner">
+<h3 class="card-title">Questions</h3>
+<ul>
+<li>“What are the components of a ggplot?”</li>
+<li>“How do I create scatterplots, boxplots, and barplots?”</li>
+<li>“How can I change the aesthetics (ex. colour, transparency) of my
+plot?”</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="col-md-8">
+<div class="card-body">
+<div class="inner bordered">
+<h3 class="card-title">Objectives</h3>
+<ul>
+<li>“Produce scatter plots, boxplots, and barplots using ggplot.”</li>
+<li>“Set universal plot settings.”</li>
+<li>“Describe what faceting is and apply faceting in ggplot.”</li>
+<li>“Modify the aesthetics of an existing ggplot plot (including axis
+labels and colour).”</li>
+<li>“Build complex and customized plots from data in a data frame.”</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<section><h2 class="section-heading" id="nice-data--how-does-it-look">Nice data. How does it look?<a class="anchor" aria-label="anchor" href="#nice-data.-how-does-it-look"></a>
+<a class="anchor" aria-label="anchor" href="#nice-data--how-does-it-look"></a>
+</h2>
+<hr class="half-width">
+<p>R has some nice plotting functions build in.</p>
+<p>ggplot2 is a package with more, nicer, plotting possibilities.</p>
+<p>We start by loading the required package.
+<strong><code>ggplot2</code></strong> is also included in the
+<strong><code>tidyverse</code></strong> package.</p>
+<div class="codewrapper sourceCode" id="cb1">
+<h3 class="code-label">R<i aria-hidden="true" data-feather="chevron-left"></i><i aria-hidden="true" data-feather="chevron-right"></i>
+</h3>
+<pre class="downlit sourceCode r">
+<code class="sourceCode R"><span><span class="kw">library</span><span class="op">(</span><span class="va">tidyverse</span><span class="op">)</span></span></code></pre>
+</div>
+<p>If not still in the workspace, load the data we saved in the previous
+lesson.</p>
+<div class="codewrapper sourceCode" id="cb2">
+<h3 class="code-label">R<i aria-hidden="true" data-feather="chevron-left"></i><i aria-hidden="true" data-feather="chevron-right"></i>
+</h3>
+<pre class="downlit sourceCode r">
+<code class="sourceCode R"><span><span class="va">SD_data</span> <span class="op">&lt;-</span> <span class="fu">read_csv2</span><span class="op">(</span><span class="st">"data/SD_data.csv"</span><span class="op">)</span></span></code></pre>
+</div>
+<div class="codewrapper">
+<h3 class="code-label">OUTPUT<i aria-hidden="true" data-feather="chevron-left"></i><i aria-hidden="true" data-feather="chevron-right"></i>
+</h3>
+<pre class="output" tabindex="0"><code>ℹ Using "','" as decimal and "'.'" as grouping mark. Use `read_delim()` for more control.</code></pre>
+</div>
+<div class="codewrapper">
+<h3 class="code-label">OUTPUT<i aria-hidden="true" data-feather="chevron-left"></i><i aria-hidden="true" data-feather="chevron-right"></i>
+</h3>
+<pre class="output" tabindex="0"><code>Rows: 27720 Columns: 4
+── Column specification ────────────────────────────────────────────────────────
+Delimiter: ";"
+chr (3): OMRÅDE, CIVILSTAND, TID
+dbl (1): INDHOLD
+
+ℹ Use `spec()` to retrieve the full column specification for this data.
+ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.</code></pre>
+</div>
+<p>We read in data from a csv-file. That is stored as text, so we need
+to convert the “TID” column to something that can be understood as time
+by R:</p>
+<div class="codewrapper sourceCode" id="cb5">
+<h3 class="code-label">R<i aria-hidden="true" data-feather="chevron-left"></i><i aria-hidden="true" data-feather="chevron-right"></i>
+</h3>
+<pre class="downlit sourceCode r">
+<code class="sourceCode R"><span><span class="va">SD_data</span> <span class="op">&lt;-</span> <span class="va">SD_data</span> <span class="op">%&gt;%</span> <span class="fu">mutate</span><span class="op">(</span>TID <span class="op">=</span> <span class="fu">yearquarter</span><span class="op">(</span><span class="va">TID</span><span class="op">)</span><span class="op">)</span></span></code></pre>
+</div>
+</section><section><h2 class="section-heading" id="plotting-with-ggplot2">Plotting with <strong><code>ggplot2</code></strong><a class="anchor" aria-label="anchor" href="#plotting-with-ggplot2"></a>
+<a class="anchor" aria-label="anchor" href="#plotting-with-ggplot2"></a>
+</h2>
+<hr class="half-width">
+<p><strong><code>ggplot2</code></strong> is a plotting package that
+makes it simple to create complex plots from data stored in a data
+frame. It provides a programmatic interface for specifying what
+variables to plot, how they are displayed, and general visual
+properties. Therefore, we only need minimal changes if the underlying
+data change or if we decide to change from a bar plot to a scatterplot.
+This helps in creating publication quality plots with minimal amounts of
+adjustments and tweaking.</p>
+<p><strong><code>ggplot2</code></strong> functions work best with data
+in the ‘long’ format, i.e., a column for every dimension, and a row for
+every observation. Well-structured data will save you lots of time when
+making figures with <strong><code>ggplot2</code></strong></p>
+<p>ggplot graphics are built step by step by adding new elements. Adding
+layers in this fashion allows for extensive flexibility and
+customization of plots.</p>
+<p>Each chart built with ggplot2 must include the following</p>
+<ul>
+<li><p>Data<br></p></li>
+<li>
+<p>Aesthetic mapping (aes)</p>
+<ul>
+<li>Describes how variables are mapped onto graphical attributes<br>
+</li>
+<li>Visual attribute of data including x-y axes, color, fill, shape, and
+alpha<br>
+</li>
+</ul>
+</li>
+<li>
+<p>Geometric objects (geom)</p>
+<ul>
+<li>Determines how values are rendered graphically, as bars
+(<code>geom_bar</code>), scatterplot (<code>geom_point</code>), line
+(<code>geom_line</code>), etc.</li>
+</ul>
+</li>
+</ul>
+<p>Thus, the template for graphic in ggplot2 is:</p>
+<pre><code>&lt;DATA&gt; %&gt;%
+    ggplot(aes(&lt;MAPPINGS&gt;)) +
+    &lt;GEOM_FUNCTION&gt;()</code></pre>
+<p>Remember from the last lesson that the pipe operator
+<code>%&gt;%</code> places the result of the previous line(s) into the
+first argument of the function. <strong><code>ggplot</code></strong> is
+a function that expects a data frame to be the first argument. This
+allows for us to change from specifying the <code>data =</code> argument
+within the <code>ggplot</code> function and instead pipe the data into
+the function.</p>
+<ul>
+<li>use the <code>ggplot()</code> function and bind the plot to a
+specific data frame.</li>
+</ul>
+<div class="codewrapper sourceCode" id="cb7">
+<h3 class="code-label">R<i aria-hidden="true" data-feather="chevron-left"></i><i aria-hidden="true" data-feather="chevron-right"></i>
+</h3>
+<pre class="downlit sourceCode r">
+<code class="sourceCode R"><span><span class="va">SD_data</span> <span class="op">%&gt;%</span></span>
+<span>    <span class="fu">ggplot</span><span class="op">(</span><span class="op">)</span></span></code></pre>
+</div>
+<ul>
+<li>define a mapping (using the aesthetic (<code>aes</code>) function),
+by selecting the variables to be plotted and specifying how to present
+them in the graph, e.g. as x/y positions or characteristics such as
+size, shape, color, etc.</li>
+</ul>
+<div class="codewrapper sourceCode" id="cb8">
+<h3 class="code-label">R<i aria-hidden="true" data-feather="chevron-left"></i><i aria-hidden="true" data-feather="chevron-right"></i>
+</h3>
+<pre class="downlit sourceCode r">
+<code class="sourceCode R"><span><span class="va">SD_data</span> <span class="op">%&gt;%</span></span>
+<span>    <span class="fu">ggplot</span><span class="op">(</span><span class="fu">aes</span><span class="op">(</span>x <span class="op">=</span> <span class="va">TID</span>, y <span class="op">=</span> <span class="va">INDHOLD</span><span class="op">)</span><span class="op">)</span></span></code></pre>
+</div>
+<ul>
+<li>
+<p>add ‘geoms’ – graphical representations of the data in the plot
+(points, lines, bars). <strong><code>ggplot2</code></strong> offers many
+different geoms; we will use some common ones today, including:</p>
+<ul>
+<li>
+<code>geom_point()</code> for scatter plots, dot plots, etc.</li>
+<li>
+<code>geom_boxplot()</code> for, well, boxplots!</li>
+<li>
+<code>geom_line()</code> for trend lines, time series, etc.</li>
+</ul>
+</li>
+</ul>
+<p>To add a geom to the plot use the <code>+</code> operator. Because we
+have two continuous variables, let’s use <code>geom_point()</code>
+first:</p>
+<div class="codewrapper sourceCode" id="cb9">
+<h3 class="code-label">R<i aria-hidden="true" data-feather="chevron-left"></i><i aria-hidden="true" data-feather="chevron-right"></i>
+</h3>
+<pre class="downlit sourceCode r">
+<code class="sourceCode R"><span><span class="va">SD_data</span> <span class="op">%&gt;%</span></span>
+<span>    <span class="fu">ggplot</span><span class="op">(</span><span class="fu">aes</span><span class="op">(</span>x <span class="op">=</span> <span class="va">TID</span>, y <span class="op">=</span> <span class="va">INDHOLD</span><span class="op">)</span><span class="op">)</span> <span class="op">+</span></span>
+<span>    <span class="fu">geom_point</span><span class="op">(</span><span class="op">)</span></span></code></pre>
+</div>
+<p><img src="fig/ggplot2-rendered-first-ggplot-1.png" style="display: block; margin: auto;" class="figure">
+What we might note that the fact that we have ALL the municipalites
+leads to a LOT of points.</p>
+<p>We could have done that when we extracted the data from Statistics
+Denmark. Alternatively we can do it now. Let us pull out all the
+regions.</p>
+<div class="codewrapper sourceCode" id="cb10">
+<h3 class="code-label">R<i aria-hidden="true" data-feather="chevron-left"></i><i aria-hidden="true" data-feather="chevron-right"></i>
+</h3>
+<pre class="downlit sourceCode r">
+<code class="sourceCode R"><span><span class="va">plot_data</span> <span class="op">&lt;-</span> <span class="va">SD_data</span> <span class="op">%&gt;%</span> </span>
+<span>  <span class="fu">filter</span><span class="op">(</span><span class="fu">str_detect</span><span class="op">(</span><span class="va">OMRÅDE</span>, <span class="st">"Region"</span><span class="op">)</span><span class="op">)</span></span></code></pre>
+</div>
+<p>We use the filter function - we have seen before. And it returns the
+rows in the data where the expression we write in the paranthesis is
+true.</p>
+<p>From the package “stringr”, included in the tidyverse package, we get
+the function str_detect().</p>
+<p>It detects if the string “Region” is present in the variable OMRÅDE.
+If it is, “Region” is detected, the expression is true, and filter()
+leaves the row.</p>
+<p>Back to <strong><code>ggplot2</code></strong></p>
+<p>The <code>+</code> in the <strong><code>ggplot2</code></strong>
+package is particularly useful because it allows you to modify existing
+<code>ggplot</code> objects. This means you can easily set up plot
+templates and conveniently explore different types of plots, so the
+above plot can also be generated with code like this, similar to the
+“intermediate steps” approach in the previous lesson. We are now
+plotting the plot_data dataframe instead:</p>
+<div class="codewrapper sourceCode" id="cb11">
+<h3 class="code-label">R<i aria-hidden="true" data-feather="chevron-left"></i><i aria-hidden="true" data-feather="chevron-right"></i>
+</h3>
+<pre class="downlit sourceCode r">
+<code class="sourceCode R"><span><span class="co"># Assign plot to a variable</span></span>
+<span><span class="va">data_plot</span> <span class="op">&lt;-</span> <span class="va">plot_data</span> <span class="op">%&gt;%</span></span>
+<span>    <span class="fu">ggplot</span><span class="op">(</span><span class="fu">aes</span><span class="op">(</span>x <span class="op">=</span> <span class="va">TID</span>, y <span class="op">=</span> <span class="va">INDHOLD</span><span class="op">)</span><span class="op">)</span></span>
+<span></span>
+<span><span class="co"># Draw the plot as a dot plot</span></span>
+<span><span class="va">data_plot</span> <span class="op">+</span></span>
+<span>    <span class="fu">geom_point</span><span class="op">(</span><span class="op">)</span></span></code></pre>
+</div>
+<p><img src="fig/ggplot2-rendered-first-ggplot-with-plus-1.png" style="display: block; margin: auto;" class="figure">
+A lot better.</p>
+<div id="notes" class="callout">
+<div class="callout-square">
+<i class="callout-icon" data-feather="bell"></i>
+</div>
+<div id="notes" class="callout-inner">
+<h3 class="callout-title">Notes<a class="anchor" aria-label="anchor" href="#notes"></a>
+</h3>
+<div class="callout-content">
+<ul>
+<li>Anything you put in the <code>ggplot()</code> function can be seen
+by any geom layers that you add (i.e., these are universal plot
+settings). This includes the x- and y-axis mapping you set up in
+<code>aes()</code>.</li>
+<li>You can also specify mappings for a given geom independently of the
+mapping defined globally in the <code>ggplot()</code> function.</li>
+<li>The <code>+</code> sign used to add new layers must be placed at the
+end of the line containing the <em>previous</em> layer. If, instead, the
+<code>+</code> sign is added at the beginning of the line containing the
+new layer, <strong><code>ggplot2</code></strong> will not add the new
+layer and will return an error message.</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="codewrapper sourceCode" id="cb12">
+<h3 class="code-label">R<i aria-hidden="true" data-feather="chevron-left"></i><i aria-hidden="true" data-feather="chevron-right"></i>
+</h3>
+<pre class="downlit sourceCode r">
+<code class="sourceCode R"><span><span class="co">## This is the correct syntax for adding layers</span></span>
+<span><span class="va">data_plot</span> <span class="op">+</span></span>
+<span>    <span class="fu">geom_point</span><span class="op">(</span><span class="op">)</span></span>
+<span></span>
+<span><span class="co">## This will not add the new layer and will return an error message</span></span>
+<span><span class="va">data_plot</span></span>
+<span><span class="op">+</span> <span class="fu">geom_point</span><span class="op">(</span><span class="op">)</span></span></code></pre>
+</div>
+</section><section><h2 class="section-heading" id="building-your-plots-iteratively">Building your plots iteratively<a class="anchor" aria-label="anchor" href="#building-your-plots-iteratively"></a>
+<a class="anchor" aria-label="anchor" href="#building-your-plots-iteratively"></a>
+</h2>
+<hr class="half-width">
+<p>Building plots with <strong><code>ggplot2</code></strong> is
+typically an iterative process. We start by defining the dataset we’ll
+use, lay out the axes, and choose a geom:</p>
+<div class="codewrapper sourceCode" id="cb13">
+<h3 class="code-label">R<i aria-hidden="true" data-feather="chevron-left"></i><i aria-hidden="true" data-feather="chevron-right"></i>
+</h3>
+<pre class="downlit sourceCode r">
+<code class="sourceCode R"><span><span class="va">plot_data</span> <span class="op">%&gt;%</span></span>
+<span>    <span class="fu">ggplot</span><span class="op">(</span><span class="fu">aes</span><span class="op">(</span>x <span class="op">=</span> <span class="va">TID</span>, y <span class="op">=</span> <span class="va">INDHOLD</span><span class="op">)</span><span class="op">)</span> <span class="op">+</span></span>
+<span>    <span class="fu">geom_point</span><span class="op">(</span><span class="op">)</span></span></code></pre>
+</div>
+<figure><img src="fig/ggplot2-rendered-create-ggplot-object-1.png" style="display: block; margin: auto;" class="figure mx-auto d-block"></figure><p>Then, we start modifying this plot to extract more information from
+it. We might want to color the points, based on the marriage status.</p>
+<p>We place the color argument within the aes() function, because we
+want to map the values in “CIVILSTAND” to the</p>
+<div class="codewrapper sourceCode" id="cb14">
+<h3 class="code-label">R<i aria-hidden="true" data-feather="chevron-left"></i><i aria-hidden="true" data-feather="chevron-right"></i>
+</h3>
+<pre class="downlit sourceCode r">
+<code class="sourceCode R"><span><span class="va">plot_data</span> <span class="op">%&gt;%</span></span>
+<span>    <span class="fu">ggplot</span><span class="op">(</span><span class="fu">aes</span><span class="op">(</span>x <span class="op">=</span> <span class="va">TID</span>, y <span class="op">=</span> <span class="va">INDHOLD</span>, color <span class="op">=</span> <span class="va">CIVILSTAND</span><span class="op">)</span><span class="op">)</span> <span class="op">+</span></span>
+<span>    <span class="fu">geom_point</span><span class="op">(</span><span class="op">)</span></span></code></pre>
+</div>
+<figure><img src="fig/ggplot2-rendered-adding-colors-1.png" style="display: block; margin: auto;" class="figure mx-auto d-block"></figure><p>To colour each marriage status in the plot differently, you could use
+a vector as an input to the argument
+<strong><code>color</code></strong>. However, because we are now mapping
+features of the data to a colour, instead of setting one colour for all
+points, the colour of the points now needs to be set inside a call to
+the <strong><code>aes</code></strong> function. When we map a variable
+in our data to the colour of the points,
+<strong><code>ggplot2</code></strong> will provide a different colour
+corresponding to the different values of the variable. We will continue
+to specify the value of <strong><code>alpha</code></strong>,
+<strong><code>width</code></strong>, and
+<strong><code>height</code></strong> outside of the
+<strong><code>aes</code></strong> function because we are using the same
+value for every point. ggplot2 understands both the Commonwealth English
+and American English spellings for colour, i.e., you can use either
+<code>color</code> or <code>colour</code>. The plot aboge is an example
+where we color points by the <strong><code>CIVILSTAND</code></strong> of
+the observation.</p>
+</section><section><h2 class="section-heading" id="faceting">Faceting<a class="anchor" aria-label="anchor" href="#faceting"></a>
+<a class="anchor" aria-label="anchor" href="#faceting"></a>
+</h2>
+<hr class="half-width">
+<p>We still have a lot of information Rather than creating a single plot
+with points for each region, we may want to create multiple plot, where
+each plot shows the data for a single region.</p>
+<p><strong><code>ggplot2</code></strong> has a special technique called
+<em>faceting</em> that allows the user to split one plot into multiple
+plots based on a factor included in the dataset. We will use it to split
+our plot of <strong>CIVILSTAND</strong> against time, by
+<strong>OMRÅDE</strong>, so each region has its own panel in a
+multi-panel plot:</p>
+<div class="codewrapper sourceCode" id="cb15">
+<h3 class="code-label">R<i aria-hidden="true" data-feather="chevron-left"></i><i aria-hidden="true" data-feather="chevron-right"></i>
+</h3>
+<pre class="downlit sourceCode r">
+<code class="sourceCode R"><span><span class="va">plot_data</span> <span class="op">%&gt;%</span></span>
+<span>    <span class="fu">ggplot</span><span class="op">(</span><span class="fu">aes</span><span class="op">(</span>x <span class="op">=</span> <span class="va">TID</span>, y <span class="op">=</span> <span class="va">INDHOLD</span>, color <span class="op">=</span> <span class="va">CIVILSTAND</span><span class="op">)</span><span class="op">)</span> <span class="op">+</span></span>
+<span>    <span class="fu">geom_point</span><span class="op">(</span><span class="op">)</span> <span class="op">+</span></span>
+<span>    <span class="fu">facet_wrap</span><span class="op">(</span><span class="op">~</span><span class="va">OMRÅDE</span><span class="op">)</span></span></code></pre>
+</div>
+<figure><img src="fig/ggplot2-rendered-barplot-faceting-1.png" style="display: block; margin: auto;" class="figure mx-auto d-block"></figure><p>Click the “Zoom” button in your RStudio plots pane to view a larger
+version of this plot.</p>
+</section><section><h2 class="section-heading" id="boxplot">Boxplot<a class="anchor" aria-label="anchor" href="#boxplot"></a>
+<a class="anchor" aria-label="anchor" href="#boxplot"></a>
+</h2>
+<hr class="half-width">
+<p>We can use boxplots to visualize the distribution of observations for
+each <strong>CIVILSTAND</strong>:</p>
+<div class="codewrapper sourceCode" id="cb16">
+<h3 class="code-label">R<i aria-hidden="true" data-feather="chevron-left"></i><i aria-hidden="true" data-feather="chevron-right"></i>
+</h3>
+<pre class="downlit sourceCode r">
+<code class="sourceCode R"><span><span class="va">plot_data</span> <span class="op">%&gt;%</span></span>
+<span>    <span class="fu">ggplot</span><span class="op">(</span><span class="fu">aes</span><span class="op">(</span>x <span class="op">=</span> <span class="va">CIVILSTAND</span>, y <span class="op">=</span> <span class="va">INDHOLD</span><span class="op">)</span><span class="op">)</span> <span class="op">+</span></span>
+<span>    <span class="fu">geom_boxplot</span><span class="op">(</span><span class="op">)</span></span></code></pre>
+</div>
+<p><img src="fig/ggplot2-rendered-boxplot-1.png" style="display: block; margin: auto;" class="figure">
+Let us be frank - a boxplot of these aggregated data is not really that
+useful. Boxplots are however so useful, that it is relevant to show how
+they are made.</p>
+<p>By adding points to a boxplot, we can have a better idea of the
+number of measurements and of their distribution:</p>
+<div class="codewrapper sourceCode" id="cb17">
+<h3 class="code-label">R<i aria-hidden="true" data-feather="chevron-left"></i><i aria-hidden="true" data-feather="chevron-right"></i>
+</h3>
+<pre class="downlit sourceCode r">
+<code class="sourceCode R"><span><span class="va">plot_data</span> <span class="op">%&gt;%</span></span>
+<span>    <span class="fu">ggplot</span><span class="op">(</span><span class="fu">aes</span><span class="op">(</span>x <span class="op">=</span> <span class="va">CIVILSTAND</span>, y <span class="op">=</span> <span class="va">INDHOLD</span><span class="op">)</span><span class="op">)</span> <span class="op">+</span></span>
+<span>    <span class="fu">geom_boxplot</span><span class="op">(</span><span class="op">)</span> <span class="op">+</span></span>
+<span>    <span class="fu">geom_jitter</span><span class="op">(</span>alpha <span class="op">=</span> <span class="fl">0.5</span>,</span>
+<span>        color <span class="op">=</span> <span class="st">"tomato"</span>,</span>
+<span>        width <span class="op">=</span> <span class="fl">0.2</span>,</span>
+<span>        height <span class="op">=</span> <span class="fl">0.2</span><span class="op">)</span></span></code></pre>
+</div>
+<p><img src="fig/ggplot2-rendered-boxplot-with-jitter-1.png" style="display: block; margin: auto;" class="figure">
+Jitter is a special way of plotting points. When we plot the points at
+their exact location, we risk that some of the points overlap.
+geom_jitter adds a small bit of noise to the data, in order to spread
+them out. That way we can better see individual points.</p>
+<p>Notice how the boxplot layer is behind the jitter layer? What do you
+need to change in the code to put the boxplot in behind the points such
+that it’s not hidden?</p>
+</section><section><h2 class="section-heading" id="barplots">Barplots<a class="anchor" aria-label="anchor" href="#barplots"></a>
+<a class="anchor" aria-label="anchor" href="#barplots"></a>
+</h2>
+<hr class="half-width">
+<p>Barplots are also useful for visualizing categorical data. By
+default, <code>geom_bar</code> accepts a variable for x, and plots the
+number of instances each value of x (in this case, wall type) appears in
+the dataset.</p>
+<div class="codewrapper sourceCode" id="cb18">
+<h3 class="code-label">R<i aria-hidden="true" data-feather="chevron-left"></i><i aria-hidden="true" data-feather="chevron-right"></i>
+</h3>
+<pre class="downlit sourceCode r">
+<code class="sourceCode R"><span><span class="va">plot_data</span> <span class="op">%&gt;%</span></span>
+<span>    <span class="fu">ggplot</span><span class="op">(</span><span class="fu">aes</span><span class="op">(</span>x <span class="op">=</span> <span class="va">CIVILSTAND</span><span class="op">)</span><span class="op">)</span> <span class="op">+</span></span>
+<span>    <span class="fu">geom_bar</span><span class="op">(</span><span class="op">)</span></span></code></pre>
+</div>
+<figure><img src="fig/ggplot2-rendered-barplot-1-1.png" style="display: block; margin: auto;" class="figure mx-auto d-block"></figure><p>We have an equal number of datapoints for each value of “CIVILSTAND”.
+Not that useful.</p>
+<p>Rather than using the default “count” of values, we can use the
+values directly. In that case, we need to provide both the x- and the
+y-values; ggplot does not calculate them!</p>
+<div class="codewrapper sourceCode" id="cb19">
+<h3 class="code-label">R<i aria-hidden="true" data-feather="chevron-left"></i><i aria-hidden="true" data-feather="chevron-right"></i>
+</h3>
+<pre class="downlit sourceCode r">
+<code class="sourceCode R"><span><span class="va">plot_data</span> <span class="op">%&gt;%</span> <span class="fu">ggplot</span><span class="op">(</span><span class="fu">aes</span><span class="op">(</span><span class="va">CIVILSTAND</span>, <span class="va">INDHOLD</span><span class="op">)</span><span class="op">)</span> <span class="op">+</span></span>
+<span>  <span class="fu">geom_bar</span><span class="op">(</span>stat<span class="op">=</span><span class="st">"identity"</span><span class="op">)</span></span></code></pre>
+</div>
+<p><img src="fig/ggplot2-rendered-barplot-identity-1.png" style="display: block; margin: auto;" class="figure">
+Now we get the values from INDHOLD plotted on the y-axis. But we get ALL
+the values from INDHOLD plotted. And we have INDHOLD from several years,
+from several administrative parts of Denmark.</p>
+<p>Let us filter the data.</p>
+<p>str_detect(OMRÅDE, “Region”) picks out the rows containing the text
+“Region”.</p>
+<p>TID == yearquarter(“2008 Q1”) picks out the rows containing data from
+the first quarter of 2008. Note that we have to convert “2008 Q1” to the
+same datatype as is contained in the columns, using the yearquarter()
+function.</p>
+<div class="codewrapper sourceCode" id="cb20">
+<h3 class="code-label">R<i aria-hidden="true" data-feather="chevron-left"></i><i aria-hidden="true" data-feather="chevron-right"></i>
+</h3>
+<pre class="downlit sourceCode r">
+<code class="sourceCode R"><span><span class="va">plot_data</span> <span class="op">%&gt;%</span> </span>
+<span>  <span class="fu">filter</span><span class="op">(</span><span class="fu">str_detect</span><span class="op">(</span><span class="va">OMRÅDE</span>, <span class="st">"Region"</span><span class="op">)</span>,</span>
+<span>         <span class="va">TID</span> <span class="op">==</span> <span class="fu">yearquarter</span><span class="op">(</span><span class="st">"2008 Q1"</span><span class="op">)</span><span class="op">)</span> <span class="op">%&gt;%</span> </span>
+<span>  <span class="fu">ggplot</span><span class="op">(</span><span class="fu">aes</span><span class="op">(</span><span class="va">CIVILSTAND</span>, <span class="va">INDHOLD</span><span class="op">)</span><span class="op">)</span> <span class="op">+</span></span>
+<span>  <span class="fu">geom_bar</span><span class="op">(</span>stat<span class="op">=</span> <span class="st">"identity"</span><span class="op">)</span></span></code></pre>
+</div>
+<p><img src="fig/ggplot2-rendered-barplot-quarters-1.png" style="display: block; margin: auto;" class="figure">
+Now we get more sensible numbers. But each bar is still the sum of the
+number of divorced persons in ALL the regions.</p>
+<p>We can color bars by region:</p>
+<div class="codewrapper sourceCode" id="cb21">
+<h3 class="code-label">R<i aria-hidden="true" data-feather="chevron-left"></i><i aria-hidden="true" data-feather="chevron-right"></i>
+</h3>
+<pre class="downlit sourceCode r">
+<code class="sourceCode R"><span><span class="va">plot_data</span> <span class="op">%&gt;%</span> </span>
+<span>  <span class="fu">filter</span><span class="op">(</span><span class="fu">str_detect</span><span class="op">(</span><span class="va">OMRÅDE</span>, <span class="st">"Region"</span><span class="op">)</span>,</span>
+<span>         <span class="va">TID</span> <span class="op">==</span> <span class="fu">yearquarter</span><span class="op">(</span><span class="st">"2008 Q1"</span><span class="op">)</span><span class="op">)</span> <span class="op">%&gt;%</span> </span>
+<span>  <span class="fu">ggplot</span><span class="op">(</span><span class="fu">aes</span><span class="op">(</span><span class="va">CIVILSTAND</span>, <span class="va">INDHOLD</span>, color<span class="op">=</span><span class="va">OMRÅDE</span><span class="op">)</span><span class="op">)</span> <span class="op">+</span></span>
+<span>  <span class="fu">geom_bar</span><span class="op">(</span>stat<span class="op">=</span> <span class="st">"identity"</span><span class="op">)</span></span></code></pre>
+</div>
+<p><img src="fig/ggplot2-rendered-color-by-region-1.png" style="display: block; margin: auto;" class="figure">
+Oops! Color only colors the outline of the bars. We can do better.</p>
+<p>We can use the <code>fill</code> aesthetic for the
+<code>geom_bar()</code> geom to colour bars by the portion of each count
+that is from each OMRÅDE.</p>
+<div class="codewrapper sourceCode" id="cb22">
+<h3 class="code-label">R<i aria-hidden="true" data-feather="chevron-left"></i><i aria-hidden="true" data-feather="chevron-right"></i>
+</h3>
+<pre class="downlit sourceCode r">
+<code class="sourceCode R"><span><span class="va">plot_data</span> <span class="op">%&gt;%</span> </span>
+<span>  <span class="fu">filter</span><span class="op">(</span><span class="fu">str_detect</span><span class="op">(</span><span class="va">OMRÅDE</span>, <span class="st">"Region"</span><span class="op">)</span>,</span>
+<span>         <span class="va">TID</span> <span class="op">==</span> <span class="fu">yearquarter</span><span class="op">(</span><span class="st">"2008 Q1"</span><span class="op">)</span><span class="op">)</span> <span class="op">%&gt;%</span> </span>
+<span>  <span class="fu">ggplot</span><span class="op">(</span><span class="fu">aes</span><span class="op">(</span><span class="va">CIVILSTAND</span>, <span class="va">INDHOLD</span>, fill<span class="op">=</span><span class="va">OMRÅDE</span><span class="op">)</span><span class="op">)</span> <span class="op">+</span></span>
+<span>  <span class="fu">geom_bar</span><span class="op">(</span>stat<span class="op">=</span> <span class="st">"identity"</span><span class="op">)</span></span></code></pre>
+</div>
+<figure><img src="fig/ggplot2-rendered-fill-vs-color-1.png" style="display: block; margin: auto;" class="figure mx-auto d-block"></figure><p>This creates a stacked bar chart. These are generally more difficult
+to read than side-by-side bars. We can separate the portions of the
+stacked bar that correspond to each OMRÅDE and put them side-by-side by
+using the <code>position</code> argument for <code>geom_bar()</code> and
+setting it to “dodge”.</p>
+<div class="codewrapper sourceCode" id="cb23">
+<h3 class="code-label">R<i aria-hidden="true" data-feather="chevron-left"></i><i aria-hidden="true" data-feather="chevron-right"></i>
+</h3>
+<pre class="downlit sourceCode r">
+<code class="sourceCode R"><span><span class="va">plot_data</span> <span class="op">%&gt;%</span> </span>
+<span>  <span class="fu">filter</span><span class="op">(</span><span class="fu">str_detect</span><span class="op">(</span><span class="va">OMRÅDE</span>, <span class="st">"Region"</span><span class="op">)</span>,</span>
+<span>         <span class="va">TID</span> <span class="op">==</span> <span class="fu">yearquarter</span><span class="op">(</span><span class="st">"2008 Q1"</span><span class="op">)</span><span class="op">)</span> <span class="op">%&gt;%</span> </span>
+<span>  <span class="fu">ggplot</span><span class="op">(</span><span class="fu">aes</span><span class="op">(</span><span class="va">CIVILSTAND</span>, <span class="va">INDHOLD</span>, fill<span class="op">=</span><span class="va">OMRÅDE</span><span class="op">)</span><span class="op">)</span> <span class="op">+</span></span>
+<span>  <span class="fu">geom_bar</span><span class="op">(</span>stat<span class="op">=</span> <span class="st">"identity"</span>, position <span class="op">=</span> <span class="st">"dodge"</span><span class="op">)</span></span></code></pre>
+</div>
+<figure><img src="fig/ggplot2-rendered-dodge-1.png" style="display: block; margin: auto;" class="figure mx-auto d-block"></figure></section><section><h2 class="section-heading" id="adding-labels-and-titles">Adding Labels and Titles<a class="anchor" aria-label="anchor" href="#adding-labels-and-titles"></a>
+<a class="anchor" aria-label="anchor" href="#adding-labels-and-titles"></a>
+</h2>
+<hr class="half-width">
+<p>By default, the axes labels on a plot are determined by the name of
+the variable being plotted. However,
+<strong><code>ggplot2</code></strong> offers lots of customization
+options, like specifying the axes labels, and adding a title to the plot
+with relatively few lines of code. We will add more informative x-and
+y-axis labels to our plot, a more explanatory label to the legend, and a
+plot title.</p>
+<p>The <code>labs</code> function takes the following arguments:</p>
+<ul>
+<li>
+<code>title</code> – to produce a plot title</li>
+<li>
+<code>subtitle</code> – to produce a plot subtitle (smaller text
+placed beneath the title)</li>
+<li>
+<code>caption</code> – a caption for the plot</li>
+<li>
+<code>...</code> – any pair of name and value for aesthetics used in
+the plot (e.g., <code>x</code>, <code>y</code>, <code>fill</code>,
+<code>color</code>, <code>size</code>)</li>
+</ul>
+<div class="codewrapper sourceCode" id="cb24">
+<h3 class="code-label">R<i aria-hidden="true" data-feather="chevron-left"></i><i aria-hidden="true" data-feather="chevron-right"></i>
+</h3>
+<pre class="downlit sourceCode r">
+<code class="sourceCode R"><span><span class="va">plot_data</span> <span class="op">%&gt;%</span> </span>
+<span>  <span class="fu">filter</span><span class="op">(</span><span class="fu">str_detect</span><span class="op">(</span><span class="va">OMRÅDE</span>, <span class="st">"Region"</span><span class="op">)</span>,</span>
+<span>         <span class="va">TID</span> <span class="op">==</span> <span class="fu">yearquarter</span><span class="op">(</span><span class="st">"2008 Q1"</span><span class="op">)</span><span class="op">)</span> <span class="op">%&gt;%</span> </span>
+<span>  <span class="fu">ggplot</span><span class="op">(</span><span class="fu">aes</span><span class="op">(</span><span class="va">CIVILSTAND</span>, <span class="va">INDHOLD</span>, fill<span class="op">=</span><span class="va">OMRÅDE</span><span class="op">)</span><span class="op">)</span> <span class="op">+</span></span>
+<span>  <span class="fu">geom_bar</span><span class="op">(</span>stat<span class="op">=</span> <span class="st">"identity"</span>, position <span class="op">=</span> <span class="st">"dodge"</span><span class="op">)</span> <span class="op">+</span></span>
+<span>  <span class="fu">labs</span><span class="op">(</span>title <span class="op">=</span> <span class="st">"Civilstand by region"</span>,</span>
+<span>       subtitle <span class="op">=</span> <span class="st">"First quarter of 2008"</span>,</span>
+<span>       x <span class="op">=</span> <span class="st">"Region"</span>,</span>
+<span>       y <span class="op">=</span> <span class="st">"Number"</span>,</span>
+<span>       caption <span class="op">=</span> <span class="st">"Pattern appears similar between the regions. Data from Statistics Denmark"</span><span class="op">)</span></span></code></pre>
+</div>
+<figure><img src="fig/ggplot2-rendered-labels-demo-1.png" style="display: block; margin: auto;" class="figure mx-auto d-block"></figure><p>Usually plots with white background look more readable when printed.
+We can set the background to white using the function
+<code>theme_bw()</code>. Additionally, you can remove the grid:</p>
+<div class="codewrapper sourceCode" id="cb25">
+<h3 class="code-label">R<i aria-hidden="true" data-feather="chevron-left"></i><i aria-hidden="true" data-feather="chevron-right"></i>
+</h3>
+<pre class="downlit sourceCode r">
+<code class="sourceCode R"><span><span class="va">plot_data</span> <span class="op">%&gt;%</span> </span>
+<span>  <span class="fu">filter</span><span class="op">(</span><span class="fu">str_detect</span><span class="op">(</span><span class="va">OMRÅDE</span>, <span class="st">"Region"</span><span class="op">)</span>,</span>
+<span>         <span class="va">TID</span> <span class="op">==</span> <span class="fu">yearquarter</span><span class="op">(</span><span class="st">"2008 Q1"</span><span class="op">)</span><span class="op">)</span> <span class="op">%&gt;%</span> </span>
+<span>  <span class="fu">ggplot</span><span class="op">(</span><span class="fu">aes</span><span class="op">(</span><span class="va">CIVILSTAND</span>, <span class="va">INDHOLD</span>, fill<span class="op">=</span><span class="va">OMRÅDE</span><span class="op">)</span><span class="op">)</span> <span class="op">+</span></span>
+<span>  <span class="fu">geom_bar</span><span class="op">(</span>stat<span class="op">=</span> <span class="st">"identity"</span>, position <span class="op">=</span> <span class="st">"dodge"</span><span class="op">)</span> <span class="op">+</span></span>
+<span>  <span class="fu">labs</span><span class="op">(</span>title <span class="op">=</span> <span class="st">"Civilstand by region"</span>,</span>
+<span>       subtitle <span class="op">=</span> <span class="st">"First quarter of 2008"</span>,</span>
+<span>       x <span class="op">=</span> <span class="st">"Region"</span>,</span>
+<span>       y <span class="op">=</span> <span class="st">"Number"</span>,</span>
+<span>       caption <span class="op">=</span> <span class="st">"Pattern appears similar between the regions. Data from Statistics Denmark"</span><span class="op">)</span> <span class="op">+</span></span>
+<span>    <span class="fu">theme_bw</span><span class="op">(</span><span class="op">)</span> <span class="op">+</span></span>
+<span>    <span class="fu">theme</span><span class="op">(</span>panel.grid <span class="op">=</span> <span class="fu">element_blank</span><span class="op">(</span><span class="op">)</span><span class="op">)</span></span></code></pre>
+</div>
+<figure><img src="fig/ggplot2-rendered-barplot-theme-bw-1.png" style="display: block; margin: auto;" class="figure mx-auto d-block"></figure><div id="keypoints1" class="callout keypoints">
+<div class="callout-square">
+<i class="callout-icon" data-feather="key"></i>
+</div>
+<div class="callout-inner">
+<h3 class="callout-title">Key Points<a class="anchor" aria-label="anchor" href="#keypoints1"></a>
+</h3>
+<div class="callout-content">
+<ul>
+<li>“<code>ggplot2</code> is a flexible and useful tool for creating
+plots in R.”</li>
+<li>“The data set and coordinate system can be defined using the
+<code>ggplot</code> function.”</li>
+<li>“Additional layers, including geoms, are added using the
+<code>+</code> operator.”</li>
+<li>“Boxplots are useful for visualizing the distribution of a
+continuous variable.”</li>
+<li>“Barplots are useful for visualizing categorical data.”</li>
+<li>“Faceting allows you to generate multiple plots based on a
+categorical variable.”</li>
+</ul>
+</div>
+</div>
+</div>
+<!--
+Place links that you need to refer to multiple times across pages here. Delete
+any links that you are not going to use.
+ -->
+</section></section>
 </div>
     </main>
 </div>
@@ -2823,8 +3396,8 @@ any links that you are not going to use.
   "url": "https://KUBDatalab.github.io/R-api_new/aio.html",
   "identifier": "https://KUBDatalab.github.io/R-api_new/aio.html",
   "dateCreated": "2024-07-29",
-  "dateModified": "2024-08-01",
-  "datePublished": "2024-08-01"
+  "dateModified": "2024-08-02",
+  "datePublished": "2024-08-02"
 }
 
   </script><script>
