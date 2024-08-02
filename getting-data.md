@@ -53,10 +53,10 @@ GET("https://icanhazdadjoke.com/")
 
 ``` output
 Response [https://icanhazdadjoke.com/]
-  Date: 2024-08-01 13:17
+  Date: 2024-08-02 09:07
   Status: 200
   Content-Type: text/html; charset=utf-8
-  Size: 9.83 kB
+  Size: 9.8 kB
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -95,10 +95,10 @@ result
 
 ``` output
 Response [https://icanhazdadjoke.com/]
-  Date: 2024-08-01 13:17
+  Date: 2024-08-02 09:07
   Status: 200
   Content-Type: text/plain
-  Size: 71 B
+  Size: 102 B
 ```
 We still get the response from the server, telling us that Status is 200, and
 everything is OK. But where is our dad-joke?
@@ -116,7 +116,7 @@ No encoding supplied: defaulting to UTF-8.
 ```
 
 ``` output
-[1] "New atoms frequently lose electrons when they fail to keep an ion them."
+[1] "I’ve deleted the phone numbers of all the Germans I know from my mobile phone. Now it’s Hans free."
 ```
 
 There is a little warning about the encoding of the string. But now we have a dad-joke!
@@ -168,11 +168,11 @@ result
 
 ``` output
 Response [https://icanhazdadjoke.com/]
-  Date: 2024-08-01 13:17
+  Date: 2024-08-02 09:07
   Status: 200
   Content-Type: application/json
-  Size: 125 B
-{"id":"ozsPmORZvzd","joke":"A bartender broke up with her boyfriend, but he k...
+  Size: 156 B
+{"id":"o4MexXSClb","joke":"What did the judge say to the dentist? Do you swea...
 ```
 
 Again - everything is nice and 200 = OK.
@@ -188,10 +188,10 @@ content(result)
 
 ``` output
 $id
-[1] "ozsPmORZvzd"
+[1] "o4MexXSClb"
 
 $joke
-[1] "A bartender broke up with her boyfriend, but he kept asking her for another shot."
+[1] "What did the judge say to the dentist? Do you swear to pull the tooth, the whole tooth and nothing but the tooth?"
 
 $status
 [1] 200
@@ -302,42 +302,42 @@ $results[[5]]$joke
 
 $results[[6]]
 $results[[6]]$id
-[1] "89MZLmWnWvc"
+[1] "GtH6E6UD5Ed"
 
 $results[[6]]$joke
-[1] "I can't take my dog to the pond anymore because the ducks keep attacking him. That's what I get for buying a pure bread dog."
+[1] "What kind of dog lives in a particle accelerator? A Fermilabrador Retriever."
 
 
 $results[[7]]
 $results[[7]]$id
-[1] "GtH6E6UD5Ed"
+[1] "obhFBljb2g"
 
 $results[[7]]$joke
-[1] "What kind of dog lives in a particle accelerator? A Fermilabrador Retriever."
+[1] "I adopted my dog from a blacksmith. As soon as we got home he made a bolt for the door."
 
 
 $results[[8]]
 $results[[8]]$id
-[1] "obhFBljb2g"
+[1] "89MZLmWnWvc"
 
 $results[[8]]$joke
-[1] "I adopted my dog from a blacksmith. As soon as we got home he made a bolt for the door."
+[1] "I can't take my dog to the pond anymore because the ducks keep attacking him. That's what I get for buying a pure bread dog."
 
 
 $results[[9]]
 $results[[9]]$id
-[1] "R7UfaahVfFd"
+[1] "71wsPKeF6h"
 
 $results[[9]]$joke
-[1] "My dog used to chase people on a bike a lot. It got so bad I had to take his bike away."
+[1] "What did the dog say to the two trees? Bark bark."
 
 
 $results[[10]]
 $results[[10]]$id
-[1] "71wsPKeF6h"
+[1] "R7UfaahVfFd"
 
 $results[[10]]$joke
-[1] "What did the dog say to the two trees? Bark bark."
+[1] "My dog used to chase people on a bike a lot. It got so bad I had to take his bike away."
 
 
 $results[[11]]
@@ -431,11 +431,11 @@ $results
 3  lyk3EIBQfxc
 4  DIeaUDlbUDd
 5  EBQfiyXD5ob
-6   obhFBljb2g
-7  89MZLmWnWvc
-8  GtH6E6UD5Ed
-9  R7UfaahVfFd
-10  71wsPKeF6h
+6  GtH6E6UD5Ed
+7   obhFBljb2g
+8  89MZLmWnWvc
+9   71wsPKeF6h
+10 R7UfaahVfFd
 11 sPRnOfiyAAd
 12 AQn3wPKeqrc
 13 Lmjqzsr49pb
@@ -445,11 +445,11 @@ $results
 3                                                                                                                                                                                             I went to the zoo the other day, there was only one dog in it. It was a shitzu.
 4                                                                                                                                                                                                                          “My Dog has no nose.” “How does he smell?” “Awful”
 5                                                                                                                                                                                                          what do you call a dog that can do magic tricks? a labracadabrador
-6                                                                                                                                                                                     I adopted my dog from a blacksmith. As soon as we got home he made a bolt for the door.
-7                                                                                                                                                I can't take my dog to the pond anymore because the ducks keep attacking him. That's what I get for buying a pure bread dog.
-8                                                                                                                                                                                                What kind of dog lives in a particle accelerator? A Fermilabrador Retriever.
-9                                                                                                                                                                                     My dog used to chase people on a bike a lot. It got so bad I had to take his bike away.
-10                                                                                                                                                                                                                          What did the dog say to the two trees? Bark bark.
+6                                                                                                                                                                                                What kind of dog lives in a particle accelerator? A Fermilabrador Retriever.
+7                                                                                                                                                                                     I adopted my dog from a blacksmith. As soon as we got home he made a bolt for the door.
+8                                                                                                                                                I can't take my dog to the pond anymore because the ducks keep attacking him. That's what I get for buying a pure bread dog.
+9                                                                                                                                                                                                                           What did the dog say to the two trees? Bark bark.
+10                                                                                                                                                                                    My dog used to chase people on a bike a lot. It got so bad I had to take his bike away.
 11                                                                                                                                              At the boxing match, the dad got into the popcorn line and the line for hot dogs, but he wanted to stay out of the punchline.
 12                                                                                                                                                                                                  It was raining cats and dogs the other day. I almost stepped in a poodle.
 13                                                                                                                                                                                            What did the Zen Buddist say to the hotdog vendor? Make me one with everything.
@@ -519,11 +519,11 @@ $results
 3  lyk3EIBQfxc
 4  DIeaUDlbUDd
 5  EBQfiyXD5ob
-6  89MZLmWnWvc
-7  GtH6E6UD5Ed
-8   obhFBljb2g
-9  R7UfaahVfFd
-10  71wsPKeF6h
+6  GtH6E6UD5Ed
+7   obhFBljb2g
+8  89MZLmWnWvc
+9   71wsPKeF6h
+10 R7UfaahVfFd
 11 sPRnOfiyAAd
 12 AQn3wPKeqrc
 13 Lmjqzsr49pb
@@ -533,11 +533,11 @@ $results
 3                                                                                                                                                                                             I went to the zoo the other day, there was only one dog in it. It was a shitzu.
 4                                                                                                                                                                                                                          “My Dog has no nose.” “How does he smell?” “Awful”
 5                                                                                                                                                                                                          what do you call a dog that can do magic tricks? a labracadabrador
-6                                                                                                                                                I can't take my dog to the pond anymore because the ducks keep attacking him. That's what I get for buying a pure bread dog.
-7                                                                                                                                                                                                What kind of dog lives in a particle accelerator? A Fermilabrador Retriever.
-8                                                                                                                                                                                     I adopted my dog from a blacksmith. As soon as we got home he made a bolt for the door.
-9                                                                                                                                                                                     My dog used to chase people on a bike a lot. It got so bad I had to take his bike away.
-10                                                                                                                                                                                                                          What did the dog say to the two trees? Bark bark.
+6                                                                                                                                                                                                What kind of dog lives in a particle accelerator? A Fermilabrador Retriever.
+7                                                                                                                                                                                     I adopted my dog from a blacksmith. As soon as we got home he made a bolt for the door.
+8                                                                                                                                                I can't take my dog to the pond anymore because the ducks keep attacking him. That's what I get for buying a pure bread dog.
+9                                                                                                                                                                                                                           What did the dog say to the two trees? Bark bark.
+10                                                                                                                                                                                    My dog used to chase people on a bike a lot. It got so bad I had to take his bike away.
 11                                                                                                                                              At the boxing match, the dad got into the popcorn line and the line for hot dogs, but he wanted to stay out of the punchline.
 12                                                                                                                                                                                                  It was raining cats and dogs the other day. I almost stepped in a poodle.
 13                                                                                                                                                                                            What did the Zen Buddist say to the hotdog vendor? Make me one with everything.
