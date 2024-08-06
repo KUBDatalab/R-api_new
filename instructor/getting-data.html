@@ -416,10 +416,10 @@ directly:</p>
 <h3 class="code-label">OUTPUT<i aria-hidden="true" data-feather="chevron-left"></i><i aria-hidden="true" data-feather="chevron-right"></i>
 </h3>
 <pre class="output" tabindex="0"><code>Response [https://icanhazdadjoke.com/]
-  Date: 2024-08-06 10:21
+  Date: 2024-08-06 10:29
   Status: 200
   Content-Type: text/html; charset=utf-8
-  Size: 9.81 kB
+  Size: 9.83 kB
 &lt;!DOCTYPE html&gt;
 &lt;html lang="en"&gt;
 &lt;head&gt;
@@ -458,10 +458,10 @@ want a response in just text:</p>
 <h3 class="code-label">OUTPUT<i aria-hidden="true" data-feather="chevron-left"></i><i aria-hidden="true" data-feather="chevron-right"></i>
 </h3>
 <pre class="output" tabindex="0"><code>Response [https://icanhazdadjoke.com/]
-  Date: 2024-08-06 10:21
+  Date: 2024-08-06 10:29
   Status: 200
   Content-Type: text/plain
-  Size: 71 B</code></pre>
+  Size: 64 B</code></pre>
 </div>
 <p>We still get the response from the server, telling us that Status is
 200, and everything is OK. But where is our dad-joke?</p>
@@ -482,7 +482,7 @@ binary code, so we are using the <em>content()</em> function, also from
 <div class="codewrapper">
 <h3 class="code-label">OUTPUT<i aria-hidden="true" data-feather="chevron-left"></i><i aria-hidden="true" data-feather="chevron-right"></i>
 </h3>
-<pre class="output" tabindex="0"><code>[1] "Want to hear a chimney joke? Got stacks of em! First one's on the house"</code></pre>
+<pre class="output" tabindex="0"><code>[1] "How many tickles does it take to tickle an octopus? Ten-tickles!"</code></pre>
 </div>
 <p>There is a little warning about the encoding of the string. But now
 we have a dad-joke!</p>
@@ -528,11 +528,11 @@ sets the <em>accept</em> part of the header:</p>
 <h3 class="code-label">OUTPUT<i aria-hidden="true" data-feather="chevron-left"></i><i aria-hidden="true" data-feather="chevron-right"></i>
 </h3>
 <pre class="output" tabindex="0"><code>Response [https://icanhazdadjoke.com/]
-  Date: 2024-08-06 10:21
+  Date: 2024-08-06 10:29
   Status: 200
   Content-Type: application/json
-  Size: 144 B
-{"id":"FBQK6MexPuc","joke":"My friend told me that pepper is the best seasoni...</code></pre>
+  Size: 146 B
+{"id":"EYoz51DtHtc","joke":"What do computers and air conditioners have in co...</code></pre>
 </div>
 <p>Again - everything is nice and 200 = OK.</p>
 <p>We also see a truncated version of the actual joke.</p>
@@ -547,10 +547,10 @@ sets the <em>accept</em> part of the header:</p>
 <h3 class="code-label">OUTPUT<i aria-hidden="true" data-feather="chevron-left"></i><i aria-hidden="true" data-feather="chevron-right"></i>
 </h3>
 <pre class="output" tabindex="0"><code>$id
-[1] "FBQK6MexPuc"
+[1] "EYoz51DtHtc"
 
 $joke
-[1] "My friend told me that pepper is the best seasoning for a roast, but I took it with a grain of salt."
+[1] "What do computers and air conditioners have in common? They both become useless when you open windows."
 
 $status
 [1] 200</code></pre>
@@ -633,66 +633,66 @@ $results[[2]]$joke
 
 $results[[3]]
 $results[[3]]$id
-[1] "lyk3EIBQfxc"
+[1] "GtH6E6UD5Ed"
 
 $results[[3]]$joke
-[1] "I went to the zoo the other day, there was only one dog in it. It was a shitzu."
+[1] "What kind of dog lives in a particle accelerator? A Fermilabrador Retriever."
 
 
 $results[[4]]
 $results[[4]]$id
-[1] "DIeaUDlbUDd"
+[1] "obhFBljb2g"
 
 $results[[4]]$joke
-[1] "“My Dog has no nose.” “How does he smell?” “Awful”"
+[1] "I adopted my dog from a blacksmith. As soon as we got home he made a bolt for the door."
 
 
 $results[[5]]
 $results[[5]]$id
-[1] "EBQfiyXD5ob"
+[1] "89MZLmWnWvc"
 
 $results[[5]]$joke
-[1] "what do you call a dog that can do magic tricks? a labracadabrador"
+[1] "I can't take my dog to the pond anymore because the ducks keep attacking him. That's what I get for buying a pure bread dog."
 
 
 $results[[6]]
 $results[[6]]$id
-[1] "GtH6E6UD5Ed"
+[1] "71wsPKeF6h"
 
 $results[[6]]$joke
-[1] "What kind of dog lives in a particle accelerator? A Fermilabrador Retriever."
+[1] "What did the dog say to the two trees? Bark bark."
 
 
 $results[[7]]
 $results[[7]]$id
-[1] "obhFBljb2g"
+[1] "R7UfaahVfFd"
 
 $results[[7]]$joke
-[1] "I adopted my dog from a blacksmith. As soon as we got home he made a bolt for the door."
+[1] "My dog used to chase people on a bike a lot. It got so bad I had to take his bike away."
 
 
 $results[[8]]
 $results[[8]]$id
-[1] "89MZLmWnWvc"
+[1] "lyk3EIBQfxc"
 
 $results[[8]]$joke
-[1] "I can't take my dog to the pond anymore because the ducks keep attacking him. That's what I get for buying a pure bread dog."
+[1] "I went to the zoo the other day, there was only one dog in it. It was a shitzu."
 
 
 $results[[9]]
 $results[[9]]$id
-[1] "71wsPKeF6h"
+[1] "DIeaUDlbUDd"
 
 $results[[9]]$joke
-[1] "What did the dog say to the two trees? Bark bark."
+[1] "“My Dog has no nose.” “How does he smell?” “Awful”"
 
 
 $results[[10]]
 $results[[10]]$id
-[1] "R7UfaahVfFd"
+[1] "EBQfiyXD5ob"
 
 $results[[10]]$joke
-[1] "My dog used to chase people on a bike a lot. It got so bad I had to take his bike away."
+[1] "what do you call a dog that can do magic tricks? a labracadabrador"
 
 
 $results[[11]]
