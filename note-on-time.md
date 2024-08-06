@@ -1,5 +1,5 @@
 ---
-title: 'note-on-time'
+title: 'A short note on time'
 teaching: 10
 exercises: 2
 ---
@@ -41,8 +41,15 @@ If the data is not still in memory, we can read it in:
 ℹ Using "','" as decimal and "'.'" as grouping mark. Use `read_delim()` for more control.
 ```
 
-``` error
-Error: '../data/SD_data.csv' does not exist in current working directory ('/home/runner/work/R-api_new/R-api_new/site/built').
+``` output
+Rows: 27720 Columns: 4
+── Column specification ────────────────────────────────────────────────────────
+Delimiter: ";"
+chr (3): OMRÅDE, CIVILSTAND, TID
+dbl (1): INDHOLD
+
+ℹ Use `spec()` to retrieve the full column specification for this data.
+ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.
 ```
 
 
@@ -56,13 +63,15 @@ head(data)
 ```
 
 ``` output
-                                                                            
-1 function (..., list = character(), package = NULL, lib.loc = NULL,        
-2     verbose = getOption("verbose"), envir = .GlobalEnv, overwrite = TRUE) 
-3 {                                                                         
-4     fileExt <- function(x) {                                              
-5         db <- grepl("\\\\.[^.]+\\\\.(gz|bz2|xz)$", x)                     
-6         ans <- sub(".*\\\\.", "", x)                                      
+# A tibble: 6 × 4
+  OMRÅDE      CIVILSTAND    TID    INDHOLD
+  <chr>       <chr>         <chr>    <dbl>
+1 All Denmark Never married 2008Q1 2552700
+2 All Denmark Never married 2008Q2 2563134
+3 All Denmark Never married 2008Q3 2564705
+4 All Denmark Never married 2008Q4 2568255
+5 All Denmark Never married 2009Q1 2575185
+6 All Denmark Never married 2009Q2 2584993
 ```
 
 Note that the datatype for "TID" is *chr*, meaning character. Those are 
@@ -224,10 +233,6 @@ Let us finish by converting the "TID" column in our data, to a time-format.
 ``` r
 data <- data %>% 
   mutate(TID = yearquarter(TID))
-```
-
-``` error
-Error in UseMethod("mutate"): no applicable method for 'mutate' applied to an object of class "function"
 ```
 
 We mutate the column "TID" into the result of running yearquarter() on the
