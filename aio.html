@@ -324,6 +324,18 @@
 </div>
 <!--/div.accordion-flush-->
 
+<div class="accordion accordion-flush" id="accordionFlush9">
+  <div class="accordion-item">
+    <div class="accordion-header" id="flush-heading9">
+        <a href="whats-next.html">8. Whats next?</a>
+    </div>
+<!--/div.accordion-header-->
+
+  </div>
+<!--/div.accordion-item-->
+</div>
+<!--/div.accordion-flush-->
+
                 </div>
               </div>
             </div>
@@ -733,7 +745,7 @@ directly:</p>
 <h3 class="code-label">OUTPUT<i aria-hidden="true" data-feather="chevron-left"></i><i aria-hidden="true" data-feather="chevron-right"></i>
 </h3>
 <pre class="output" tabindex="0"><code>Response [https://icanhazdadjoke.com/]
-  Date: 2024-08-06 10:37
+  Date: 2024-08-06 10:43
   Status: 200
   Content-Type: text/html; charset=utf-8
   Size: 9.78 kB
@@ -775,10 +787,10 @@ want a response in just text:</p>
 <h3 class="code-label">OUTPUT<i aria-hidden="true" data-feather="chevron-left"></i><i aria-hidden="true" data-feather="chevron-right"></i>
 </h3>
 <pre class="output" tabindex="0"><code>Response [https://icanhazdadjoke.com/]
-  Date: 2024-08-06 10:37
+  Date: 2024-08-06 10:43
   Status: 200
   Content-Type: text/plain
-  Size: 55 B</code></pre>
+  Size: 103 B</code></pre>
 </div>
 <p>We still get the response from the server, telling us that Status is
 200, and everything is OK. But where is our dad-joke?</p>
@@ -799,7 +811,7 @@ binary code, so we are using the <em>content()</em> function, also from
 <div class="codewrapper">
 <h3 class="code-label">OUTPUT<i aria-hidden="true" data-feather="chevron-left"></i><i aria-hidden="true" data-feather="chevron-right"></i>
 </h3>
-<pre class="output" tabindex="0"><code>[1] "Just read a few facts about frogs. They were ribbiting."</code></pre>
+<pre class="output" tabindex="0"><code>[1] "Did you know you should always take an extra pair of pants golfing? Just in case you get a hole in one."</code></pre>
 </div>
 <p>There is a little warning about the encoding of the string. But now
 we have a dad-joke!</p>
@@ -845,11 +857,11 @@ sets the <em>accept</em> part of the header:</p>
 <h3 class="code-label">OUTPUT<i aria-hidden="true" data-feather="chevron-left"></i><i aria-hidden="true" data-feather="chevron-right"></i>
 </h3>
 <pre class="output" tabindex="0"><code>Response [https://icanhazdadjoke.com/]
-  Date: 2024-08-06 10:37
+  Date: 2024-08-06 10:43
   Status: 200
   Content-Type: application/json
-  Size: 152 B
-{"id":"mrHQKBA5MCd","joke":"My boss told me that he was going to fire the per...</code></pre>
+  Size: 123 B
+{"id":"HtcNuHJBQCd","joke":"How many kids with ADD does it take to change a l...</code></pre>
 </div>
 <p>Again - everything is nice and 200 = OK.</p>
 <p>We also see a truncated version of the actual joke.</p>
@@ -864,10 +876,10 @@ sets the <em>accept</em> part of the header:</p>
 <h3 class="code-label">OUTPUT<i aria-hidden="true" data-feather="chevron-left"></i><i aria-hidden="true" data-feather="chevron-right"></i>
 </h3>
 <pre class="output" tabindex="0"><code>$id
-[1] "mrHQKBA5MCd"
+[1] "HtcNuHJBQCd"
 
 $joke
-[1] "My boss told me that he was going to fire the person with the worst posture. I have a hunch, it might be me."
+[1] "How many kids with ADD does it take to change a lightbulb? Let's go ride bikes!"
 
 $status
 [1] 200</code></pre>
@@ -950,66 +962,66 @@ $results[[2]]$joke
 
 $results[[3]]
 $results[[3]]$id
-[1] "R7UfaahVfFd"
+[1] "obhFBljb2g"
 
 $results[[3]]$joke
-[1] "My dog used to chase people on a bike a lot. It got so bad I had to take his bike away."
+[1] "I adopted my dog from a blacksmith. As soon as we got home he made a bolt for the door."
 
 
 $results[[4]]
 $results[[4]]$id
-[1] "obhFBljb2g"
+[1] "lyk3EIBQfxc"
 
 $results[[4]]$joke
-[1] "I adopted my dog from a blacksmith. As soon as we got home he made a bolt for the door."
+[1] "I went to the zoo the other day, there was only one dog in it. It was a shitzu."
 
 
 $results[[5]]
 $results[[5]]$id
-[1] "lyk3EIBQfxc"
+[1] "DIeaUDlbUDd"
 
 $results[[5]]$joke
-[1] "I went to the zoo the other day, there was only one dog in it. It was a shitzu."
+[1] "“My Dog has no nose.” “How does he smell?” “Awful”"
 
 
 $results[[6]]
 $results[[6]]$id
-[1] "DIeaUDlbUDd"
+[1] "EBQfiyXD5ob"
 
 $results[[6]]$joke
-[1] "“My Dog has no nose.” “How does he smell?” “Awful”"
+[1] "what do you call a dog that can do magic tricks? a labracadabrador"
 
 
 $results[[7]]
 $results[[7]]$id
-[1] "EBQfiyXD5ob"
+[1] "GtH6E6UD5Ed"
 
 $results[[7]]$joke
-[1] "what do you call a dog that can do magic tricks? a labracadabrador"
+[1] "What kind of dog lives in a particle accelerator? A Fermilabrador Retriever."
 
 
 $results[[8]]
 $results[[8]]$id
-[1] "GtH6E6UD5Ed"
+[1] "89MZLmWnWvc"
 
 $results[[8]]$joke
-[1] "What kind of dog lives in a particle accelerator? A Fermilabrador Retriever."
+[1] "I can't take my dog to the pond anymore because the ducks keep attacking him. That's what I get for buying a pure bread dog."
 
 
 $results[[9]]
 $results[[9]]$id
-[1] "89MZLmWnWvc"
+[1] "71wsPKeF6h"
 
 $results[[9]]$joke
-[1] "I can't take my dog to the pond anymore because the ducks keep attacking him. That's what I get for buying a pure bread dog."
+[1] "What did the dog say to the two trees? Bark bark."
 
 
 $results[[10]]
 $results[[10]]$id
-[1] "71wsPKeF6h"
+[1] "R7UfaahVfFd"
 
 $results[[10]]$joke
-[1] "What did the dog say to the two trees? Bark bark."
+[1] "My dog used to chase people on a bike a lot. It got so bad I had to take his bike away."
 
 
 $results[[11]]
@@ -1172,7 +1184,7 @@ so funny data.</p>
 <button class="accordion-button solution-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSolution1" aria-expanded="false" aria-controls="collapseSolution1">
   <h4 class="accordion-header" id="headingSolution1"> Show me the solution </h4>
 </button>
-<div id="collapseSolution1" class="accordion-collapse collapse" aria-labelledby="headingSolution1" data-bs-parent="#accordionSolution1">
+<div id="collapseSolution1" class="accordion-collapse collapse" data-bs-parent="#accordionSolution1" aria-labelledby="headingSolution1">
 <div class="accordion-body">
 <div class="codewrapper sourceCode" id="cb24">
 <h3 class="code-label">R<i aria-hidden="true" data-feather="chevron-left"></i><i aria-hidden="true" data-feather="chevron-right"></i>
@@ -1206,28 +1218,28 @@ $results
             id
 1  YvkV8xXnjyd
 2  82wHlbaapzd
-3  R7UfaahVfFd
+3  GtH6E6UD5Ed
 4   obhFBljb2g
-5  lyk3EIBQfxc
-6  DIeaUDlbUDd
-7  EBQfiyXD5ob
-8  GtH6E6UD5Ed
-9  89MZLmWnWvc
-10  71wsPKeF6h
+5  89MZLmWnWvc
+6   71wsPKeF6h
+7  R7UfaahVfFd
+8  lyk3EIBQfxc
+9  DIeaUDlbUDd
+10 EBQfiyXD5ob
 11 AQn3wPKeqrc
 12 sPRnOfiyAAd
 13 Lmjqzsr49pb
                                                                                                                                                                                                                                                                          joke
 1                                                                                                                                                                                         Why did the cowboy have a weiner dog? Somebody told him to get a long little doggy.
 2  Me: If humans lose the ability to hear high frequency volumes as they get older, can my 4 week old son hear a dog whistle?\r\n\r\nDoctor: No, humans can never hear that high of a frequency no matter what age they are.\r\n\r\nMe: Trick question... dogs can't whistle.
-3                                                                                                                                                                                     My dog used to chase people on a bike a lot. It got so bad I had to take his bike away.
+3                                                                                                                                                                                                What kind of dog lives in a particle accelerator? A Fermilabrador Retriever.
 4                                                                                                                                                                                     I adopted my dog from a blacksmith. As soon as we got home he made a bolt for the door.
-5                                                                                                                                                                                             I went to the zoo the other day, there was only one dog in it. It was a shitzu.
-6                                                                                                                                                                                                                          “My Dog has no nose.” “How does he smell?” “Awful”
-7                                                                                                                                                                                                          what do you call a dog that can do magic tricks? a labracadabrador
-8                                                                                                                                                                                                What kind of dog lives in a particle accelerator? A Fermilabrador Retriever.
-9                                                                                                                                                I can't take my dog to the pond anymore because the ducks keep attacking him. That's what I get for buying a pure bread dog.
-10                                                                                                                                                                                                                          What did the dog say to the two trees? Bark bark.
+5                                                                                                                                                I can't take my dog to the pond anymore because the ducks keep attacking him. That's what I get for buying a pure bread dog.
+6                                                                                                                                                                                                                           What did the dog say to the two trees? Bark bark.
+7                                                                                                                                                                                     My dog used to chase people on a bike a lot. It got so bad I had to take his bike away.
+8                                                                                                                                                                                             I went to the zoo the other day, there was only one dog in it. It was a shitzu.
+9                                                                                                                                                                                                                          “My Dog has no nose.” “How does he smell?” “Awful”
+10                                                                                                                                                                                                         what do you call a dog that can do magic tricks? a labracadabrador
 11                                                                                                                                                                                                  It was raining cats and dogs the other day. I almost stepped in a poodle.
 12                                                                                                                                              At the boxing match, the dad got into the popcorn line and the line for hot dogs, but he wanted to stay out of the punchline.
 13                                                                                                                                                                                            What did the Zen Buddist say to the hotdog vendor? Make me one with everything.
@@ -1435,7 +1447,7 @@ able to contain almost anything.</p>
 <h3 class="code-label">OUTPUT<i aria-hidden="true" data-feather="chevron-left"></i><i aria-hidden="true" data-feather="chevron-right"></i>
 </h3>
 <pre class="output" tabindex="0"><code>Response [https://api.statbank.dk/v1/subjects]
-  Date: 2024-08-06 10:37
+  Date: 2024-08-06 10:43
   Status: 200
   Content-Type: text/json; charset=utf-8
   Size: 884 B</code></pre>
@@ -3353,7 +3365,69 @@ categorical variable.”</li>
 Place links that you need to refer to multiple times across pages here. Delete
 any links that you are not going to use.
  -->
-</section></section>
+</section></section><section id="aio-whats-next"><p>Content from <a href="whats-next.html">Whats next?</a></p>
+<hr>
+<p>Last updated on 2024-08-06 |
+
+        <a href="https://github.com/KUBDatalab/R-api_new/edit/main/episodes/whats-next.Rmd" class="external-link">Edit this page <i aria-hidden="true" data-feather="edit"></i></a></p>
+<div class="text-end">
+          <button role="button" aria-pressed="false" tabindex="0" id="expand-code" class="pull-right" data-expand="Expand All Solutions " data-collapse="Collapse All Solutions "> Expand All Solutions <i aria-hidden="true" data-feather="plus"></i></button>
+        </div>
+<div class="overview card">
+<h2 class="card-header">Overview</h2>
+<div class="row g-0">
+<div class="col-md-4">
+<div class="card-body">
+<div class="inner">
+<h3 class="card-title">Questions</h3>
+<ul>
+<li>“What is the next step?”</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="col-md-8">
+<div class="card-body">
+<div class="inner bordered">
+<h3 class="card-title">Objectives</h3>
+<ul>
+<li>“Get an idea about what to do to learn more”</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p>The goal of this course was to give an introduction on how to work
+with API in general.</p>
+<p>For many of the major services online, there exists specialized
+packages making it easier to work with their API.</p>
+<p>Ideally we would have a complete list here.</p>
+<p>Less ambitiously we would have a solid selection.</p>
+<p>For now we have one.</p>
+<p>The <a href="https://cran.r-project.org/web/packages/gargle/index.html" class="external-link">gargle
+package</a>, provides tools for working with the Google APIs.</p>
+<p><a href="https://open-platform.theguardian.com/" class="external-link">The Guardian</a>
+have an open API providing access to &gt;2 million articles from that
+newspaper. You will need to register for an API key, but it is free.</p>
+<p><a href="https://www.wikidata.org/wiki/Wikidata:REST_API" class="external-link">Wikidata</a>
+handles factual data for the Wikipedia infrastructure.</p>
+<div id="keypoints1" class="callout keypoints">
+<div class="callout-square">
+<i class="callout-icon" data-feather="key"></i>
+</div>
+<div class="callout-inner">
+<h3 class="callout-title">Key Points<a class="anchor" aria-label="anchor" href="#keypoints1"></a>
+</h3>
+<div class="callout-content">
+<ul>
+<li>“Practice makes perfect”</li>
+<li>“KUB Datalab offers lots of courses and consultations”</li>
+<li>“The web is overflowing with tutorials and courses”</li>
+</ul>
+</div>
+</div>
+</div></section>
 </div>
     </main>
 </div>
