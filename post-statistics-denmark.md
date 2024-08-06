@@ -44,7 +44,7 @@ First: Statistics Denmark provides four "functions", or *endpoints*. This is equ
 to the URL we requested data from using the GET method.
 
 
-!["functions or endpoints at the API](images/DSfunctions.png)
+!["functions or endpoints at the API](fig/DSfunctions.png){Screenshot of endpoints at Statistics Denmark API}
 
 - The first is the "web"-site we have to send requests to if we want information 
 on the subjects in Statistics Denmark. 
@@ -141,7 +141,7 @@ result
 
 ``` output
 Response [https://api.statbank.dk/v1/subjects]
-  Date: 2024-08-06 10:21
+  Date: 2024-08-06 10:37
   Status: 200
   Content-Type: text/json; charset=utf-8
   Size: 884 B
