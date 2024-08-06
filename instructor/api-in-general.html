@@ -387,9 +387,9 @@ order to retrieve specific data.</p>
 we have all done.</p>
 <p>Webservers and browsers communicate using the HTTP protocol, and the
 mechanics of this communication can be visualized like this:</p>
-<figure><img src="../fig/http-structure.png" alt="Structure of what is happening behind the scenes when we request a webpage" class="figure mx-auto d-block"><div class="figcaption">Structure of what is happening behind the scenes
-when we request a webpage</div>
-</figure><ul><li><p>When we type in an URL in our browser, it translates that URL to
+<p><img src="../fig/http-structure.png" alt="Structure of what is happening behind the scenes when we request a webpage" class="figure">{Graphical
+representation of the process of requesting a webpage}</p>
+<ul><li><p>When we type in an URL in our browser, it translates that URL to
 a HTTP-request.</p></li>
 <li><p>The browser sends that HTTP-request to a webserver. The request
 contains information about the page we need, but in the “header” of the
@@ -435,12 +435,14 @@ the URL. You probably know that way already.</p>
 the server to search for the term “dog”. What we are searching for, is
 placed directly in the URL.</p>
 <p>What we are sending to the server looks like this:</p>
-<figure><img src="../fig/GET-headers.png" alt="GET header" class="figure mx-auto d-block"><div class="figcaption">GET header</div>
-</figure><p>In a <em>POST</em> request, that information is stored in the body of
+<p><img src="../fig/GET-headers.png" alt="Content of a GET header" class="figure">{Image
+showing the content of a GET header}</p>
+<p>In a <em>POST</em> request, that information is stored in the body of
 the request.</p>
 <p>That looks like this:</p>
-<figure><img src="../fig/POST-headers.png" alt="POST header" class="figure mx-auto d-block"><div class="figcaption">POST header</div>
-</figure><p>Note that the main difference between these two sets of headers,
+<p><img src="../fig/POST-headers.png" alt="Contents of a POST header" class="figure">{Image showing the content of a POST
+header}</p>
+<p>Note that the main difference between these two sets of headers,
 besides the difference in GET and POST, is that there is a <em>body</em>
 in the POST version. This is where the actual search is placed, rather
 than in the URL.</p>
