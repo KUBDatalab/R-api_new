@@ -53,10 +53,10 @@ GET("https://icanhazdadjoke.com/")
 
 ``` output
 Response [https://icanhazdadjoke.com/]
-  Date: 2024-08-07 09:12
+  Date: 2024-08-07 09:33
   Status: 200
   Content-Type: text/html; charset=utf-8
-  Size: 9.79 kB
+  Size: 9.83 kB
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -95,10 +95,10 @@ result
 
 ``` output
 Response [https://icanhazdadjoke.com/]
-  Date: 2024-08-07 09:12
+  Date: 2024-08-07 09:33
   Status: 200
   Content-Type: text/plain
-  Size: 65 B
+  Size: 78 B
 ```
 We still get the response from the server, telling us that Status is 200, and
 everything is OK. But where is our dad-joke?
@@ -116,7 +116,7 @@ No encoding supplied: defaulting to UTF-8.
 ```
 
 ``` output
-[1] "Whoever invented the knock-knock joke should get a no bell prize."
+[1] "We all know where the Big Apple is but does anyone know where the Minneapolis?"
 ```
 
 There is a little warning about the encoding of the string. But now we have a dad-joke!
@@ -168,11 +168,11 @@ result
 
 ``` output
 Response [https://icanhazdadjoke.com/]
-  Date: 2024-08-07 09:12
+  Date: 2024-08-07 09:33
   Status: 200
   Content-Type: application/json
-  Size: 112 B
-{"id":"NJJ6wH6hNCd","joke":"What do you get when you cross a chicken with a s...
+  Size: 79 B
+{"id":"nOfNJY89EBd","joke":"Without geometry life is pointless.","status":200}
 ```
 
 Again - everything is nice and 200 = OK.
@@ -188,10 +188,10 @@ content(result)
 
 ``` output
 $id
-[1] "NJJ6wH6hNCd"
+[1] "nOfNJY89EBd"
 
 $joke
-[1] "What do you get when you cross a chicken with a skunk? A fowl smell!"
+[1] "Without geometry life is pointless."
 
 $status
 [1] 200
@@ -213,6 +213,7 @@ specify the result that we want:
 
 
 ``` r
+library(tidyverse)
 GET("https://icanhazdadjoke.com/j/lGJmrrzAsc",  accept("text/plain")) %>% 
   content()
 ```
@@ -262,18 +263,18 @@ $previous_page
 $results
 $results[[1]]
 $results[[1]]$id
-[1] "YvkV8xXnjyd"
+[1] "82wHlbaapzd"
 
 $results[[1]]$joke
-[1] "Why did the cowboy have a weiner dog? Somebody told him to get a long little doggy."
+[1] "Me: If humans lose the ability to hear high frequency volumes as they get older, can my 4 week old son hear a dog whistle?\r\n\r\nDoctor: No, humans can never hear that high of a frequency no matter what age they are.\r\n\r\nMe: Trick question... dogs can't whistle."
 
 
 $results[[2]]
 $results[[2]]$id
-[1] "82wHlbaapzd"
+[1] "YvkV8xXnjyd"
 
 $results[[2]]$joke
-[1] "Me: If humans lose the ability to hear high frequency volumes as they get older, can my 4 week old son hear a dog whistle?\r\n\r\nDoctor: No, humans can never hear that high of a frequency no matter what age they are.\r\n\r\nMe: Trick question... dogs can't whistle."
+[1] "Why did the cowboy have a weiner dog? Somebody told him to get a long little doggy."
 
 
 $results[[3]]
@@ -342,18 +343,18 @@ $results[[10]]$joke
 
 $results[[11]]
 $results[[11]]$id
-[1] "sPRnOfiyAAd"
+[1] "AQn3wPKeqrc"
 
 $results[[11]]$joke
-[1] "At the boxing match, the dad got into the popcorn line and the line for hot dogs, but he wanted to stay out of the punchline."
+[1] "It was raining cats and dogs the other day. I almost stepped in a poodle."
 
 
 $results[[12]]
 $results[[12]]$id
-[1] "AQn3wPKeqrc"
+[1] "sPRnOfiyAAd"
 
 $results[[12]]$joke
-[1] "It was raining cats and dogs the other day. I almost stepped in a poodle."
+[1] "At the boxing match, the dad got into the popcorn line and the line for hot dogs, but he wanted to stay out of the punchline."
 
 
 $results[[13]]
@@ -514,8 +515,8 @@ $previous_page
 
 $results
             id
-1  YvkV8xXnjyd
-2  82wHlbaapzd
+1  82wHlbaapzd
+2  YvkV8xXnjyd
 3  lyk3EIBQfxc
 4  DIeaUDlbUDd
 5  EBQfiyXD5ob
@@ -528,8 +529,8 @@ $results
 12 AQn3wPKeqrc
 13 Lmjqzsr49pb
                                                                                                                                                                                                                                                                          joke
-1                                                                                                                                                                                         Why did the cowboy have a weiner dog? Somebody told him to get a long little doggy.
-2  Me: If humans lose the ability to hear high frequency volumes as they get older, can my 4 week old son hear a dog whistle?\r\n\r\nDoctor: No, humans can never hear that high of a frequency no matter what age they are.\r\n\r\nMe: Trick question... dogs can't whistle.
+1  Me: If humans lose the ability to hear high frequency volumes as they get older, can my 4 week old son hear a dog whistle?\r\n\r\nDoctor: No, humans can never hear that high of a frequency no matter what age they are.\r\n\r\nMe: Trick question... dogs can't whistle.
+2                                                                                                                                                                                         Why did the cowboy have a weiner dog? Somebody told him to get a long little doggy.
 3                                                                                                                                                                                             I went to the zoo the other day, there was only one dog in it. It was a shitzu.
 4                                                                                                                                                                                                                          “My Dog has no nose.” “How does he smell?” “Awful”
 5                                                                                                                                                                                                          what do you call a dog that can do magic tricks? a labracadabrador
