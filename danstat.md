@@ -6,16 +6,16 @@ exercises: 2
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-- "Is there an easier way to access Statistics Denmark"
+- Is there an easier way to access Statistics Denmark
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-- "Use a package to do the API-calls to Statistics Denmark"
-- "Connect to Statistics Denmark, and extract data"
-- "Create a list of lists to control the variables to be extracted"
-- "Using the danstat package"
+- Use a package to do the API-calls to Statistics Denmark
+- Connect to Statistics Denmark, and extract data
+- Create a list of lists to control the variables to be extracted
+- Using the danstat package
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
@@ -93,7 +93,7 @@ subjects
 ```
 
 
-We get the 13 major subjects from Statistics Denmark we have seen before.
+We get the 10 major subjects from Statistics Denmark we have seen before.
 As before, each of them have sub-subjects.
 
 If we want to take a closer look at the 
@@ -618,7 +618,7 @@ write_csv2(data, "data/SD_data.csv")
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
-- "Larger services often provide packages to make it easier to use their API"
+- Larger services often provide packages to make it easier to use their API
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
