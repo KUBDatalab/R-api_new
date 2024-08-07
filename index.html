@@ -217,7 +217,7 @@
 <div class="accordion accordion-flush" id="accordionFlush2">
   <div class="accordion-item">
     <div class="accordion-header" id="flush-heading2">
-        <a href="introduction.html">1. introduction</a>
+        <a href="api-in-general.html">1. What is an API?</a>
     </div><!--/div.accordion-header-->
 
   </div><!--/div.accordion-item-->
@@ -226,7 +226,7 @@
 <div class="accordion accordion-flush" id="accordionFlush3">
   <div class="accordion-item">
     <div class="accordion-header" id="flush-heading3">
-        <a href="api-in-general.html">2. What is an API?</a>
+        <a href="getting-data.html">2. GETting data</a>
     </div><!--/div.accordion-header-->
 
   </div><!--/div.accordion-item-->
@@ -235,7 +235,7 @@
 <div class="accordion accordion-flush" id="accordionFlush4">
   <div class="accordion-item">
     <div class="accordion-header" id="flush-heading4">
-        <a href="getting-data.html">3. GETting data</a>
+        <a href="post-statistics-denmark.html">3. Using POST</a>
     </div><!--/div.accordion-header-->
 
   </div><!--/div.accordion-item-->
@@ -244,7 +244,7 @@
 <div class="accordion accordion-flush" id="accordionFlush5">
   <div class="accordion-item">
     <div class="accordion-header" id="flush-heading5">
-        <a href="post-statistics-denmark.html">4. Using POST</a>
+        <a href="danstat.html">4. What about danstat?</a>
     </div><!--/div.accordion-header-->
 
   </div><!--/div.accordion-item-->
@@ -253,7 +253,7 @@
 <div class="accordion accordion-flush" id="accordionFlush6">
   <div class="accordion-item">
     <div class="accordion-header" id="flush-heading6">
-        <a href="danstat.html">5. What about danstat?</a>
+        <a href="note-on-time.html">5. A short note on time</a>
     </div><!--/div.accordion-header-->
 
   </div><!--/div.accordion-item-->
@@ -262,7 +262,7 @@
 <div class="accordion accordion-flush" id="accordionFlush7">
   <div class="accordion-item">
     <div class="accordion-header" id="flush-heading7">
-        <a href="note-on-time.html">6. A short note on time</a>
+        <a href="ggplot2.html">6. ggplot2</a>
     </div><!--/div.accordion-header-->
 
   </div><!--/div.accordion-item-->
@@ -271,16 +271,7 @@
 <div class="accordion accordion-flush" id="accordionFlush8">
   <div class="accordion-item">
     <div class="accordion-header" id="flush-heading8">
-        <a href="ggplot2.html">7. ggplot2</a>
-    </div><!--/div.accordion-header-->
-
-  </div><!--/div.accordion-item-->
-</div><!--/div.accordion-flush-->
-
-<div class="accordion accordion-flush" id="accordionFlush9">
-  <div class="accordion-item">
-    <div class="accordion-header" id="flush-heading9">
-        <a href="whats-next.html">8. Whats next?</a>
+        <a href="whats-next.html">7. Whats next?</a>
     </div><!--/div.accordion-header-->
 
   </div><!--/div.accordion-item-->
@@ -328,24 +319,88 @@
         <!-- START: inst/pkgdown/templates/content-syllabus.html -->
   <div class="col-xl-8 col-lg-12 primary-content">
     <nav class="lesson-content mx-md-4" aria-label="Next Chapter"><!-- content for small screens --><div class="d-block d-sm-block d-md-none">
-        <a class="chapter-link float-end" href="introduction.html">Next<i aria-hidden="true" class="small-arrow" data-feather="arrow-right"></i></a>
+        <a class="chapter-link float-end" href="api-in-general.html">Next<i aria-hidden="true" class="small-arrow" data-feather="arrow-right"></i></a>
       </div>
       <!-- content for large screens -->
       <div class="d-none d-sm-none d-md-block">
-        <a class="chapter-link float-end" href="introduction.html" rel="next">Next: introduction... <i aria-hidden="true" class="small-arrow" data-feather="arrow-right"></i></a>
+        <a class="chapter-link float-end" href="api-in-general.html" rel="next">Next: What is an API?... <i aria-hidden="true" class="small-arrow" data-feather="arrow-right"></i></a>
       </div>
       <hr></nav><main id="main-content" class="main-content"><h1 class="schedule-heading">Summary and Setup</h1>
       
 
-<p>This is a new lesson built with <a href="https://carpentries.github.io/sandpaper-docs" class="external-link">The Carpentries
-Workbench</a>.</p>
+<p>In this course we will look at how to extract data from databases
+using APIs in R.</p>
+<p>We start with the GET method, to get bad dad jokes.</p>
+<p>We continue using the POST method which allow more advanced searches.
+We apply it to the API provided by Statistics Denmark.</p>
+<p>Finally the package <em>danstat</em> is introduced. This provides an
+easier way to interact with Statistics Denmark.</p>
+<div id="this-is-not-an-introduction-to-r" class="callout discussion">
+<div class="callout-square">
+<i class="callout-icon" data-feather="message-circle"></i>
+</div>
+<div id="this-is-not-an-introduction-to-r" class="callout-inner">
+<h3 class="callout-title">This is not an introduction to R<a class="anchor" aria-label="anchor" href="#this-is-not-an-introduction-to-r"></a>
+</h3>
+<div class="callout-content">
+<p>In this couse we assume you have the knowledge equivalent to
+attending one of our
+<a href="https://kubdatalab.github.io/R-intro/" target="_blank" class="external-link">introductory
+courses</a></p>
+</div>
+</div>
+</div>
+<div id="accordionSolution1" class="accordion challenge-accordion accordion-flush">
+<div class="accordion-item">
+<button class="accordion-button solution-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSolution1" aria-expanded="false" aria-controls="collapseSolution1">
+  <h4 class="accordion-header" id="headingSolution1">
+  List of required knowledge
+  </h4>
+</button>
+<div id="collapseSolution1" class="accordion-collapse collapse" aria-labelledby="headingSolution1" data-bs-parent="#accordionSolution1">
+<div class="accordion-body">
+<ul><li>
+<a href="https://kubdatalab.github.io/R-api_new/#software-setup" target="_blank" class="external-link">Have
+R and R-studio installed</a>
+<ul><li>Alternatively run everything on rstudio.cloud</li>
+</ul></li>
+<li>Know how to assign values to variables</li>
+<li>Know what a function is, and how we pass input and parameters to
+it</li>
+<li>Be familiar with the %&gt;% operator</li>
+<li>Know the basic verbs from dplyr of the tidyverse:
+<ul><li>select</li>
+<li>filter</li>
+<li>mutate</li>
+<li>arrange</li>
+<li>summarise</li>
+</ul></li>
+<li>Be familiar with dataframes</li>
+<li>Know how to install and load packages</li>
+<li>Know how to comment your code</li>
+<li>Know how to do math on variables</li>
+<li>Get the concept of vectors</li>
+<li>Subsetting vectors and dataframes
+<ul><li>Using logical tests</li>
+</ul></li>
+<li>Use NA to encode missing values</li>
+<li>Read in data from a csv/excel</li>
+</ul></div>
+</div>
+</div>
+</div>
+<section><h2 class="section-heading" id="new-concepts-in-r">New concepts in R<a class="anchor" aria-label="anchor" href="#new-concepts-in-r"></a>
+<a class="anchor" aria-label="anchor" href="#new-concepts-in-r"></a></h2>
+<hr class="half-width"><p>Three concepts are typically not covered in our introductions.</p>
+<ul><li>factors</li>
+<li>dates</li>
+<li>lists</li>
+</ul><p>We will look at them when we need them.</p>
 <!--
 Place links that you need to refer to multiple times across pages here. Delete
 any links that you are not going to use.
  -->
-
-
-      <section id="setup"><section><h2 class="section-heading" id="software-setup">Software Setup<a class="anchor" aria-label="anchor" href="#software-setup"></a>
+</section><section id="setup"><section><h2 class="section-heading" id="software-setup">Software Setup<a class="anchor" aria-label="anchor" href="#software-setup"></a>
 <a class="anchor" aria-label="anchor" href="#software-setup"></a></h2>
 <hr class="half-width"><div id="warning" class="callout">
 <div class="callout-square">
@@ -517,11 +572,11 @@ Place links that you need to refer to multiple times across pages here. Delete
 any links that you are not going to use.
  -->
 </section></section></main><nav class="bottom-pagination mx-md-4" aria-label="Next Chapter"><!-- content for small screens --><div class="d-block d-sm-block d-md-none">
-        <a class="chapter-link float-end" href="introduction.html">Next<i aria-hidden="true" class="small-arrow" data-feather="arrow-right"></i></a>
+        <a class="chapter-link float-end" href="api-in-general.html">Next<i aria-hidden="true" class="small-arrow" data-feather="arrow-right"></i></a>
       </div>
       <!-- content for large screens -->
       <div class="d-none d-sm-none d-md-block">
-        <a class="chapter-link float-end" href="introduction.html" rel="next">Next: introduction... <i aria-hidden="true" class="small-arrow" data-feather="arrow-right"></i></a>
+        <a class="chapter-link float-end" href="api-in-general.html" rel="next">Next: What is an API?... <i aria-hidden="true" class="small-arrow" data-feather="arrow-right"></i></a>
       </div>
     </nav></div>
 <!-- END  : inst/pkgdown/templates/content-syllabus.html -->
