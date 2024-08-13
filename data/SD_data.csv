@@ -65,6 +65,7 @@ All Denmark;Never married;2023Q3;2950582
 All Denmark;Never married;2023Q4;2955697
 All Denmark;Never married;2024Q1;2959427
 All Denmark;Never married;2024Q2;2969318
+All Denmark;Never married;2024Q3;2968121
 All Denmark;Married/separated;2008Q1;2176977
 All Denmark;Married/separated;2008Q2;2171174
 All Denmark;Married/separated;2008Q3;2176196
@@ -131,6 +132,7 @@ All Denmark;Married/separated;2023Q3;2143069
 All Denmark;Married/separated;2023Q4;2154266
 All Denmark;Married/separated;2024Q1;2151329
 All Denmark;Married/separated;2024Q2;2145844
+All Denmark;Married/separated;2024Q3;2152062
 All Denmark;Widowed;2008Q1;317250
 All Denmark;Widowed;2008Q2;316408
 All Denmark;Widowed;2008Q3;315408
@@ -197,6 +199,7 @@ All Denmark;Widowed;2023Q3;285643
 All Denmark;Widowed;2023Q4;285512
 All Denmark;Widowed;2024Q1;285506
 All Denmark;Widowed;2024Q2;285415
+All Denmark;Widowed;2024Q3;285446
 All Denmark;Divorced;2008Q1;428864
 All Denmark;Divorced;2008Q2;431550
 All Denmark;Divorced;2008Q3;432713
@@ -263,6 +266,7 @@ All Denmark;Divorced;2023Q3;564851
 All Denmark;Divorced;2023Q4;563989
 All Denmark;Divorced;2024Q1;564987
 All Denmark;Divorced;2024Q2;567247
+All Denmark;Divorced;2024Q3;566791
 Region Hovedstaden;Never married;2008Q1;810361
 Region Hovedstaden;Never married;2008Q2;814923
 Region Hovedstaden;Never married;2008Q3;815495
@@ -329,6 +333,7 @@ Region Hovedstaden;Never married;2023Q3;1019316
 Region Hovedstaden;Never married;2023Q4;1025361
 Region Hovedstaden;Never married;2024Q1;1026044
 Region Hovedstaden;Never married;2024Q2;1031556
+Region Hovedstaden;Never married;2024Q3;1031233
 Region Hovedstaden;Married/separated;2008Q1;597034
 Region Hovedstaden;Married/separated;2008Q2;595414
 Region Hovedstaden;Married/separated;2008Q3;597048
@@ -395,6 +400,7 @@ Region Hovedstaden;Married/separated;2023Q3;626464
 Region Hovedstaden;Married/separated;2023Q4;631262
 Region Hovedstaden;Married/separated;2024Q1;631168
 Region Hovedstaden;Married/separated;2024Q2;630706
+Region Hovedstaden;Married/separated;2024Q3;633454
 Region Hovedstaden;Widowed;2008Q1;88644
 Region Hovedstaden;Widowed;2008Q2;88325
 Region Hovedstaden;Widowed;2008Q3;87947
@@ -461,6 +467,7 @@ Region Hovedstaden;Widowed;2023Q3;75147
 Region Hovedstaden;Widowed;2023Q4;75032
 Region Hovedstaden;Widowed;2024Q1;74972
 Region Hovedstaden;Widowed;2024Q2;74905
+Region Hovedstaden;Widowed;2024Q3;74909
 Region Hovedstaden;Divorced;2008Q1;149786
 Region Hovedstaden;Divorced;2008Q2;150328
 Region Hovedstaden;Divorced;2008Q3;150495
@@ -527,6 +534,7 @@ Region Hovedstaden;Divorced;2023Q3;179079
 Region Hovedstaden;Divorced;2023Q4;178740
 Region Hovedstaden;Divorced;2024Q1;178883
 Region Hovedstaden;Divorced;2024Q2;179408
+Region Hovedstaden;Divorced;2024Q3;179259
 Copenhagen;Never married;2008Q1;309661
 Copenhagen;Never married;2008Q2;311978
 Copenhagen;Never married;2008Q3;311868
@@ -593,6 +601,7 @@ Copenhagen;Never married;2023Q3;432517
 Copenhagen;Never married;2023Q4;435963
 Copenhagen;Never married;2024Q1;434759
 Copenhagen;Never married;2024Q2;437664
+Copenhagen;Never married;2024Q3;436074
 Copenhagen;Married/separated;2008Q1;128556
 Copenhagen;Married/separated;2008Q2;128289
 Copenhagen;Married/separated;2008Q3;128728
@@ -659,6 +668,7 @@ Copenhagen;Married/separated;2023Q3;154047
 Copenhagen;Married/separated;2023Q4;155915
 Copenhagen;Married/separated;2024Q1;155728
 Copenhagen;Married/separated;2024Q2;155763
+Copenhagen;Married/separated;2024Q3;156872
 Copenhagen;Widowed;2008Q1;21555
 Copenhagen;Widowed;2008Q2;21298
 Copenhagen;Widowed;2008Q3;21066
@@ -725,6 +735,7 @@ Copenhagen;Widowed;2023Q3;13993
 Copenhagen;Widowed;2023Q4;13944
 Copenhagen;Widowed;2024Q1;13883
 Copenhagen;Widowed;2024Q2;13847
+Copenhagen;Widowed;2024Q3;13833
 Copenhagen;Divorced;2008Q1;50089
 Copenhagen;Divorced;2008Q2;50160
 Copenhagen;Divorced;2008Q3;50024
@@ -791,6 +802,7 @@ Copenhagen;Divorced;2023Q3;55173
 Copenhagen;Divorced;2023Q4;55020
 Copenhagen;Divorced;2024Q1;54980
 Copenhagen;Divorced;2024Q2;55092
+Copenhagen;Divorced;2024Q3;55052
 Frederiksberg;Never married;2008Q1;50734
 Frederiksberg;Never married;2008Q2;51256
 Frederiksberg;Never married;2008Q3;51247
@@ -857,6 +869,7 @@ Frederiksberg;Never married;2023Q3;61906
 Frederiksberg;Never married;2023Q4;62451
 Frederiksberg;Never married;2024Q1;62231
 Frederiksberg;Never married;2024Q2;62836
+Frederiksberg;Never married;2024Q3;62461
 Frederiksberg;Married/separated;2008Q1;27703
 Frederiksberg;Married/separated;2008Q2;27601
 Frederiksberg;Married/separated;2008Q3;27751
@@ -923,6 +936,7 @@ Frederiksberg;Married/separated;2023Q3;28698
 Frederiksberg;Married/separated;2023Q4;28935
 Frederiksberg;Married/separated;2024Q1;28782
 Frederiksberg;Married/separated;2024Q2;28746
+Frederiksberg;Married/separated;2024Q3;28906
 Frederiksberg;Widowed;2008Q1;5715
 Frederiksberg;Widowed;2008Q2;5672
 Frederiksberg;Widowed;2008Q3;5629
@@ -989,6 +1003,7 @@ Frederiksberg;Widowed;2023Q3;3994
 Frederiksberg;Widowed;2023Q4;3982
 Frederiksberg;Widowed;2024Q1;3982
 Frederiksberg;Widowed;2024Q2;3962
+Frederiksberg;Widowed;2024Q3;3962
 Frederiksberg;Divorced;2008Q1;9292
 Frederiksberg;Divorced;2008Q2;9319
 Frederiksberg;Divorced;2008Q3;9294
@@ -1055,6 +1070,7 @@ Frederiksberg;Divorced;2023Q3;9968
 Frederiksberg;Divorced;2023Q4;9925
 Frederiksberg;Divorced;2024Q1;9904
 Frederiksberg;Divorced;2024Q2;9925
+Frederiksberg;Divorced;2024Q3;9867
 Dragør;Never married;2008Q1;4895
 Dragør;Never married;2008Q2;4946
 Dragør;Never married;2008Q3;4964
@@ -1121,6 +1137,7 @@ Dragør;Never married;2023Q3;5871
 Dragør;Never married;2023Q4;5888
 Dragør;Never married;2024Q1;5924
 Dragør;Never married;2024Q2;5905
+Dragør;Never married;2024Q3;5878
 Dragør;Married/separated;2008Q1;6555
 Dragør;Married/separated;2008Q2;6547
 Dragør;Married/separated;2008Q3;6568
@@ -1187,6 +1204,7 @@ Dragør;Married/separated;2023Q3;6576
 Dragør;Married/separated;2023Q4;6588
 Dragør;Married/separated;2024Q1;6581
 Dragør;Married/separated;2024Q2;6537
+Dragør;Married/separated;2024Q3;6529
 Dragør;Widowed;2008Q1;861
 Dragør;Widowed;2008Q2;860
 Dragør;Widowed;2008Q3;853
@@ -1253,6 +1271,7 @@ Dragør;Widowed;2023Q3;881
 Dragør;Widowed;2023Q4;879
 Dragør;Widowed;2024Q1;872
 Dragør;Widowed;2024Q2;878
+Dragør;Widowed;2024Q3;875
 Dragør;Divorced;2008Q1;950
 Dragør;Divorced;2008Q2;962
 Dragør;Divorced;2008Q3;965
@@ -1319,6 +1338,7 @@ Dragør;Divorced;2023Q3;1191
 Dragør;Divorced;2023Q4;1190
 Dragør;Divorced;2024Q1;1192
 Dragør;Divorced;2024Q2;1184
+Dragør;Divorced;2024Q3;1175
 Tårnby;Never married;2008Q1;16786
 Tårnby;Never married;2008Q2;16848
 Tårnby;Never married;2008Q3;16935
@@ -1385,6 +1405,7 @@ Tårnby;Never married;2023Q3;20719
 Tårnby;Never married;2023Q4;20908
 Tårnby;Never married;2024Q1;21104
 Tårnby;Never married;2024Q2;21155
+Tårnby;Never married;2024Q3;21219
 Tårnby;Married/separated;2008Q1;16903
 Tårnby;Married/separated;2008Q2;16820
 Tårnby;Married/separated;2008Q3;16891
@@ -1451,6 +1472,7 @@ Tårnby;Married/separated;2023Q3;16300
 Tårnby;Married/separated;2023Q4;16438
 Tårnby;Married/separated;2024Q1;16459
 Tårnby;Married/separated;2024Q2;16382
+Tårnby;Married/separated;2024Q3;16451
 Tårnby;Widowed;2008Q1;2685
 Tårnby;Widowed;2008Q2;2686
 Tårnby;Widowed;2008Q3;2674
@@ -1517,6 +1539,7 @@ Tårnby;Widowed;2023Q3;2118
 Tårnby;Widowed;2023Q4;2118
 Tårnby;Widowed;2024Q1;2103
 Tårnby;Widowed;2024Q2;2086
+Tårnby;Widowed;2024Q3;2063
 Tårnby;Divorced;2008Q1;3642
 Tårnby;Divorced;2008Q2;3648
 Tårnby;Divorced;2008Q3;3658
@@ -1583,6 +1606,7 @@ Tårnby;Divorced;2023Q3;4172
 Tårnby;Divorced;2023Q4;4214
 Tårnby;Divorced;2024Q1;4249
 Tårnby;Divorced;2024Q2;4254
+Tårnby;Divorced;2024Q3;4224
 Albertslund;Never married;2008Q1;13485
 Albertslund;Never married;2008Q2;13484
 Albertslund;Never married;2008Q3;13439
@@ -1649,6 +1673,7 @@ Albertslund;Never married;2023Q3;13673
 Albertslund;Never married;2023Q4;13816
 Albertslund;Never married;2024Q1;13811
 Albertslund;Never married;2024Q2;13756
+Albertslund;Never married;2024Q3;13669
 Albertslund;Married/separated;2008Q1;10669
 Albertslund;Married/separated;2008Q2;10606
 Albertslund;Married/separated;2008Q3;10669
@@ -1715,6 +1740,7 @@ Albertslund;Married/separated;2023Q3;9870
 Albertslund;Married/separated;2023Q4;9895
 Albertslund;Married/separated;2024Q1;9908
 Albertslund;Married/separated;2024Q2;9904
+Albertslund;Married/separated;2024Q3;9898
 Albertslund;Widowed;2008Q1;1048
 Albertslund;Widowed;2008Q2;1062
 Albertslund;Widowed;2008Q3;1066
@@ -1781,6 +1807,7 @@ Albertslund;Widowed;2023Q3;1188
 Albertslund;Widowed;2023Q4;1202
 Albertslund;Widowed;2024Q1;1202
 Albertslund;Widowed;2024Q2;1209
+Albertslund;Widowed;2024Q3;1214
 Albertslund;Divorced;2008Q1;2400
 Albertslund;Divorced;2008Q2;2412
 Albertslund;Divorced;2008Q3;2422
@@ -1847,6 +1874,7 @@ Albertslund;Divorced;2023Q3;2768
 Albertslund;Divorced;2023Q4;2749
 Albertslund;Divorced;2024Q1;2756
 Albertslund;Divorced;2024Q2;2764
+Albertslund;Divorced;2024Q3;2764
 Ballerup;Never married;2008Q1;20807
 Ballerup;Never married;2008Q2;20952
 Ballerup;Never married;2008Q3;21001
@@ -1913,6 +1941,7 @@ Ballerup;Never married;2023Q3;24097
 Ballerup;Never married;2023Q4;24342
 Ballerup;Never married;2024Q1;24630
 Ballerup;Never married;2024Q2;24853
+Ballerup;Never married;2024Q3;25175
 Ballerup;Married/separated;2008Q1;19353
 Ballerup;Married/separated;2008Q2;19301
 Ballerup;Married/separated;2008Q3;19348
@@ -1979,6 +2008,7 @@ Ballerup;Married/separated;2023Q3;18499
 Ballerup;Married/separated;2023Q4;18592
 Ballerup;Married/separated;2024Q1;18688
 Ballerup;Married/separated;2024Q2;18822
+Ballerup;Married/separated;2024Q3;18953
 Ballerup;Widowed;2008Q1;2608
 Ballerup;Widowed;2008Q2;2633
 Ballerup;Widowed;2008Q3;2661
@@ -2045,6 +2075,7 @@ Ballerup;Widowed;2023Q3;2752
 Ballerup;Widowed;2023Q4;2746
 Ballerup;Widowed;2024Q1;2744
 Ballerup;Widowed;2024Q2;2742
+Ballerup;Widowed;2024Q3;2745
 Ballerup;Divorced;2008Q1;4348
 Ballerup;Divorced;2008Q2;4367
 Ballerup;Divorced;2008Q3;4353
@@ -2111,6 +2142,7 @@ Ballerup;Divorced;2023Q3;5126
 Ballerup;Divorced;2023Q4;5132
 Ballerup;Divorced;2024Q1;5175
 Ballerup;Divorced;2024Q2;5202
+Ballerup;Divorced;2024Q3;5230
 Brøndby;Never married;2008Q1;14506
 Brøndby;Never married;2008Q2;14521
 Brøndby;Never married;2008Q3;14508
@@ -2177,6 +2209,7 @@ Brøndby;Never married;2023Q3;18449
 Brøndby;Never married;2023Q4;19012
 Brøndby;Never married;2024Q1;19305
 Brøndby;Never married;2024Q2;19514
+Brøndby;Never married;2024Q3;19621
 Brøndby;Married/separated;2008Q1;13871
 Brøndby;Married/separated;2008Q2;13785
 Brøndby;Married/separated;2008Q3;13748
@@ -2243,6 +2276,7 @@ Brøndby;Married/separated;2023Q3;13722
 Brøndby;Married/separated;2023Q4;13913
 Brøndby;Married/separated;2024Q1;14020
 Brøndby;Married/separated;2024Q2;14103
+Brøndby;Married/separated;2024Q3;14237
 Brøndby;Widowed;2008Q1;2119
 Brøndby;Widowed;2008Q2;2118
 Brøndby;Widowed;2008Q3;2109
@@ -2309,6 +2343,7 @@ Brøndby;Widowed;2023Q3;1820
 Brøndby;Widowed;2023Q4;1844
 Brøndby;Widowed;2024Q1;1843
 Brøndby;Widowed;2024Q2;1858
+Brøndby;Widowed;2024Q3;1851
 Brøndby;Divorced;2008Q1;3335
 Brøndby;Divorced;2008Q2;3348
 Brøndby;Divorced;2008Q3;3351
@@ -2375,6 +2410,7 @@ Brøndby;Divorced;2023Q3;3908
 Brøndby;Divorced;2023Q4;3883
 Brøndby;Divorced;2024Q1;3899
 Brøndby;Divorced;2024Q2;3925
+Brøndby;Divorced;2024Q3;3948
 Gentofte;Never married;2008Q1;31216
 Gentofte;Never married;2008Q2;31394
 Gentofte;Never married;2008Q3;31433
@@ -2441,6 +2477,7 @@ Gentofte;Never married;2023Q3;35385
 Gentofte;Never married;2023Q4;35291
 Gentofte;Never married;2024Q1;35355
 Gentofte;Never married;2024Q2;35350
+Gentofte;Never married;2024Q3;35342
 Gentofte;Married/separated;2008Q1;27320
 Gentofte;Married/separated;2008Q2;27250
 Gentofte;Married/separated;2008Q3;27381
@@ -2507,6 +2544,7 @@ Gentofte;Married/separated;2023Q3;28862
 Gentofte;Married/separated;2023Q4;28941
 Gentofte;Married/separated;2024Q1;28963
 Gentofte;Married/separated;2024Q2;28889
+Gentofte;Married/separated;2024Q3;28905
 Gentofte;Widowed;2008Q1;4502
 Gentofte;Widowed;2008Q2;4460
 Gentofte;Widowed;2008Q3;4445
@@ -2573,6 +2611,7 @@ Gentofte;Widowed;2023Q3;3357
 Gentofte;Widowed;2023Q4;3347
 Gentofte;Widowed;2024Q1;3334
 Gentofte;Widowed;2024Q2;3337
+Gentofte;Widowed;2024Q3;3347
 Gentofte;Divorced;2008Q1;5875
 Gentofte;Divorced;2008Q2;5893
 Gentofte;Divorced;2008Q3;5929
@@ -2639,6 +2678,7 @@ Gentofte;Divorced;2023Q3;7411
 Gentofte;Divorced;2023Q4;7413
 Gentofte;Divorced;2024Q1;7381
 Gentofte;Divorced;2024Q2;7425
+Gentofte;Divorced;2024Q3;7459
 Gladsaxe;Never married;2008Q1;29193
 Gladsaxe;Never married;2008Q2;29400
 Gladsaxe;Never married;2008Q3;29508
@@ -2705,6 +2745,7 @@ Gladsaxe;Never married;2023Q3;35854
 Gladsaxe;Never married;2023Q4;35995
 Gladsaxe;Never married;2024Q1;36069
 Gladsaxe;Never married;2024Q2;36177
+Gladsaxe;Never married;2024Q3;36323
 Gladsaxe;Married/separated;2008Q1;23758
 Gladsaxe;Married/separated;2008Q2;23664
 Gladsaxe;Married/separated;2008Q3;23762
@@ -2771,6 +2812,7 @@ Gladsaxe;Married/separated;2023Q3;24735
 Gladsaxe;Married/separated;2023Q4;24894
 Gladsaxe;Married/separated;2024Q1;24863
 Gladsaxe;Married/separated;2024Q2;24847
+Gladsaxe;Married/separated;2024Q3;24957
 Gladsaxe;Widowed;2008Q1;3851
 Gladsaxe;Widowed;2008Q2;3847
 Gladsaxe;Widowed;2008Q3;3813
@@ -2837,6 +2879,7 @@ Gladsaxe;Widowed;2023Q3;2786
 Gladsaxe;Widowed;2023Q4;2764
 Gladsaxe;Widowed;2024Q1;2735
 Gladsaxe;Widowed;2024Q2;2736
+Gladsaxe;Widowed;2024Q3;2708
 Gladsaxe;Divorced;2008Q1;5760
 Gladsaxe;Divorced;2008Q2;5792
 Gladsaxe;Divorced;2008Q3;5780
@@ -2903,6 +2946,7 @@ Gladsaxe;Divorced;2023Q3;6947
 Gladsaxe;Divorced;2023Q4;6920
 Gladsaxe;Divorced;2024Q1;6933
 Gladsaxe;Divorced;2024Q2;6921
+Gladsaxe;Divorced;2024Q3;6914
 Glostrup;Never married;2008Q1;9376
 Glostrup;Never married;2008Q2;9426
 Glostrup;Never married;2008Q3;9472
@@ -2969,6 +3013,7 @@ Glostrup;Never married;2023Q3;11756
 Glostrup;Never married;2023Q4;11781
 Glostrup;Never married;2024Q1;11752
 Glostrup;Never married;2024Q2;11812
+Glostrup;Never married;2024Q3;11973
 Glostrup;Married/separated;2008Q1;7858
 Glostrup;Married/separated;2008Q2;7856
 Glostrup;Married/separated;2008Q3;7939
@@ -3035,6 +3080,7 @@ Glostrup;Married/separated;2023Q3;8334
 Glostrup;Married/separated;2023Q4;8378
 Glostrup;Married/separated;2024Q1;8384
 Glostrup;Married/separated;2024Q2;8361
+Glostrup;Married/separated;2024Q3;8408
 Glostrup;Widowed;2008Q1;1433
 Glostrup;Widowed;2008Q2;1433
 Glostrup;Widowed;2008Q3;1427
@@ -3101,6 +3147,7 @@ Glostrup;Widowed;2023Q3;1145
 Glostrup;Widowed;2023Q4;1137
 Glostrup;Widowed;2024Q1;1120
 Glostrup;Widowed;2024Q2;1108
+Glostrup;Widowed;2024Q3;1118
 Glostrup;Divorced;2008Q1;2006
 Glostrup;Divorced;2008Q2;2019
 Glostrup;Divorced;2008Q3;1996
@@ -3167,6 +3214,7 @@ Glostrup;Divorced;2023Q3;2434
 Glostrup;Divorced;2023Q4;2413
 Glostrup;Divorced;2024Q1;2399
 Glostrup;Divorced;2024Q2;2385
+Glostrup;Divorced;2024Q3;2400
 Herlev;Never married;2008Q1;11564
 Herlev;Never married;2008Q2;11583
 Herlev;Never married;2008Q3;11619
@@ -3233,6 +3281,7 @@ Herlev;Never married;2023Q3;14277
 Herlev;Never married;2023Q4;14369
 Herlev;Never married;2024Q1;14602
 Herlev;Never married;2024Q2;14749
+Herlev;Never married;2024Q3;14815
 Herlev;Married/separated;2008Q1;10873
 Herlev;Married/separated;2008Q2;10870
 Herlev;Married/separated;2008Q3;10901
@@ -3299,6 +3348,7 @@ Herlev;Married/separated;2023Q3;10472
 Herlev;Married/separated;2023Q4;10603
 Herlev;Married/separated;2024Q1;10698
 Herlev;Married/separated;2024Q2;10675
+Herlev;Married/separated;2024Q3;10738
 Herlev;Widowed;2008Q1;1705
 Herlev;Widowed;2008Q2;1708
 Herlev;Widowed;2008Q3;1705
@@ -3365,6 +3415,7 @@ Herlev;Widowed;2023Q3;1499
 Herlev;Widowed;2023Q4;1496
 Herlev;Widowed;2024Q1;1484
 Herlev;Widowed;2024Q2;1488
+Herlev;Widowed;2024Q3;1490
 Herlev;Divorced;2008Q1;2425
 Herlev;Divorced;2008Q2;2413
 Herlev;Divorced;2008Q3;2407
@@ -3431,6 +3482,7 @@ Herlev;Divorced;2023Q3;3070
 Herlev;Divorced;2023Q4;3065
 Herlev;Divorced;2024Q1;3092
 Herlev;Divorced;2024Q2;3125
+Herlev;Divorced;2024Q3;3134
 Hvidovre;Never married;2008Q1;22525
 Hvidovre;Never married;2008Q2;22542
 Hvidovre;Never married;2008Q3;22506
@@ -3497,6 +3549,7 @@ Hvidovre;Never married;2023Q3;27027
 Hvidovre;Never married;2023Q4;27142
 Hvidovre;Never married;2024Q1;27186
 Hvidovre;Never married;2024Q2;27226
+Hvidovre;Never married;2024Q3;27226
 Hvidovre;Married/separated;2008Q1;19311
 Hvidovre;Married/separated;2008Q2;19195
 Hvidovre;Married/separated;2008Q3;19230
@@ -3563,6 +3616,7 @@ Hvidovre;Married/separated;2023Q3;18949
 Hvidovre;Married/separated;2023Q4;19054
 Hvidovre;Married/separated;2024Q1;18997
 Hvidovre;Married/separated;2024Q2;18950
+Hvidovre;Married/separated;2024Q3;19002
 Hvidovre;Widowed;2008Q1;2993
 Hvidovre;Widowed;2008Q2;2981
 Hvidovre;Widowed;2008Q3;2981
@@ -3629,6 +3683,7 @@ Hvidovre;Widowed;2023Q3;2390
 Hvidovre;Widowed;2023Q4;2373
 Hvidovre;Widowed;2024Q1;2354
 Hvidovre;Widowed;2024Q2;2353
+Hvidovre;Widowed;2024Q3;2333
 Hvidovre;Divorced;2008Q1;4551
 Hvidovre;Divorced;2008Q2;4566
 Hvidovre;Divorced;2008Q3;4552
@@ -3695,6 +3750,7 @@ Hvidovre;Divorced;2023Q3;5259
 Hvidovre;Divorced;2023Q4;5204
 Hvidovre;Divorced;2024Q1;5223
 Hvidovre;Divorced;2024Q2;5256
+Hvidovre;Divorced;2024Q3;5242
 Høje-Taastrup;Never married;2008Q1;21170
 Høje-Taastrup;Never married;2008Q2;21269
 Høje-Taastrup;Never married;2008Q3;21231
@@ -3761,6 +3817,7 @@ Høje-Taastrup;Never married;2023Q3;27232
 Høje-Taastrup;Never married;2023Q4;27733
 Høje-Taastrup;Never married;2024Q1;27998
 Høje-Taastrup;Never married;2024Q2;28229
+Høje-Taastrup;Never married;2024Q3;28435
 Høje-Taastrup;Married/separated;2008Q1;19748
 Høje-Taastrup;Married/separated;2008Q2;19703
 Høje-Taastrup;Married/separated;2008Q3;19742
@@ -3827,6 +3884,7 @@ Høje-Taastrup;Married/separated;2023Q3;21556
 Høje-Taastrup;Married/separated;2023Q4;21810
 Høje-Taastrup;Married/separated;2024Q1;21980
 Høje-Taastrup;Married/separated;2024Q2;22121
+Høje-Taastrup;Married/separated;2024Q3;22405
 Høje-Taastrup;Widowed;2008Q1;2193
 Høje-Taastrup;Widowed;2008Q2;2191
 Høje-Taastrup;Widowed;2008Q3;2197
@@ -3893,6 +3951,7 @@ Høje-Taastrup;Widowed;2023Q3;2341
 Høje-Taastrup;Widowed;2023Q4;2326
 Høje-Taastrup;Widowed;2024Q1;2337
 Høje-Taastrup;Widowed;2024Q2;2338
+Høje-Taastrup;Widowed;2024Q3;2353
 Høje-Taastrup;Divorced;2008Q1;4047
 Høje-Taastrup;Divorced;2008Q2;4062
 Høje-Taastrup;Divorced;2008Q3;4099
@@ -3959,6 +4018,7 @@ Høje-Taastrup;Divorced;2023Q3;5171
 Høje-Taastrup;Divorced;2023Q4;5210
 Høje-Taastrup;Divorced;2024Q1;5225
 Høje-Taastrup;Divorced;2024Q2;5253
+Høje-Taastrup;Divorced;2024Q3;5272
 Ishøj;Never married;2008Q1;9524
 Ishøj;Never married;2008Q2;9517
 Ishøj;Never married;2008Q3;9479
@@ -4025,6 +4085,7 @@ Ishøj;Never married;2023Q3;11325
 Ishøj;Never married;2023Q4;11266
 Ishøj;Never married;2024Q1;11306
 Ishøj;Never married;2024Q2;11351
+Ishøj;Never married;2024Q3;11386
 Ishøj;Married/separated;2008Q1;8456
 Ishøj;Married/separated;2008Q2;8448
 Ishøj;Married/separated;2008Q3;8451
@@ -4091,6 +4152,7 @@ Ishøj;Married/separated;2023Q3;8972
 Ishøj;Married/separated;2023Q4;9048
 Ishøj;Married/separated;2024Q1;9008
 Ishøj;Married/separated;2024Q2;9041
+Ishøj;Married/separated;2024Q3;9077
 Ishøj;Widowed;2008Q1;850
 Ishøj;Widowed;2008Q2;852
 Ishøj;Widowed;2008Q3;851
@@ -4157,6 +4219,7 @@ Ishøj;Widowed;2023Q3;989
 Ishøj;Widowed;2023Q4;992
 Ishøj;Widowed;2024Q1;999
 Ishøj;Widowed;2024Q2;998
+Ishøj;Widowed;2024Q3;992
 Ishøj;Divorced;2008Q1;1857
 Ishøj;Divorced;2008Q2;1861
 Ishøj;Divorced;2008Q3;1884
@@ -4223,6 +4286,7 @@ Ishøj;Divorced;2023Q3;2357
 Ishøj;Divorced;2023Q4;2344
 Ishøj;Divorced;2024Q1;2350
 Ishøj;Divorced;2024Q2;2337
+Ishøj;Divorced;2024Q3;2336
 Lyngby-Taarbæk;Never married;2008Q1;23165
 Lyngby-Taarbæk;Never married;2008Q2;23341
 Lyngby-Taarbæk;Never married;2008Q3;23296
@@ -4289,6 +4353,7 @@ Lyngby-Taarbæk;Never married;2023Q3;29693
 Lyngby-Taarbæk;Never married;2023Q4;30038
 Lyngby-Taarbæk;Never married;2024Q1;29857
 Lyngby-Taarbæk;Never married;2024Q2;30033
+Lyngby-Taarbæk;Never married;2024Q3;29924
 Lyngby-Taarbæk;Married/separated;2008Q1;19947
 Lyngby-Taarbæk;Married/separated;2008Q2;19842
 Lyngby-Taarbæk;Married/separated;2008Q3;19814
@@ -4355,6 +4420,7 @@ Lyngby-Taarbæk;Married/separated;2023Q3;20647
 Lyngby-Taarbæk;Married/separated;2023Q4;20765
 Lyngby-Taarbæk;Married/separated;2024Q1;20763
 Lyngby-Taarbæk;Married/separated;2024Q2;20670
+Lyngby-Taarbæk;Married/separated;2024Q3;20740
 Lyngby-Taarbæk;Widowed;2008Q1;3831
 Lyngby-Taarbæk;Widowed;2008Q2;3810
 Lyngby-Taarbæk;Widowed;2008Q3;3775
@@ -4421,6 +4487,7 @@ Lyngby-Taarbæk;Widowed;2023Q3;2540
 Lyngby-Taarbæk;Widowed;2023Q4;2522
 Lyngby-Taarbæk;Widowed;2024Q1;2506
 Lyngby-Taarbæk;Widowed;2024Q2;2487
+Lyngby-Taarbæk;Widowed;2024Q3;2474
 Lyngby-Taarbæk;Divorced;2008Q1;4506
 Lyngby-Taarbæk;Divorced;2008Q2;4515
 Lyngby-Taarbæk;Divorced;2008Q3;4552
@@ -4487,6 +4554,7 @@ Lyngby-Taarbæk;Divorced;2023Q3;5485
 Lyngby-Taarbæk;Divorced;2023Q4;5427
 Lyngby-Taarbæk;Divorced;2024Q1;5412
 Lyngby-Taarbæk;Divorced;2024Q2;5403
+Lyngby-Taarbæk;Divorced;2024Q3;5392
 Rødovre;Never married;2008Q1;16208
 Rødovre;Never married;2008Q2;16246
 Rødovre;Never married;2008Q3;16231
@@ -4553,6 +4621,7 @@ Rødovre;Never married;2023Q3;22021
 Rødovre;Never married;2023Q4;22128
 Rødovre;Never married;2024Q1;22378
 Rødovre;Never married;2024Q2;22513
+Rødovre;Never married;2024Q3;22601
 Rødovre;Married/separated;2008Q1;13790
 Rødovre;Married/separated;2008Q2;13765
 Rødovre;Married/separated;2008Q3;13762
@@ -4619,6 +4688,7 @@ Rødovre;Married/separated;2023Q3;15154
 Rødovre;Married/separated;2023Q4;15367
 Rødovre;Married/separated;2024Q1;15474
 Rødovre;Married/separated;2024Q2;15518
+Rødovre;Married/separated;2024Q3;15597
 Rødovre;Widowed;2008Q1;2522
 Rødovre;Widowed;2008Q2;2528
 Rødovre;Widowed;2008Q3;2516
@@ -4685,6 +4755,7 @@ Rødovre;Widowed;2023Q3;1991
 Rødovre;Widowed;2023Q4;1991
 Rødovre;Widowed;2024Q1;1997
 Rødovre;Widowed;2024Q2;1991
+Rødovre;Widowed;2024Q3;1982
 Rødovre;Divorced;2008Q1;3624
 Rødovre;Divorced;2008Q2;3624
 Rødovre;Divorced;2008Q3;3617
@@ -4751,6 +4822,7 @@ Rødovre;Divorced;2023Q3;4428
 Rødovre;Divorced;2023Q4;4439
 Rødovre;Divorced;2024Q1;4479
 Rødovre;Divorced;2024Q2;4490
+Rødovre;Divorced;2024Q3;4457
 Vallensbæk;Never married;2008Q1;4861
 Vallensbæk;Never married;2008Q2;5057
 Vallensbæk;Never married;2008Q3;5165
@@ -4817,6 +4889,7 @@ Vallensbæk;Never married;2023Q3;8024
 Vallensbæk;Never married;2023Q4;8136
 Vallensbæk;Never married;2024Q1;8170
 Vallensbæk;Never married;2024Q2;8197
+Vallensbæk;Never married;2024Q3;8250
 Vallensbæk;Married/separated;2008Q1;6083
 Vallensbæk;Married/separated;2008Q2;6168
 Vallensbæk;Married/separated;2008Q3;6236
@@ -4883,6 +4956,7 @@ Vallensbæk;Married/separated;2023Q3;7384
 Vallensbæk;Married/separated;2023Q4;7491
 Vallensbæk;Married/separated;2024Q1;7488
 Vallensbæk;Married/separated;2024Q2;7532
+Vallensbæk;Married/separated;2024Q3;7544
 Vallensbæk;Widowed;2008Q1;566
 Vallensbæk;Widowed;2008Q2;577
 Vallensbæk;Widowed;2008Q3;586
@@ -4949,6 +5023,7 @@ Vallensbæk;Widowed;2023Q3;757
 Vallensbæk;Widowed;2023Q4;761
 Vallensbæk;Widowed;2024Q1;774
 Vallensbæk;Widowed;2024Q2;777
+Vallensbæk;Widowed;2024Q3;788
 Vallensbæk;Divorced;2008Q1;889
 Vallensbæk;Divorced;2008Q2;908
 Vallensbæk;Divorced;2008Q3;913
@@ -5015,6 +5090,7 @@ Vallensbæk;Divorced;2023Q3;1335
 Vallensbæk;Divorced;2023Q4;1362
 Vallensbæk;Divorced;2024Q1;1368
 Vallensbæk;Divorced;2024Q2;1378
+Vallensbæk;Divorced;2024Q3;1378
 Allerød;Never married;2008Q1;9474
 Allerød;Never married;2008Q2;9524
 Allerød;Never married;2008Q3;9570
@@ -5081,6 +5157,7 @@ Allerød;Never married;2023Q3;10835
 Allerød;Never married;2023Q4;10777
 Allerød;Never married;2024Q1;10797
 Allerød;Never married;2024Q2;10833
+Allerød;Never married;2024Q3;10802
 Allerød;Married/separated;2008Q1;11503
 Allerød;Married/separated;2008Q2;11457
 Allerød;Married/separated;2008Q3;11539
@@ -5147,6 +5224,7 @@ Allerød;Married/separated;2023Q3;11888
 Allerød;Married/separated;2023Q4;11913
 Allerød;Married/separated;2024Q1;11887
 Allerød;Married/separated;2024Q2;11859
+Allerød;Married/separated;2024Q3;11887
 Allerød;Widowed;2008Q1;1034
 Allerød;Widowed;2008Q2;1040
 Allerød;Widowed;2008Q3;1045
@@ -5213,6 +5291,7 @@ Allerød;Widowed;2023Q3;1263
 Allerød;Widowed;2023Q4;1260
 Allerød;Widowed;2024Q1;1259
 Allerød;Widowed;2024Q2;1258
+Allerød;Widowed;2024Q3;1256
 Allerød;Divorced;2008Q1;1482
 Allerød;Divorced;2008Q2;1494
 Allerød;Divorced;2008Q3;1496
@@ -5279,6 +5358,7 @@ Allerød;Divorced;2023Q3;2020
 Allerød;Divorced;2023Q4;2005
 Allerød;Divorced;2024Q1;2019
 Allerød;Divorced;2024Q2;2027
+Allerød;Divorced;2024Q3;2032
 Egedal;Never married;2008Q1;16764
 Egedal;Never married;2008Q2;16927
 Egedal;Never married;2008Q3;16994
@@ -5345,6 +5425,7 @@ Egedal;Never married;2023Q3;19739
 Egedal;Never married;2023Q4;19770
 Egedal;Never married;2024Q1;19812
 Egedal;Never married;2024Q2;19844
+Egedal;Never married;2024Q3;19877
 Egedal;Married/separated;2008Q1;19874
 Egedal;Married/separated;2008Q2;19858
 Egedal;Married/separated;2008Q3;19911
@@ -5411,6 +5492,7 @@ Egedal;Married/separated;2023Q3;19880
 Egedal;Married/separated;2023Q4;19962
 Egedal;Married/separated;2024Q1;19912
 Egedal;Married/separated;2024Q2;19871
+Egedal;Married/separated;2024Q3;19861
 Egedal;Widowed;2008Q1;1513
 Egedal;Widowed;2008Q2;1514
 Egedal;Widowed;2008Q3;1516
@@ -5477,6 +5559,7 @@ Egedal;Widowed;2023Q3;2093
 Egedal;Widowed;2023Q4;2107
 Egedal;Widowed;2024Q1;2136
 Egedal;Widowed;2024Q2;2145
+Egedal;Widowed;2024Q3;2134
 Egedal;Divorced;2008Q1;2382
 Egedal;Divorced;2008Q2;2434
 Egedal;Divorced;2008Q3;2479
@@ -5543,6 +5626,7 @@ Egedal;Divorced;2023Q3;3672
 Egedal;Divorced;2023Q4;3680
 Egedal;Divorced;2024Q1;3672
 Egedal;Divorced;2024Q2;3696
+Egedal;Divorced;2024Q3;3675
 Fredensborg;Never married;2008Q1;16496
 Fredensborg;Never married;2008Q2;16491
 Fredensborg;Never married;2008Q3;16486
@@ -5609,6 +5693,7 @@ Fredensborg;Never married;2023Q3;17905
 Fredensborg;Never married;2023Q4;17849
 Fredensborg;Never married;2024Q1;18016
 Fredensborg;Never married;2024Q2;18074
+Fredensborg;Never married;2024Q3;18100
 Fredensborg;Married/separated;2008Q1;17339
 Fredensborg;Married/separated;2008Q2;17224
 Fredensborg;Married/separated;2008Q3;17258
@@ -5675,6 +5760,7 @@ Fredensborg;Married/separated;2023Q3;17539
 Fredensborg;Married/separated;2023Q4;17552
 Fredensborg;Married/separated;2024Q1;17582
 Fredensborg;Married/separated;2024Q2;17515
+Fredensborg;Married/separated;2024Q3;17515
 Fredensborg;Widowed;2008Q1;1879
 Fredensborg;Widowed;2008Q2;1902
 Fredensborg;Widowed;2008Q3;1902
@@ -5741,6 +5827,7 @@ Fredensborg;Widowed;2023Q3;2065
 Fredensborg;Widowed;2023Q4;2073
 Fredensborg;Widowed;2024Q1;2091
 Fredensborg;Widowed;2024Q2;2089
+Fredensborg;Widowed;2024Q3;2113
 Fredensborg;Divorced;2008Q1;3526
 Fredensborg;Divorced;2008Q2;3531
 Fredensborg;Divorced;2008Q3;3568
@@ -5807,6 +5894,7 @@ Fredensborg;Divorced;2023Q3;4311
 Fredensborg;Divorced;2023Q4;4331
 Fredensborg;Divorced;2024Q1;4320
 Fredensborg;Divorced;2024Q2;4317
+Fredensborg;Divorced;2024Q3;4314
 Frederikssund;Never married;2008Q1;18221
 Frederikssund;Never married;2008Q2;18229
 Frederikssund;Never married;2008Q3;18259
@@ -5873,6 +5961,7 @@ Frederikssund;Never married;2023Q3;19238
 Frederikssund;Never married;2023Q4;19151
 Frederikssund;Never married;2024Q1;19182
 Frederikssund;Never married;2024Q2;19405
+Frederikssund;Never married;2024Q3;19523
 Frederikssund;Married/separated;2008Q1;19894
 Frederikssund;Married/separated;2008Q2;19858
 Frederikssund;Married/separated;2008Q3;19891
@@ -5939,6 +6028,7 @@ Frederikssund;Married/separated;2023Q3;19055
 Frederikssund;Married/separated;2023Q4;19175
 Frederikssund;Married/separated;2024Q1;19115
 Frederikssund;Married/separated;2024Q2;19105
+Frederikssund;Married/separated;2024Q3;19168
 Frederikssund;Widowed;2008Q1;2497
 Frederikssund;Widowed;2008Q2;2513
 Frederikssund;Widowed;2008Q3;2515
@@ -6005,6 +6095,7 @@ Frederikssund;Widowed;2023Q3;2854
 Frederikssund;Widowed;2023Q4;2865
 Frederikssund;Widowed;2024Q1;2882
 Frederikssund;Widowed;2024Q2;2880
+Frederikssund;Widowed;2024Q3;2888
 Frederikssund;Divorced;2008Q1;3490
 Frederikssund;Divorced;2008Q2;3550
 Frederikssund;Divorced;2008Q3;3580
@@ -6071,6 +6162,7 @@ Frederikssund;Divorced;2023Q3;5141
 Frederikssund;Divorced;2023Q4;5131
 Frederikssund;Divorced;2024Q1;5179
 Frederikssund;Divorced;2024Q2;5255
+Frederikssund;Divorced;2024Q3;5277
 Furesø;Never married;2008Q1;15529
 Furesø;Never married;2008Q2;15580
 Furesø;Never married;2008Q3;15597
@@ -6137,6 +6229,7 @@ Furesø;Never married;2023Q3;18367
 Furesø;Never married;2023Q4;18383
 Furesø;Never married;2024Q1;18445
 Furesø;Never married;2024Q2;18425
+Furesø;Never married;2024Q3;18472
 Furesø;Married/separated;2008Q1;17219
 Furesø;Married/separated;2008Q2;17252
 Furesø;Married/separated;2008Q3;17286
@@ -6203,6 +6296,7 @@ Furesø;Married/separated;2023Q3;18123
 Furesø;Married/separated;2023Q4;18255
 Furesø;Married/separated;2024Q1;18270
 Furesø;Married/separated;2024Q2;18210
+Furesø;Married/separated;2024Q3;18267
 Furesø;Widowed;2008Q1;1979
 Furesø;Widowed;2008Q2;1972
 Furesø;Widowed;2008Q3;1980
@@ -6269,6 +6363,7 @@ Furesø;Widowed;2023Q3;2149
 Furesø;Widowed;2023Q4;2151
 Furesø;Widowed;2024Q1;2158
 Furesø;Widowed;2024Q2;2152
+Furesø;Widowed;2024Q3;2172
 Furesø;Divorced;2008Q1;2940
 Furesø;Divorced;2008Q2;2949
 Furesø;Divorced;2008Q3;2947
@@ -6335,6 +6430,7 @@ Furesø;Divorced;2023Q3;3661
 Furesø;Divorced;2023Q4;3658
 Furesø;Divorced;2024Q1;3660
 Furesø;Divorced;2024Q2;3654
+Furesø;Divorced;2024Q3;3642
 Gribskov;Never married;2008Q1;16206
 Gribskov;Never married;2008Q2;16258
 Gribskov;Never married;2008Q3;16268
@@ -6401,6 +6497,7 @@ Gribskov;Never married;2023Q3;16475
 Gribskov;Never married;2023Q4;16445
 Gribskov;Never married;2024Q1;16446
 Gribskov;Never married;2024Q2;16358
+Gribskov;Never married;2024Q3;16441
 Gribskov;Married/separated;2008Q1;18550
 Gribskov;Married/separated;2008Q2;18502
 Gribskov;Married/separated;2008Q3;18552
@@ -6467,6 +6564,7 @@ Gribskov;Married/separated;2023Q3;18115
 Gribskov;Married/separated;2023Q4;18220
 Gribskov;Married/separated;2024Q1;18170
 Gribskov;Married/separated;2024Q2;18134
+Gribskov;Married/separated;2024Q3;18165
 Gribskov;Widowed;2008Q1;2291
 Gribskov;Widowed;2008Q2;2300
 Gribskov;Widowed;2008Q3;2309
@@ -6533,6 +6631,7 @@ Gribskov;Widowed;2023Q3;2569
 Gribskov;Widowed;2023Q4;2574
 Gribskov;Widowed;2024Q1;2575
 Gribskov;Widowed;2024Q2;2581
+Gribskov;Widowed;2024Q3;2599
 Gribskov;Divorced;2008Q1;3465
 Gribskov;Divorced;2008Q2;3508
 Gribskov;Divorced;2008Q3;3533
@@ -6599,6 +6698,7 @@ Gribskov;Divorced;2023Q3;4778
 Gribskov;Divorced;2023Q4;4775
 Gribskov;Divorced;2024Q1;4729
 Gribskov;Divorced;2024Q2;4744
+Gribskov;Divorced;2024Q3;4753
 Halsnæs;Never married;2008Q1;12487
 Halsnæs;Never married;2008Q2;12481
 Halsnæs;Never married;2008Q3;12564
@@ -6665,6 +6765,7 @@ Halsnæs;Never married;2023Q3;12668
 Halsnæs;Never married;2023Q4;12642
 Halsnæs;Never married;2024Q1;12689
 Halsnæs;Never married;2024Q2;12751
+Halsnæs;Never married;2024Q3;12758
 Halsnæs;Married/separated;2008Q1;13478
 Halsnæs;Married/separated;2008Q2;13426
 Halsnæs;Married/separated;2008Q3;13465
@@ -6731,6 +6832,7 @@ Halsnæs;Married/separated;2023Q3;13003
 Halsnæs;Married/separated;2023Q4;13051
 Halsnæs;Married/separated;2024Q1;13019
 Halsnæs;Married/separated;2024Q2;13006
+Halsnæs;Married/separated;2024Q3;13031
 Halsnæs;Widowed;2008Q1;2004
 Halsnæs;Widowed;2008Q2;1995
 Halsnæs;Widowed;2008Q3;1998
@@ -6797,6 +6899,7 @@ Halsnæs;Widowed;2023Q3;2047
 Halsnæs;Widowed;2023Q4;2053
 Halsnæs;Widowed;2024Q1;2041
 Halsnæs;Widowed;2024Q2;2033
+Halsnæs;Widowed;2024Q3;2044
 Halsnæs;Divorced;2008Q1;2855
 Halsnæs;Divorced;2008Q2;2865
 Halsnæs;Divorced;2008Q3;2899
@@ -6863,6 +6966,7 @@ Halsnæs;Divorced;2023Q3;3798
 Halsnæs;Divorced;2023Q4;3784
 Halsnæs;Divorced;2024Q1;3766
 Halsnæs;Divorced;2024Q2;3814
+Halsnæs;Divorced;2024Q3;3799
 Helsingør;Never married;2008Q1;26057
 Helsingør;Never married;2008Q2;26113
 Helsingør;Never married;2008Q3;26079
@@ -6929,6 +7033,7 @@ Helsingør;Never married;2023Q3;27786
 Helsingør;Never married;2023Q4;27757
 Helsingør;Never married;2024Q1;27741
 Helsingør;Never married;2024Q2;27848
+Helsingør;Never married;2024Q3;27949
 Helsingør;Married/separated;2008Q1;24824
 Helsingør;Married/separated;2008Q2;24739
 Helsingør;Married/separated;2008Q3;24803
@@ -6995,6 +7100,7 @@ Helsingør;Married/separated;2023Q3;24562
 Helsingør;Married/separated;2023Q4;24734
 Helsingør;Married/separated;2024Q1;24733
 Helsingør;Married/separated;2024Q2;24651
+Helsingør;Married/separated;2024Q3;24706
 Helsingør;Widowed;2008Q1;3638
 Helsingør;Widowed;2008Q2;3611
 Helsingør;Widowed;2008Q3;3575
@@ -7061,6 +7167,7 @@ Helsingør;Widowed;2023Q3;3577
 Helsingør;Widowed;2023Q4;3561
 Helsingør;Widowed;2024Q1;3587
 Helsingør;Widowed;2024Q2;3601
+Helsingør;Widowed;2024Q3;3604
 Helsingør;Divorced;2008Q1;6325
 Helsingør;Divorced;2008Q2;6369
 Helsingør;Divorced;2008Q3;6382
@@ -7127,6 +7234,7 @@ Helsingør;Divorced;2023Q3;7750
 Helsingør;Divorced;2023Q4;7744
 Helsingør;Divorced;2024Q1;7777
 Helsingør;Divorced;2024Q2;7788
+Helsingør;Divorced;2024Q3;7757
 Hillerød;Never married;2008Q1;20540
 Hillerød;Never married;2008Q2;20572
 Hillerød;Never married;2008Q3;20626
@@ -7193,6 +7301,7 @@ Hillerød;Never married;2023Q3;25368
 Hillerød;Never married;2023Q4;25315
 Hillerød;Never married;2024Q1;25403
 Hillerød;Never married;2024Q2;25467
+Hillerød;Never married;2024Q3;25600
 Hillerød;Married/separated;2008Q1;20151
 Hillerød;Married/separated;2008Q2;20129
 Hillerød;Married/separated;2008Q3;20221
@@ -7259,6 +7368,7 @@ Hillerød;Married/separated;2023Q3;21117
 Hillerød;Married/separated;2023Q4;21215
 Hillerød;Married/separated;2024Q1;21272
 Hillerød;Married/separated;2024Q2;21287
+Hillerød;Married/separated;2024Q3;21356
 Hillerød;Widowed;2008Q1;2346
 Hillerød;Widowed;2008Q2;2354
 Hillerød;Widowed;2008Q3;2356
@@ -7325,6 +7435,7 @@ Hillerød;Widowed;2023Q3;2500
 Hillerød;Widowed;2023Q4;2498
 Hillerød;Widowed;2024Q1;2503
 Hillerød;Widowed;2024Q2;2501
+Hillerød;Widowed;2024Q3;2517
 Hillerød;Divorced;2008Q1;3531
 Hillerød;Divorced;2008Q2;3552
 Hillerød;Divorced;2008Q3;3568
@@ -7391,6 +7502,7 @@ Hillerød;Divorced;2023Q3;5206
 Hillerød;Divorced;2023Q4;5215
 Hillerød;Divorced;2024Q1;5244
 Hillerød;Divorced;2024Q2;5257
+Hillerød;Divorced;2024Q3;5244
 Hørsholm;Never married;2008Q1;9217
 Hørsholm;Never married;2008Q2;9227
 Hørsholm;Never married;2008Q3;9254
@@ -7457,6 +7569,7 @@ Hørsholm;Never married;2023Q3;9737
 Hørsholm;Never married;2023Q4;9708
 Hørsholm;Never married;2024Q1;9732
 Hørsholm;Never married;2024Q2;9766
+Hørsholm;Never married;2024Q3;9829
 Hørsholm;Married/separated;2008Q1;11217
 Hørsholm;Married/separated;2008Q2;11204
 Hørsholm;Married/separated;2008Q3;11206
@@ -7523,6 +7636,7 @@ Hørsholm;Married/separated;2023Q3;10689
 Hørsholm;Married/separated;2023Q4;10705
 Hørsholm;Married/separated;2024Q1;10729
 Hørsholm;Married/separated;2024Q2;10709
+Hørsholm;Married/separated;2024Q3;10748
 Hørsholm;Widowed;2008Q1;1587
 Hørsholm;Widowed;2008Q2;1579
 Hørsholm;Widowed;2008Q3;1582
@@ -7589,6 +7703,7 @@ Hørsholm;Widowed;2023Q3;1626
 Hørsholm;Widowed;2023Q4;1625
 Hørsholm;Widowed;2024Q1;1625
 Hørsholm;Widowed;2024Q2;1624
+Hørsholm;Widowed;2024Q3;1625
 Hørsholm;Divorced;2008Q1;2176
 Hørsholm;Divorced;2008Q2;2179
 Hørsholm;Divorced;2008Q3;2183
@@ -7655,6 +7770,7 @@ Hørsholm;Divorced;2023Q3;2740
 Hørsholm;Divorced;2023Q4;2736
 Hørsholm;Divorced;2024Q1;2725
 Hørsholm;Divorced;2024Q2;2732
+Hørsholm;Divorced;2024Q3;2735
 Rudersdal;Never married;2008Q1;22433
 Rudersdal;Never married;2008Q2;22500
 Rudersdal;Never married;2008Q3;22590
@@ -7721,6 +7837,7 @@ Rudersdal;Never married;2023Q3;24947
 Rudersdal;Never married;2023Q4;25004
 Rudersdal;Never married;2024Q1;25065
 Rudersdal;Never married;2024Q2;25167
+Rudersdal;Never married;2024Q3;25132
 Rudersdal;Married/separated;2008Q1;23850
 Rudersdal;Married/separated;2008Q2;23790
 Rudersdal;Married/separated;2008Q3;23764
@@ -7787,6 +7904,7 @@ Rudersdal;Married/separated;2023Q3;23940
 Rudersdal;Married/separated;2023Q4;24078
 Rudersdal;Married/separated;2024Q1;24034
 Rudersdal;Married/separated;2024Q2;23971
+Rudersdal;Married/separated;2024Q3;24035
 Rudersdal;Widowed;2008Q1;3442
 Rudersdal;Widowed;2008Q2;3418
 Rudersdal;Widowed;2008Q3;3403
@@ -7853,6 +7971,7 @@ Rudersdal;Widowed;2023Q3;3108
 Rudersdal;Widowed;2023Q4;3097
 Rudersdal;Widowed;2024Q1;3090
 Rudersdal;Widowed;2024Q2;3091
+Rudersdal;Widowed;2024Q3;3085
 Rudersdal;Divorced;2008Q1;4144
 Rudersdal;Divorced;2008Q2;4151
 Rudersdal;Divorced;2008Q3;4167
@@ -7919,6 +8038,7 @@ Rudersdal;Divorced;2023Q3;5060
 Rudersdal;Divorced;2023Q4;5040
 Rudersdal;Divorced;2024Q1;5048
 Rudersdal;Divorced;2024Q2;5064
+Rudersdal;Divorced;2024Q3;5056
 Bornholm;Never married;2008Q1;17226
 Bornholm;Never married;2008Q2;17230
 Bornholm;Never married;2008Q3;17271
@@ -7985,6 +8105,7 @@ Bornholm;Never married;2023Q3;16388
 Bornholm;Never married;2023Q4;16267
 Bornholm;Never married;2024Q1;16245
 Bornholm;Never married;2024Q2;16263
+Bornholm;Never married;2024Q3;16343
 Bornholm;Married/separated;2008Q1;18335
 Bornholm;Married/separated;2008Q2;18217
 Bornholm;Married/separated;2008Q3;18179
@@ -8051,6 +8172,7 @@ Bornholm;Married/separated;2023Q3;15729
 Bornholm;Married/separated;2023Q4;15730
 Bornholm;Married/separated;2024Q1;15616
 Bornholm;Married/separated;2024Q2;15482
+Bornholm;Married/separated;2024Q3;15451
 Bornholm;Widowed;2008Q1;3389
 Bornholm;Widowed;2008Q2;3403
 Bornholm;Widowed;2008Q3;3404
@@ -8117,6 +8239,7 @@ Bornholm;Widowed;2023Q3;2748
 Bornholm;Widowed;2023Q4;2737
 Bornholm;Widowed;2024Q1;2749
 Bornholm;Widowed;2024Q2;2748
+Bornholm;Widowed;2024Q3;2737
 Bornholm;Divorced;2008Q1;3867
 Bornholm;Divorced;2008Q2;3870
 Bornholm;Divorced;2008Q3;3892
@@ -8183,6 +8306,7 @@ Bornholm;Divorced;2023Q3;4736
 Bornholm;Divorced;2023Q4;4726
 Bornholm;Divorced;2024Q1;4722
 Bornholm;Divorced;2024Q2;4736
+Bornholm;Divorced;2024Q3;4726
 Christiansø;Never married;2008Q1;35
 Christiansø;Never married;2008Q2;31
 Christiansø;Never married;2008Q3;35
@@ -8249,6 +8373,7 @@ Christiansø;Never married;2023Q3;37
 Christiansø;Never married;2023Q4;34
 Christiansø;Never married;2024Q1;34
 Christiansø;Never married;2024Q2;35
+Christiansø;Never married;2024Q3;35
 Christiansø;Married/separated;2008Q1;46
 Christiansø;Married/separated;2008Q2;48
 Christiansø;Married/separated;2008Q3;52
@@ -8315,6 +8440,7 @@ Christiansø;Married/separated;2023Q3;47
 Christiansø;Married/separated;2023Q4;45
 Christiansø;Married/separated;2024Q1;45
 Christiansø;Married/separated;2024Q2;45
+Christiansø;Married/separated;2024Q3;45
 Christiansø;Widowed;2008Q1;8
 Christiansø;Widowed;2008Q2;8
 Christiansø;Widowed;2008Q3;8
@@ -8381,6 +8507,7 @@ Christiansø;Widowed;2023Q3;7
 Christiansø;Widowed;2023Q4;7
 Christiansø;Widowed;2024Q1;7
 Christiansø;Widowed;2024Q2;7
+Christiansø;Widowed;2024Q3;7
 Christiansø;Divorced;2008Q1;7
 Christiansø;Divorced;2008Q2;7
 Christiansø;Divorced;2008Q3;5
@@ -8447,6 +8574,7 @@ Christiansø;Divorced;2023Q3;3
 Christiansø;Divorced;2023Q4;5
 Christiansø;Divorced;2024Q1;5
 Christiansø;Divorced;2024Q2;5
+Christiansø;Divorced;2024Q3;5
 Region Sjælland;Never married;2008Q1;350995
 Region Sjælland;Never married;2008Q2;351889
 Region Sjælland;Never married;2008Q3;352293
@@ -8513,6 +8641,7 @@ Region Sjælland;Never married;2023Q3;380798
 Region Sjælland;Never married;2023Q4;380024
 Region Sjælland;Never married;2024Q1;381368
 Region Sjælland;Never married;2024Q2;382378
+Region Sjælland;Never married;2024Q3;382476
 Region Sjælland;Married/separated;2008Q1;349013
 Region Sjælland;Married/separated;2008Q2;348004
 Region Sjælland;Married/separated;2008Q3;348699
@@ -8579,6 +8708,7 @@ Region Sjælland;Married/separated;2023Q3;327654
 Region Sjælland;Married/separated;2023Q4;329147
 Region Sjælland;Married/separated;2024Q1;328708
 Region Sjælland;Married/separated;2024Q2;327510
+Region Sjælland;Married/separated;2024Q3;328108
 Region Sjælland;Widowed;2008Q1;50758
 Region Sjælland;Widowed;2008Q2;50782
 Region Sjælland;Widowed;2008Q3;50656
@@ -8645,6 +8775,7 @@ Region Sjælland;Widowed;2023Q3;49002
 Region Sjælland;Widowed;2023Q4;48991
 Region Sjælland;Widowed;2024Q1;49012
 Region Sjælland;Widowed;2024Q2;48978
+Region Sjælland;Widowed;2024Q3;48959
 Region Sjælland;Divorced;2008Q1;68661
 Region Sjælland;Divorced;2008Q2;69029
 Region Sjælland;Divorced;2008Q3;68948
@@ -8711,6 +8842,7 @@ Region Sjælland;Divorced;2023Q3;93853
 Region Sjælland;Divorced;2023Q4;93653
 Region Sjælland;Divorced;2024Q1;93865
 Region Sjælland;Divorced;2024Q2;94401
+Region Sjælland;Divorced;2024Q3;94342
 Greve;Never married;2008Q1;19459
 Greve;Never married;2008Q2;19474
 Greve;Never married;2008Q3;19484
@@ -8777,6 +8909,7 @@ Greve;Never married;2023Q3;21964
 Greve;Never married;2023Q4;22017
 Greve;Never married;2024Q1;22352
 Greve;Never married;2024Q2;22532
+Greve;Never married;2024Q3;22769
 Greve;Married/separated;2008Q1;22297
 Greve;Married/separated;2008Q2;22217
 Greve;Married/separated;2008Q3;22217
@@ -8843,6 +8976,7 @@ Greve;Married/separated;2023Q3;21983
 Greve;Married/separated;2023Q4;22125
 Greve;Married/separated;2024Q1;22147
 Greve;Married/separated;2024Q2;22113
+Greve;Married/separated;2024Q3;22204
 Greve;Widowed;2008Q1;2227
 Greve;Widowed;2008Q2;2245
 Greve;Widowed;2008Q3;2255
@@ -8909,6 +9043,7 @@ Greve;Widowed;2023Q3;2668
 Greve;Widowed;2023Q4;2675
 Greve;Widowed;2024Q1;2686
 Greve;Widowed;2024Q2;2673
+Greve;Widowed;2024Q3;2699
 Greve;Divorced;2008Q1;3790
 Greve;Divorced;2008Q2;3813
 Greve;Divorced;2008Q3;3787
@@ -8975,6 +9110,7 @@ Greve;Divorced;2023Q3;4981
 Greve;Divorced;2023Q4;4952
 Greve;Divorced;2024Q1;4972
 Greve;Divorced;2024Q2;4992
+Greve;Divorced;2024Q3;5000
 Køge;Never married;2008Q1;24632
 Køge;Never married;2008Q2;24702
 Køge;Never married;2008Q3;24739
@@ -9041,6 +9177,7 @@ Køge;Never married;2023Q3;28475
 Køge;Never married;2023Q4;28420
 Køge;Never married;2024Q1;28611
 Køge;Never married;2024Q2;28640
+Køge;Never married;2024Q3;28654
 Køge;Married/separated;2008Q1;24420
 Køge;Married/separated;2008Q2;24360
 Køge;Married/separated;2008Q3;24446
@@ -9107,6 +9244,7 @@ Køge;Married/separated;2023Q3;24337
 Køge;Married/separated;2023Q4;24446
 Køge;Married/separated;2024Q1;24461
 Køge;Married/separated;2024Q2;24438
+Køge;Married/separated;2024Q3;24532
 Køge;Widowed;2008Q1;3006
 Køge;Widowed;2008Q2;3008
 Køge;Widowed;2008Q3;2996
@@ -9173,6 +9311,7 @@ Køge;Widowed;2023Q3;3175
 Køge;Widowed;2023Q4;3176
 Køge;Widowed;2024Q1;3189
 Køge;Widowed;2024Q2;3208
+Køge;Widowed;2024Q3;3226
 Køge;Divorced;2008Q1;4579
 Køge;Divorced;2008Q2;4598
 Køge;Divorced;2008Q3;4599
@@ -9239,6 +9378,7 @@ Køge;Divorced;2023Q3;6587
 Køge;Divorced;2023Q4;6589
 Køge;Divorced;2024Q1;6587
 Køge;Divorced;2024Q2;6598
+Køge;Divorced;2024Q3;6591
 Lejre;Never married;2008Q1;10727
 Lejre;Never married;2008Q2;10746
 Lejre;Never married;2008Q3;10849
@@ -9305,6 +9445,7 @@ Lejre;Never married;2023Q3;12367
 Lejre;Never married;2023Q4;12370
 Lejre;Never married;2024Q1;12480
 Lejre;Never married;2024Q2;12529
+Lejre;Never married;2024Q3;12552
 Lejre;Married/separated;2008Q1;12951
 Lejre;Married/separated;2008Q2;12876
 Lejre;Married/separated;2008Q3;12934
@@ -9371,6 +9512,7 @@ Lejre;Married/separated;2023Q3;12636
 Lejre;Married/separated;2023Q4;12690
 Lejre;Married/separated;2024Q1;12719
 Lejre;Married/separated;2024Q2;12704
+Lejre;Married/separated;2024Q3;12764
 Lejre;Widowed;2008Q1;1264
 Lejre;Widowed;2008Q2;1270
 Lejre;Widowed;2008Q3;1285
@@ -9437,6 +9579,7 @@ Lejre;Widowed;2023Q3;1489
 Lejre;Widowed;2023Q4;1491
 Lejre;Widowed;2024Q1;1498
 Lejre;Widowed;2024Q2;1501
+Lejre;Widowed;2024Q3;1478
 Lejre;Divorced;2008Q1;1661
 Lejre;Divorced;2008Q2;1670
 Lejre;Divorced;2008Q3;1660
@@ -9503,6 +9646,7 @@ Lejre;Divorced;2023Q3;2642
 Lejre;Divorced;2023Q4;2662
 Lejre;Divorced;2024Q1;2650
 Lejre;Divorced;2024Q2;2671
+Lejre;Divorced;2024Q3;2645
 Roskilde;Never married;2008Q1;36351
 Roskilde;Never married;2008Q2;36416
 Roskilde;Never married;2008Q3;36403
@@ -9569,6 +9713,7 @@ Roskilde;Never married;2023Q3;42813
 Roskilde;Never married;2023Q4;42803
 Roskilde;Never married;2024Q1;42988
 Roskilde;Never married;2024Q2;43159
+Roskilde;Never married;2024Q3;43206
 Roskilde;Married/separated;2008Q1;33595
 Roskilde;Married/separated;2008Q2;33501
 Roskilde;Married/separated;2008Q3;33613
@@ -9635,6 +9780,7 @@ Roskilde;Married/separated;2023Q3;34677
 Roskilde;Married/separated;2023Q4;34926
 Roskilde;Married/separated;2024Q1;34965
 Roskilde;Married/separated;2024Q2;34890
+Roskilde;Married/separated;2024Q3;35023
 Roskilde;Widowed;2008Q1;4296
 Roskilde;Widowed;2008Q2;4300
 Roskilde;Widowed;2008Q3;4286
@@ -9701,6 +9847,7 @@ Roskilde;Widowed;2023Q3;4320
 Roskilde;Widowed;2023Q4;4294
 Roskilde;Widowed;2024Q1;4284
 Roskilde;Widowed;2024Q2;4283
+Roskilde;Widowed;2024Q3;4303
 Roskilde;Divorced;2008Q1;6445
 Roskilde;Divorced;2008Q2;6495
 Roskilde;Divorced;2008Q3;6487
@@ -9767,6 +9914,7 @@ Roskilde;Divorced;2023Q3;8650
 Roskilde;Divorced;2023Q4;8672
 Roskilde;Divorced;2024Q1;8694
 Roskilde;Divorced;2024Q2;8787
+Roskilde;Divorced;2024Q3;8828
 Solrød;Never married;2008Q1;8512
 Solrød;Never married;2008Q2;8517
 Solrød;Never married;2008Q3;8506
@@ -9833,6 +9981,7 @@ Solrød;Never married;2023Q3;10718
 Solrød;Never married;2023Q4;10761
 Solrød;Never married;2024Q1;10842
 Solrød;Never married;2024Q2;10878
+Solrød;Never married;2024Q3;10885
 Solrød;Married/separated;2008Q1;9832
 Solrød;Married/separated;2008Q2;9776
 Solrød;Married/separated;2008Q3;9773
@@ -9899,6 +10048,7 @@ Solrød;Married/separated;2023Q3;10375
 Solrød;Married/separated;2023Q4;10436
 Solrød;Married/separated;2024Q1;10381
 Solrød;Married/separated;2024Q2;10341
+Solrød;Married/separated;2024Q3;10392
 Solrød;Widowed;2008Q1;909
 Solrød;Widowed;2008Q2;912
 Solrød;Widowed;2008Q3;921
@@ -9965,6 +10115,7 @@ Solrød;Widowed;2023Q3;1078
 Solrød;Widowed;2023Q4;1081
 Solrød;Widowed;2024Q1;1095
 Solrød;Widowed;2024Q2;1103
+Solrød;Widowed;2024Q3;1107
 Solrød;Divorced;2008Q1;1506
 Solrød;Divorced;2008Q2;1497
 Solrød;Divorced;2008Q3;1492
@@ -10031,6 +10182,7 @@ Solrød;Divorced;2023Q3;2243
 Solrød;Divorced;2023Q4;2222
 Solrød;Divorced;2024Q1;2261
 Solrød;Divorced;2024Q2;2273
+Solrød;Divorced;2024Q3;2267
 Faxe;Never married;2008Q1;14852
 Faxe;Never married;2008Q2;14935
 Faxe;Never married;2008Q3;14887
@@ -10097,6 +10249,7 @@ Faxe;Never married;2023Q3;16305
 Faxe;Never married;2023Q4;16345
 Faxe;Never married;2024Q1;16388
 Faxe;Never married;2024Q2;16404
+Faxe;Never married;2024Q3;16334
 Faxe;Married/separated;2008Q1;15606
 Faxe;Married/separated;2008Q2;15585
 Faxe;Married/separated;2008Q3;15577
@@ -10163,6 +10316,7 @@ Faxe;Married/separated;2023Q3;14927
 Faxe;Married/separated;2023Q4;15028
 Faxe;Married/separated;2024Q1;14988
 Faxe;Married/separated;2024Q2;14906
+Faxe;Married/separated;2024Q3;14934
 Faxe;Widowed;2008Q1;2101
 Faxe;Widowed;2008Q2;2110
 Faxe;Widowed;2008Q3;2108
@@ -10229,6 +10383,7 @@ Faxe;Widowed;2023Q3;2147
 Faxe;Widowed;2023Q4;2136
 Faxe;Widowed;2024Q1;2165
 Faxe;Widowed;2024Q2;2187
+Faxe;Widowed;2024Q3;2201
 Faxe;Divorced;2008Q1;2859
 Faxe;Divorced;2008Q2;2881
 Faxe;Divorced;2008Q3;2878
@@ -10295,6 +10450,7 @@ Faxe;Divorced;2023Q3;4194
 Faxe;Divorced;2023Q4;4186
 Faxe;Divorced;2024Q1;4212
 Faxe;Divorced;2024Q2;4200
+Faxe;Divorced;2024Q3;4187
 Guldborgsund;Never married;2008Q1;26054
 Guldborgsund;Never married;2008Q2;26117
 Guldborgsund;Never married;2008Q3;26106
@@ -10361,6 +10517,7 @@ Guldborgsund;Never married;2023Q3;26121
 Guldborgsund;Never married;2023Q4;25899
 Guldborgsund;Never married;2024Q1;25930
 Guldborgsund;Never married;2024Q2;25899
+Guldborgsund;Never married;2024Q3;25888
 Guldborgsund;Married/separated;2008Q1;26678
 Guldborgsund;Married/separated;2008Q2;26547
 Guldborgsund;Married/separated;2008Q3;26557
@@ -10427,6 +10584,7 @@ Guldborgsund;Married/separated;2023Q3;22141
 Guldborgsund;Married/separated;2023Q4;22178
 Guldborgsund;Married/separated;2024Q1;22073
 Guldborgsund;Married/separated;2024Q2;21960
+Guldborgsund;Married/separated;2024Q3;21964
 Guldborgsund;Widowed;2008Q1;4913
 Guldborgsund;Widowed;2008Q2;4905
 Guldborgsund;Widowed;2008Q3;4878
@@ -10493,6 +10651,7 @@ Guldborgsund;Widowed;2023Q3;4251
 Guldborgsund;Widowed;2023Q4;4238
 Guldborgsund;Widowed;2024Q1;4219
 Guldborgsund;Widowed;2024Q2;4204
+Guldborgsund;Widowed;2024Q3;4173
 Guldborgsund;Divorced;2008Q1;5851
 Guldborgsund;Divorced;2008Q2;5866
 Guldborgsund;Divorced;2008Q3;5862
@@ -10559,6 +10718,7 @@ Guldborgsund;Divorced;2023Q3;7522
 Guldborgsund;Divorced;2023Q4;7493
 Guldborgsund;Divorced;2024Q1;7537
 Guldborgsund;Divorced;2024Q2;7553
+Guldborgsund;Divorced;2024Q3;7521
 Holbæk;Never married;2008Q1;30677
 Holbæk;Never married;2008Q2;30840
 Holbæk;Never married;2008Q3;30915
@@ -10625,6 +10785,7 @@ Holbæk;Never married;2023Q3;33581
 Holbæk;Never married;2023Q4;33563
 Holbæk;Never married;2024Q1;33697
 Holbæk;Never married;2024Q2;33817
+Holbæk;Never married;2024Q3;33845
 Holbæk;Married/separated;2008Q1;29024
 Holbæk;Married/separated;2008Q2;28990
 Holbæk;Married/separated;2008Q3;29058
@@ -10691,6 +10852,7 @@ Holbæk;Married/separated;2023Q3;28242
 Holbæk;Married/separated;2023Q4;28392
 Holbæk;Married/separated;2024Q1;28435
 Holbæk;Married/separated;2024Q2;28308
+Holbæk;Married/separated;2024Q3;28371
 Holbæk;Widowed;2008Q1;3943
 Holbæk;Widowed;2008Q2;3959
 Holbæk;Widowed;2008Q3;3943
@@ -10757,6 +10919,7 @@ Holbæk;Widowed;2023Q3;3955
 Holbæk;Widowed;2023Q4;3973
 Holbæk;Widowed;2024Q1;3975
 Holbæk;Widowed;2024Q2;3981
+Holbæk;Widowed;2024Q3;3981
 Holbæk;Divorced;2008Q1;5366
 Holbæk;Divorced;2008Q2;5393
 Holbæk;Divorced;2008Q3;5405
@@ -10823,6 +10986,7 @@ Holbæk;Divorced;2023Q3;7989
 Holbæk;Divorced;2023Q4;7991
 Holbæk;Divorced;2024Q1;8022
 Holbæk;Divorced;2024Q2;8085
+Holbæk;Divorced;2024Q3;8063
 Kalundborg;Never married;2008Q1;21461
 Kalundborg;Never married;2008Q2;21456
 Kalundborg;Never married;2008Q3;21513
@@ -10889,6 +11053,7 @@ Kalundborg;Never married;2023Q3;21562
 Kalundborg;Never married;2023Q4;21443
 Kalundborg;Never married;2024Q1;21395
 Kalundborg;Never married;2024Q2;21430
+Kalundborg;Never married;2024Q3;21400
 Kalundborg;Married/separated;2008Q1;20709
 Kalundborg;Married/separated;2008Q2;20639
 Kalundborg;Married/separated;2008Q3;20696
@@ -10955,6 +11120,7 @@ Kalundborg;Married/separated;2023Q3;18173
 Kalundborg;Married/separated;2023Q4;18256
 Kalundborg;Married/separated;2024Q1;18172
 Kalundborg;Married/separated;2024Q2;18124
+Kalundborg;Married/separated;2024Q3;18142
 Kalundborg;Widowed;2008Q1;3273
 Kalundborg;Widowed;2008Q2;3288
 Kalundborg;Widowed;2008Q3;3258
@@ -11021,6 +11187,7 @@ Kalundborg;Widowed;2023Q3;3051
 Kalundborg;Widowed;2023Q4;3054
 Kalundborg;Widowed;2024Q1;3045
 Kalundborg;Widowed;2024Q2;3044
+Kalundborg;Widowed;2024Q3;3028
 Kalundborg;Divorced;2008Q1;4300
 Kalundborg;Divorced;2008Q2;4328
 Kalundborg;Divorced;2008Q3;4378
@@ -11087,6 +11254,7 @@ Kalundborg;Divorced;2023Q3;5738
 Kalundborg;Divorced;2023Q4;5700
 Kalundborg;Divorced;2024Q1;5697
 Kalundborg;Divorced;2024Q2;5723
+Kalundborg;Divorced;2024Q3;5703
 Lolland;Never married;2008Q1;19681
 Lolland;Never married;2008Q2;19699
 Lolland;Never married;2008Q3;19732
@@ -11153,6 +11321,7 @@ Lolland;Never married;2023Q3;16924
 Lolland;Never married;2023Q4;16850
 Lolland;Never married;2024Q1;16832
 Lolland;Never married;2024Q2;16861
+Lolland;Never married;2024Q3;16796
 Lolland;Married/separated;2008Q1;19630
 Lolland;Married/separated;2008Q2;19510
 Lolland;Married/separated;2008Q3;19469
@@ -11219,6 +11388,7 @@ Lolland;Married/separated;2023Q3;14598
 Lolland;Married/separated;2023Q4;14632
 Lolland;Married/separated;2024Q1;14574
 Lolland;Married/separated;2024Q2;14513
+Lolland;Married/separated;2024Q3;14465
 Lolland;Widowed;2008Q1;4118
 Lolland;Widowed;2008Q2;4096
 Lolland;Widowed;2008Q3;4089
@@ -11285,6 +11455,7 @@ Lolland;Widowed;2023Q3;3208
 Lolland;Widowed;2023Q4;3204
 Lolland;Widowed;2024Q1;3194
 Lolland;Widowed;2024Q2;3179
+Lolland;Widowed;2024Q3;3174
 Lolland;Divorced;2008Q1;4790
 Lolland;Divorced;2008Q2;4790
 Lolland;Divorced;2008Q3;4791
@@ -11351,6 +11522,7 @@ Lolland;Divorced;2023Q3;5116
 Lolland;Divorced;2023Q4;5068
 Lolland;Divorced;2024Q1;5032
 Lolland;Divorced;2024Q2;5045
+Lolland;Divorced;2024Q3;5018
 Næstved;Never married;2008Q1;35759
 Næstved;Never married;2008Q2;35919
 Næstved;Never married;2008Q3;35918
@@ -11417,6 +11589,7 @@ Næstved;Never married;2023Q3;39339
 Næstved;Never married;2023Q4;39214
 Næstved;Never married;2024Q1;39278
 Næstved;Never married;2024Q2;39365
+Næstved;Never married;2024Q3;39334
 Næstved;Married/separated;2008Q1;32998
 Næstved;Married/separated;2008Q2;32870
 Næstved;Married/separated;2008Q3;32955
@@ -11483,6 +11656,7 @@ Næstved;Married/separated;2023Q3;30846
 Næstved;Married/separated;2023Q4;31026
 Næstved;Married/separated;2024Q1;30998
 Næstved;Married/separated;2024Q2;30857
+Næstved;Married/separated;2024Q3;30860
 Næstved;Widowed;2008Q1;4950
 Næstved;Widowed;2008Q2;4964
 Næstved;Widowed;2008Q3;4936
@@ -11549,6 +11723,7 @@ Næstved;Widowed;2023Q3;4697
 Næstved;Widowed;2023Q4;4708
 Næstved;Widowed;2024Q1;4696
 Næstved;Widowed;2024Q2;4695
+Næstved;Widowed;2024Q3;4697
 Næstved;Divorced;2008Q1;7025
 Næstved;Divorced;2008Q2;7081
 Næstved;Divorced;2008Q3;7027
@@ -11615,6 +11790,7 @@ Næstved;Divorced;2023Q3;9769
 Næstved;Divorced;2023Q4;9754
 Næstved;Divorced;2024Q1;9775
 Næstved;Divorced;2024Q2;9866
+Næstved;Divorced;2024Q3;9880
 Odsherred;Never married;2008Q1;13009
 Odsherred;Never married;2008Q2;13038
 Odsherred;Never married;2008Q3;13052
@@ -11681,6 +11857,7 @@ Odsherred;Never married;2023Q3;12966
 Odsherred;Never married;2023Q4;12890
 Odsherred;Never married;2024Q1;12883
 Odsherred;Never married;2024Q2;12878
+Odsherred;Never married;2024Q3;12891
 Odsherred;Married/separated;2008Q1;14598
 Odsherred;Married/separated;2008Q2;14584
 Odsherred;Married/separated;2008Q3;14639
@@ -11747,6 +11924,7 @@ Odsherred;Married/separated;2023Q3;13313
 Odsherred;Married/separated;2023Q4;13273
 Odsherred;Married/separated;2024Q1;13195
 Odsherred;Married/separated;2024Q2;13061
+Odsherred;Married/separated;2024Q3;13052
 Odsherred;Widowed;2008Q1;2411
 Odsherred;Widowed;2008Q2;2402
 Odsherred;Widowed;2008Q3;2401
@@ -11813,6 +11991,7 @@ Odsherred;Widowed;2023Q3;2411
 Odsherred;Widowed;2023Q4;2408
 Odsherred;Widowed;2024Q1;2424
 Odsherred;Widowed;2024Q2;2431
+Odsherred;Widowed;2024Q3;2429
 Odsherred;Divorced;2008Q1;3111
 Odsherred;Divorced;2008Q2;3131
 Odsherred;Divorced;2008Q3;3126
@@ -11879,6 +12058,7 @@ Odsherred;Divorced;2023Q3;4142
 Odsherred;Divorced;2023Q4;4132
 Odsherred;Divorced;2024Q1;4103
 Odsherred;Divorced;2024Q2;4131
+Odsherred;Divorced;2024Q3;4163
 Ringsted;Never married;2008Q1;14353
 Ringsted;Never married;2008Q2;14486
 Ringsted;Never married;2008Q3;14506
@@ -11945,6 +12125,7 @@ Ringsted;Never married;2023Q3;17038
 Ringsted;Never married;2023Q4;17121
 Ringsted;Never married;2024Q1;17146
 Ringsted;Never married;2024Q2;17151
+Ringsted;Never married;2024Q3;17112
 Ringsted;Married/separated;2008Q1;13526
 Ringsted;Married/separated;2008Q2;13554
 Ringsted;Married/separated;2008Q3;13598
@@ -12011,6 +12192,7 @@ Ringsted;Married/separated;2023Q3;13827
 Ringsted;Married/separated;2023Q4;13918
 Ringsted;Married/separated;2024Q1;13913
 Ringsted;Married/separated;2024Q2;13857
+Ringsted;Married/separated;2024Q3;13911
 Ringsted;Widowed;2008Q1;1786
 Ringsted;Widowed;2008Q2;1789
 Ringsted;Widowed;2008Q3;1785
@@ -12077,6 +12259,7 @@ Ringsted;Widowed;2023Q3;1638
 Ringsted;Widowed;2023Q4;1647
 Ringsted;Widowed;2024Q1;1648
 Ringsted;Widowed;2024Q2;1643
+Ringsted;Widowed;2024Q3;1642
 Ringsted;Divorced;2008Q1;2427
 Ringsted;Divorced;2008Q2;2425
 Ringsted;Divorced;2008Q3;2430
@@ -12143,6 +12326,7 @@ Ringsted;Divorced;2023Q3;3627
 Ringsted;Divorced;2023Q4;3630
 Ringsted;Divorced;2024Q1;3649
 Ringsted;Divorced;2024Q2;3654
+Ringsted;Divorced;2024Q3;3648
 Slagelse;Never married;2008Q1;35026
 Slagelse;Never married;2008Q2;35076
 Slagelse;Never married;2008Q3;35145
@@ -12209,6 +12393,7 @@ Slagelse;Never married;2023Q3;37926
 Slagelse;Never married;2023Q4;37901
 Slagelse;Never married;2024Q1;38042
 Slagelse;Never married;2024Q2;38277
+Slagelse;Never married;2024Q3;38243
 Slagelse;Married/separated;2008Q1;30787
 Slagelse;Married/separated;2008Q2;30748
 Slagelse;Married/separated;2008Q3;30804
@@ -12275,6 +12460,7 @@ Slagelse;Married/separated;2023Q3;28301
 Slagelse;Married/separated;2023Q4;28404
 Slagelse;Married/separated;2024Q1;28302
 Slagelse;Married/separated;2024Q2;28206
+Slagelse;Married/separated;2024Q3;28271
 Slagelse;Widowed;2008Q1;4866
 Slagelse;Widowed;2008Q2;4851
 Slagelse;Widowed;2008Q3;4830
@@ -12341,6 +12527,7 @@ Slagelse;Widowed;2023Q3;4532
 Slagelse;Widowed;2023Q4;4524
 Slagelse;Widowed;2024Q1;4543
 Slagelse;Widowed;2024Q2;4525
+Slagelse;Widowed;2024Q3;4532
 Slagelse;Divorced;2008Q1;6778
 Slagelse;Divorced;2008Q2;6816
 Slagelse;Divorced;2008Q3;6781
@@ -12407,6 +12594,7 @@ Slagelse;Divorced;2023Q3;9043
 Slagelse;Divorced;2023Q4;8990
 Slagelse;Divorced;2024Q1;9036
 Slagelse;Divorced;2024Q2;9129
+Slagelse;Divorced;2024Q3;9139
 Sorø;Never married;2008Q1;12738
 Sorø;Never married;2008Q2;12754
 Sorø;Never married;2008Q3;12731
@@ -12473,6 +12661,7 @@ Sorø;Never married;2023Q3;13683
 Sorø;Never married;2023Q4;13572
 Sorø;Never married;2024Q1;13618
 Sorø;Never married;2024Q2;13719
+Sorø;Never married;2024Q3;13810
 Sorø;Married/separated;2008Q1;12384
 Sorø;Married/separated;2008Q2;12373
 Sorø;Married/separated;2008Q3;12421
@@ -12539,6 +12728,7 @@ Sorø;Married/separated;2023Q3;11740
 Sorø;Married/separated;2023Q4;11747
 Sorø;Married/separated;2024Q1;11724
 Sorø;Married/separated;2024Q2;11695
+Sorø;Married/separated;2024Q3;11697
 Sorø;Widowed;2008Q1;1817
 Sorø;Widowed;2008Q2;1820
 Sorø;Widowed;2008Q3;1824
@@ -12605,6 +12795,7 @@ Sorø;Widowed;2023Q3;1730
 Sorø;Widowed;2023Q4;1738
 Sorø;Widowed;2024Q1;1745
 Sorø;Widowed;2024Q2;1734
+Sorø;Widowed;2024Q3;1729
 Sorø;Divorced;2008Q1;2241
 Sorø;Divorced;2008Q2;2251
 Sorø;Divorced;2008Q3;2269
@@ -12671,6 +12862,7 @@ Sorø;Divorced;2023Q3;3370
 Sorø;Divorced;2023Q4;3387
 Sorø;Divorced;2024Q1;3391
 Sorø;Divorced;2024Q2;3425
+Sorø;Divorced;2024Q3;3420
 Stevns;Never married;2008Q1;8637
 Stevns;Never married;2008Q2;8603
 Stevns;Never married;2008Q3;8612
@@ -12737,6 +12929,7 @@ Stevns;Never married;2023Q3;9546
 Stevns;Never married;2023Q4;9510
 Stevns;Never married;2024Q1;9517
 Stevns;Never married;2024Q2;9498
+Stevns;Never married;2024Q3;9501
 Stevns;Married/separated;2008Q1;10183
 Stevns;Married/separated;2008Q2;10148
 Stevns;Married/separated;2008Q3;10188
@@ -12803,6 +12996,7 @@ Stevns;Married/separated;2023Q3;10135
 Stevns;Married/separated;2023Q4;10181
 Stevns;Married/separated;2024Q1;10194
 Stevns;Married/separated;2024Q2;10167
+Stevns;Married/separated;2024Q3;10168
 Stevns;Widowed;2008Q1;1366
 Stevns;Widowed;2008Q2;1365
 Stevns;Widowed;2008Q3;1374
@@ -12869,6 +13063,7 @@ Stevns;Widowed;2023Q3;1443
 Stevns;Widowed;2023Q4;1422
 Stevns;Widowed;2024Q1;1409
 Stevns;Widowed;2024Q2;1416
+Stevns;Widowed;2024Q3;1412
 Stevns;Divorced;2008Q1;1706
 Stevns;Divorced;2008Q2;1733
 Stevns;Divorced;2008Q3;1732
@@ -12935,6 +13130,7 @@ Stevns;Divorced;2023Q3;2512
 Stevns;Divorced;2023Q4;2509
 Stevns;Divorced;2024Q1;2529
 Stevns;Divorced;2024Q2;2558
+Stevns;Divorced;2024Q3;2565
 Vordingborg;Never married;2008Q1;19067
 Vordingborg;Never married;2008Q2;19111
 Vordingborg;Never married;2008Q3;19195
@@ -13001,6 +13197,7 @@ Vordingborg;Never married;2023Q3;19470
 Vordingborg;Never married;2023Q4;19345
 Vordingborg;Never married;2024Q1;19369
 Vordingborg;Never married;2024Q2;19341
+Vordingborg;Never married;2024Q3;19256
 Vordingborg;Married/separated;2008Q1;19795
 Vordingborg;Married/separated;2008Q2;19726
 Vordingborg;Married/separated;2008Q3;19754
@@ -13067,6 +13264,7 @@ Vordingborg;Married/separated;2023Q3;17403
 Vordingborg;Married/separated;2023Q4;17489
 Vordingborg;Married/separated;2024Q1;17467
 Vordingborg;Married/separated;2024Q2;17370
+Vordingborg;Married/separated;2024Q3;17358
 Vordingborg;Widowed;2008Q1;3512
 Vordingborg;Widowed;2008Q2;3498
 Vordingborg;Widowed;2008Q3;3487
@@ -13133,6 +13331,7 @@ Vordingborg;Widowed;2023Q3;3209
 Vordingborg;Widowed;2023Q4;3222
 Vordingborg;Widowed;2024Q1;3197
 Vordingborg;Widowed;2024Q2;3171
+Vordingborg;Widowed;2024Q3;3148
 Vordingborg;Divorced;2008Q1;4226
 Vordingborg;Divorced;2008Q2;4261
 Vordingborg;Divorced;2008Q3;4244
@@ -13199,6 +13398,7 @@ Vordingborg;Divorced;2023Q3;5728
 Vordingborg;Divorced;2023Q4;5716
 Vordingborg;Divorced;2024Q1;5718
 Vordingborg;Divorced;2024Q2;5711
+Vordingborg;Divorced;2024Q3;5704
 Region Syddanmark;Never married;2008Q1;539329
 Region Syddanmark;Never married;2008Q2;541277
 Region Syddanmark;Never married;2008Q3;541604
@@ -13265,6 +13465,7 @@ Region Syddanmark;Never married;2023Q3;583272
 Region Syddanmark;Never married;2023Q4;582137
 Region Syddanmark;Never married;2024Q1;582950
 Region Syddanmark;Never married;2024Q2;584329
+Region Syddanmark;Never married;2024Q3;583993
 Region Syddanmark;Married/separated;2008Q1;494538
 Region Syddanmark;Married/separated;2008Q2;493122
 Region Syddanmark;Married/separated;2008Q3;493983
@@ -13331,6 +13532,7 @@ Region Syddanmark;Married/separated;2023Q3;468448
 Region Syddanmark;Married/separated;2023Q4;470137
 Region Syddanmark;Married/separated;2024Q1;468940
 Region Syddanmark;Married/separated;2024Q2;467345
+Region Syddanmark;Married/separated;2024Q3;468461
 Region Syddanmark;Widowed;2008Q1;73033
 Region Syddanmark;Widowed;2008Q2;72769
 Region Syddanmark;Widowed;2008Q3;72548
@@ -13397,6 +13599,7 @@ Region Syddanmark;Widowed;2023Q3;66041
 Region Syddanmark;Widowed;2023Q4;66013
 Region Syddanmark;Widowed;2024Q1;66079
 Region Syddanmark;Widowed;2024Q2;66044
+Region Syddanmark;Widowed;2024Q3;66054
 Region Syddanmark;Divorced;2008Q1;87759
 Region Syddanmark;Divorced;2008Q2;88573
 Region Syddanmark;Divorced;2008Q3;89128
@@ -13463,6 +13666,7 @@ Region Syddanmark;Divorced;2023Q3;120282
 Region Syddanmark;Divorced;2023Q4;120216
 Region Syddanmark;Divorced;2024Q1;120437
 Region Syddanmark;Divorced;2024Q2;120926
+Region Syddanmark;Divorced;2024Q3;120726
 Assens;Never married;2008Q1;18044
 Assens;Never married;2008Q2;18170
 Assens;Never married;2008Q3;18250
@@ -13529,6 +13733,7 @@ Assens;Never married;2023Q3;17767
 Assens;Never married;2023Q4;17661
 Assens;Never married;2024Q1;17645
 Assens;Never married;2024Q2;17758
+Assens;Never married;2024Q3;17675
 Assens;Married/separated;2008Q1;18406
 Assens;Married/separated;2008Q2;18379
 Assens;Married/separated;2008Q3;18334
@@ -13595,6 +13800,7 @@ Assens;Married/separated;2023Q3;16499
 Assens;Married/separated;2023Q4;16582
 Assens;Married/separated;2024Q1;16470
 Assens;Married/separated;2024Q2;16339
+Assens;Married/separated;2024Q3;16377
 Assens;Widowed;2008Q1;2659
 Assens;Widowed;2008Q2;2629
 Assens;Widowed;2008Q3;2641
@@ -13661,6 +13867,7 @@ Assens;Widowed;2023Q3;2365
 Assens;Widowed;2023Q4;2348
 Assens;Widowed;2024Q1;2348
 Assens;Widowed;2024Q2;2369
+Assens;Widowed;2024Q3;2355
 Assens;Divorced;2008Q1;2945
 Assens;Divorced;2008Q2;2981
 Assens;Divorced;2008Q3;3024
@@ -13727,6 +13934,7 @@ Assens;Divorced;2023Q3;4174
 Assens;Divorced;2023Q4;4176
 Assens;Divorced;2024Q1;4183
 Assens;Divorced;2024Q2;4193
+Assens;Divorced;2024Q3;4170
 Faaborg-Midtfyn;Never married;2008Q1;21819
 Faaborg-Midtfyn;Never married;2008Q2;21918
 Faaborg-Midtfyn;Never married;2008Q3;21944
@@ -13793,6 +14001,7 @@ Faaborg-Midtfyn;Never married;2023Q3;22667
 Faaborg-Midtfyn;Never married;2023Q4;22635
 Faaborg-Midtfyn;Never married;2024Q1;22740
 Faaborg-Midtfyn;Never married;2024Q2;22745
+Faaborg-Midtfyn;Never married;2024Q3;22750
 Faaborg-Midtfyn;Married/separated;2008Q1;22957
 Faaborg-Midtfyn;Married/separated;2008Q2;22914
 Faaborg-Midtfyn;Married/separated;2008Q3;22923
@@ -13859,6 +14068,7 @@ Faaborg-Midtfyn;Married/separated;2023Q3;21240
 Faaborg-Midtfyn;Married/separated;2023Q4;21317
 Faaborg-Midtfyn;Married/separated;2024Q1;21254
 Faaborg-Midtfyn;Married/separated;2024Q2;21175
+Faaborg-Midtfyn;Married/separated;2024Q3;21218
 Faaborg-Midtfyn;Widowed;2008Q1;3509
 Faaborg-Midtfyn;Widowed;2008Q2;3490
 Faaborg-Midtfyn;Widowed;2008Q3;3497
@@ -13925,6 +14135,7 @@ Faaborg-Midtfyn;Widowed;2023Q3;3151
 Faaborg-Midtfyn;Widowed;2023Q4;3158
 Faaborg-Midtfyn;Widowed;2024Q1;3158
 Faaborg-Midtfyn;Widowed;2024Q2;3177
+Faaborg-Midtfyn;Widowed;2024Q3;3174
 Faaborg-Midtfyn;Divorced;2008Q1;3665
 Faaborg-Midtfyn;Divorced;2008Q2;3716
 Faaborg-Midtfyn;Divorced;2008Q3;3737
@@ -13991,6 +14202,7 @@ Faaborg-Midtfyn;Divorced;2023Q3;5181
 Faaborg-Midtfyn;Divorced;2023Q4;5156
 Faaborg-Midtfyn;Divorced;2024Q1;5139
 Faaborg-Midtfyn;Divorced;2024Q2;5174
+Faaborg-Midtfyn;Divorced;2024Q3;5140
 Kerteminde;Never married;2008Q1;9794
 Kerteminde;Never married;2008Q2;9782
 Kerteminde;Never married;2008Q3;9781
@@ -14057,6 +14269,7 @@ Kerteminde;Never married;2023Q3;9916
 Kerteminde;Never married;2023Q4;9860
 Kerteminde;Never married;2024Q1;9866
 Kerteminde;Never married;2024Q2;9865
+Kerteminde;Never married;2024Q3;9868
 Kerteminde;Married/separated;2008Q1;10507
 Kerteminde;Married/separated;2008Q2;10504
 Kerteminde;Married/separated;2008Q3;10560
@@ -14123,6 +14336,7 @@ Kerteminde;Married/separated;2023Q3;10066
 Kerteminde;Married/separated;2023Q4;10054
 Kerteminde;Married/separated;2024Q1;10011
 Kerteminde;Married/separated;2024Q2;10019
+Kerteminde;Married/separated;2024Q3;10081
 Kerteminde;Widowed;2008Q1;1566
 Kerteminde;Widowed;2008Q2;1560
 Kerteminde;Widowed;2008Q3;1547
@@ -14189,6 +14403,7 @@ Kerteminde;Widowed;2023Q3;1592
 Kerteminde;Widowed;2023Q4;1602
 Kerteminde;Widowed;2024Q1;1622
 Kerteminde;Widowed;2024Q2;1618
+Kerteminde;Widowed;2024Q3;1613
 Kerteminde;Divorced;2008Q1;1763
 Kerteminde;Divorced;2008Q2;1789
 Kerteminde;Divorced;2008Q3;1780
@@ -14255,6 +14470,7 @@ Kerteminde;Divorced;2023Q3;2375
 Kerteminde;Divorced;2023Q4;2375
 Kerteminde;Divorced;2024Q1;2395
 Kerteminde;Divorced;2024Q2;2401
+Kerteminde;Divorced;2024Q3;2393
 Langeland;Never married;2008Q1;5089
 Langeland;Never married;2008Q2;5059
 Langeland;Never married;2008Q3;5050
@@ -14321,6 +14537,7 @@ Langeland;Never married;2023Q3;4581
 Langeland;Never married;2023Q4;4530
 Langeland;Never married;2024Q1;4511
 Langeland;Never married;2024Q2;4473
+Langeland;Never married;2024Q3;4468
 Langeland;Married/separated;2008Q1;6111
 Langeland;Married/separated;2008Q2;6070
 Langeland;Married/separated;2008Q3;6070
@@ -14387,6 +14604,7 @@ Langeland;Married/separated;2023Q3;5220
 Langeland;Married/separated;2023Q4;5227
 Langeland;Married/separated;2024Q1;5192
 Langeland;Married/separated;2024Q2;5160
+Langeland;Married/separated;2024Q3;5144
 Langeland;Widowed;2008Q1;1311
 Langeland;Widowed;2008Q2;1294
 Langeland;Widowed;2008Q3;1288
@@ -14453,6 +14671,7 @@ Langeland;Widowed;2023Q3;1025
 Langeland;Widowed;2023Q4;1014
 Langeland;Widowed;2024Q1;1019
 Langeland;Widowed;2024Q2;1020
+Langeland;Widowed;2024Q3;1025
 Langeland;Divorced;2008Q1;1230
 Langeland;Divorced;2008Q2;1251
 Langeland;Divorced;2008Q3;1250
@@ -14519,6 +14738,7 @@ Langeland;Divorced;2023Q3;1532
 Langeland;Divorced;2023Q4;1519
 Langeland;Divorced;2024Q1;1538
 Langeland;Divorced;2024Q2;1523
+Langeland;Divorced;2024Q3;1510
 Middelfart;Never married;2008Q1;15734
 Middelfart;Never married;2008Q2;15763
 Middelfart;Never married;2008Q3;15820
@@ -14585,6 +14805,7 @@ Middelfart;Never married;2023Q3;17207
 Middelfart;Never married;2023Q4;17029
 Middelfart;Never married;2024Q1;17087
 Middelfart;Never married;2024Q2;17178
+Middelfart;Never married;2024Q3;17210
 Middelfart;Married/separated;2008Q1;16416
 Middelfart;Married/separated;2008Q2;16391
 Middelfart;Married/separated;2008Q3;16421
@@ -14651,6 +14872,7 @@ Middelfart;Married/separated;2023Q3;16619
 Middelfart;Married/separated;2023Q4;16708
 Middelfart;Married/separated;2024Q1;16722
 Middelfart;Married/separated;2024Q2;16674
+Middelfart;Married/separated;2024Q3;16750
 Middelfart;Widowed;2008Q1;2378
 Middelfart;Widowed;2008Q2;2391
 Middelfart;Widowed;2008Q3;2381
@@ -14717,6 +14939,7 @@ Middelfart;Widowed;2023Q3;2269
 Middelfart;Widowed;2023Q4;2273
 Middelfart;Widowed;2024Q1;2255
 Middelfart;Widowed;2024Q2;2265
+Middelfart;Widowed;2024Q3;2268
 Middelfart;Divorced;2008Q1;2746
 Middelfart;Divorced;2008Q2;2776
 Middelfart;Divorced;2008Q3;2790
@@ -14783,6 +15006,7 @@ Middelfart;Divorced;2023Q3;4041
 Middelfart;Divorced;2023Q4;4046
 Middelfart;Divorced;2024Q1;4094
 Middelfart;Divorced;2024Q2;4114
+Middelfart;Divorced;2024Q3;4123
 Nordfyns;Never married;2008Q1;12570
 Nordfyns;Never married;2008Q2;12587
 Nordfyns;Never married;2008Q3;12681
@@ -14849,6 +15073,7 @@ Nordfyns;Never married;2023Q3;12700
 Nordfyns;Never married;2023Q4;12658
 Nordfyns;Never married;2024Q1;12683
 Nordfyns;Never married;2024Q2;12683
+Nordfyns;Never married;2024Q3;12716
 Nordfyns;Married/separated;2008Q1;13189
 Nordfyns;Married/separated;2008Q2;13162
 Nordfyns;Married/separated;2008Q3;13184
@@ -14915,6 +15140,7 @@ Nordfyns;Married/separated;2023Q3;12369
 Nordfyns;Married/separated;2023Q4;12376
 Nordfyns;Married/separated;2024Q1;12324
 Nordfyns;Married/separated;2024Q2;12256
+Nordfyns;Married/separated;2024Q3;12268
 Nordfyns;Widowed;2008Q1;1776
 Nordfyns;Widowed;2008Q2;1788
 Nordfyns;Widowed;2008Q3;1788
@@ -14981,6 +15207,7 @@ Nordfyns;Widowed;2023Q3;1751
 Nordfyns;Widowed;2023Q4;1745
 Nordfyns;Widowed;2024Q1;1727
 Nordfyns;Widowed;2024Q2;1727
+Nordfyns;Widowed;2024Q3;1738
 Nordfyns;Divorced;2008Q1;1935
 Nordfyns;Divorced;2008Q2;1958
 Nordfyns;Divorced;2008Q3;1989
@@ -15047,6 +15274,7 @@ Nordfyns;Divorced;2023Q3;2876
 Nordfyns;Divorced;2023Q4;2887
 Nordfyns;Divorced;2024Q1;2876
 Nordfyns;Divorced;2024Q2;2886
+Nordfyns;Divorced;2024Q3;2870
 Nyborg;Never married;2008Q1;13465
 Nyborg;Never married;2008Q2;13527
 Nyborg;Never married;2008Q3;13524
@@ -15113,6 +15341,7 @@ Nyborg;Never married;2023Q3;14113
 Nyborg;Never married;2023Q4;14025
 Nyborg;Never married;2024Q1;14021
 Nyborg;Never married;2024Q2;14035
+Nyborg;Never married;2024Q3;14034
 Nyborg;Married/separated;2008Q1;13541
 Nyborg;Married/separated;2008Q2;13484
 Nyborg;Married/separated;2008Q3;13488
@@ -15179,6 +15408,7 @@ Nyborg;Married/separated;2023Q3;12686
 Nyborg;Married/separated;2023Q4;12729
 Nyborg;Married/separated;2024Q1;12626
 Nyborg;Married/separated;2024Q2;12574
+Nyborg;Married/separated;2024Q3;12604
 Nyborg;Widowed;2008Q1;2089
 Nyborg;Widowed;2008Q2;2075
 Nyborg;Widowed;2008Q3;2072
@@ -15245,6 +15475,7 @@ Nyborg;Widowed;2023Q3;1981
 Nyborg;Widowed;2023Q4;1993
 Nyborg;Widowed;2024Q1;2000
 Nyborg;Widowed;2024Q2;1998
+Nyborg;Widowed;2024Q3;2002
 Nyborg;Divorced;2008Q1;2512
 Nyborg;Divorced;2008Q2;2544
 Nyborg;Divorced;2008Q3;2581
@@ -15311,6 +15542,7 @@ Nyborg;Divorced;2023Q3;3511
 Nyborg;Divorced;2023Q4;3523
 Nyborg;Divorced;2024Q1;3546
 Nyborg;Divorced;2024Q2;3571
+Nyborg;Divorced;2024Q3;3574
 Odense;Never married;2008Q1;93989
 Odense;Never married;2008Q2;94270
 Odense;Never married;2008Q3;94096
@@ -15377,6 +15609,7 @@ Odense;Never married;2023Q3;115574
 Odense;Never married;2023Q4;116337
 Odense;Never married;2024Q1;116493
 Odense;Never married;2024Q2;116839
+Odense;Never married;2024Q3;116829
 Odense;Married/separated;2008Q1;67266
 Odense;Married/separated;2008Q2;67001
 Odense;Married/separated;2008Q3;67161
@@ -15443,6 +15676,7 @@ Odense;Married/separated;2023Q3;64575
 Odense;Married/separated;2023Q4;65039
 Odense;Married/separated;2024Q1;65048
 Odense;Married/separated;2024Q2;64944
+Odense;Married/separated;2024Q3;65257
 Odense;Widowed;2008Q1;10548
 Odense;Widowed;2008Q2;10511
 Odense;Widowed;2008Q3;10419
@@ -15509,6 +15743,7 @@ Odense;Widowed;2023Q3;8860
 Odense;Widowed;2023Q4;8840
 Odense;Widowed;2024Q1;8842
 Odense;Widowed;2024Q2;8828
+Odense;Widowed;2024Q3;8814
 Odense;Divorced;2008Q1;15129
 Odense;Divorced;2008Q2;15168
 Odense;Divorced;2008Q3;15210
@@ -15575,6 +15810,7 @@ Odense;Divorced;2023Q3;18679
 Odense;Divorced;2023Q4;18660
 Odense;Divorced;2024Q1;18695
 Odense;Divorced;2024Q2;18772
+Odense;Divorced;2024Q3;18790
 Svendborg;Never married;2008Q1;26310
 Svendborg;Never married;2008Q2;26427
 Svendborg;Never married;2008Q3;26411
@@ -15641,6 +15877,7 @@ Svendborg;Never married;2023Q3;27484
 Svendborg;Never married;2023Q4;27459
 Svendborg;Never married;2024Q1;27473
 Svendborg;Never married;2024Q2;27568
+Svendborg;Never married;2024Q3;27550
 Svendborg;Married/separated;2008Q1;24200
 Svendborg;Married/separated;2008Q2;24107
 Svendborg;Married/separated;2008Q3;24161
@@ -15707,6 +15944,7 @@ Svendborg;Married/separated;2023Q3;22288
 Svendborg;Married/separated;2023Q4;22372
 Svendborg;Married/separated;2024Q1;22331
 Svendborg;Married/separated;2024Q2;22269
+Svendborg;Married/separated;2024Q3;22318
 Svendborg;Widowed;2008Q1;3779
 Svendborg;Widowed;2008Q2;3779
 Svendborg;Widowed;2008Q3;3772
@@ -15773,6 +16011,7 @@ Svendborg;Widowed;2023Q3;3403
 Svendborg;Widowed;2023Q4;3411
 Svendborg;Widowed;2024Q1;3426
 Svendborg;Widowed;2024Q2;3418
+Svendborg;Widowed;2024Q3;3414
 Svendborg;Divorced;2008Q1;4751
 Svendborg;Divorced;2008Q2;4792
 Svendborg;Divorced;2008Q3;4810
@@ -15839,6 +16078,7 @@ Svendborg;Divorced;2023Q3;6513
 Svendborg;Divorced;2023Q4;6527
 Svendborg;Divorced;2024Q1;6497
 Svendborg;Divorced;2024Q2;6519
+Svendborg;Divorced;2024Q3;6553
 Ærø;Never married;2008Q1;2453
 Ærø;Never married;2008Q2;2427
 Ærø;Never married;2008Q3;2438
@@ -15905,6 +16145,7 @@ Svendborg;Divorced;2024Q2;6519
 Ærø;Never married;2023Q4;2258
 Ærø;Never married;2024Q1;2245
 Ærø;Never married;2024Q2;2249
+Ærø;Never married;2024Q3;2251
 Ærø;Married/separated;2008Q1;2970
 Ærø;Married/separated;2008Q2;2969
 Ærø;Married/separated;2008Q3;2983
@@ -15971,6 +16212,7 @@ Svendborg;Divorced;2024Q2;6519
 Ærø;Married/separated;2023Q4;2503
 Ærø;Married/separated;2024Q1;2489
 Ærø;Married/separated;2024Q2;2474
+Ærø;Married/separated;2024Q3;2451
 Ærø;Widowed;2008Q1;707
 Ærø;Widowed;2008Q2;695
 Ærø;Widowed;2008Q3;689
@@ -16037,6 +16279,7 @@ Svendborg;Divorced;2024Q2;6519
 Ærø;Widowed;2023Q4;569
 Ærø;Widowed;2024Q1;559
 Ærø;Widowed;2024Q2;558
+Ærø;Widowed;2024Q3;552
 Ærø;Divorced;2008Q1;582
 Ærø;Divorced;2008Q2;576
 Ærø;Divorced;2008Q3;578
@@ -16103,6 +16346,7 @@ Svendborg;Divorced;2024Q2;6519
 Ærø;Divorced;2023Q4;670
 Ærø;Divorced;2024Q1;667
 Ærø;Divorced;2024Q2;666
+Ærø;Divorced;2024Q3;665
 Billund;Never married;2008Q1;11651
 Billund;Never married;2008Q2;11709
 Billund;Never married;2008Q3;11725
@@ -16169,6 +16413,7 @@ Billund;Never married;2023Q3;12134
 Billund;Never married;2023Q4;12102
 Billund;Never married;2024Q1;12122
 Billund;Never married;2024Q2;12187
+Billund;Never married;2024Q3;12152
 Billund;Married/separated;2008Q1;11379
 Billund;Married/separated;2008Q2;11367
 Billund;Married/separated;2008Q3;11380
@@ -16235,6 +16480,7 @@ Billund;Married/separated;2023Q3;11116
 Billund;Married/separated;2023Q4;11140
 Billund;Married/separated;2024Q1;11148
 Billund;Married/separated;2024Q2;11125
+Billund;Married/separated;2024Q3;11184
 Billund;Widowed;2008Q1;1601
 Billund;Widowed;2008Q2;1586
 Billund;Widowed;2008Q3;1589
@@ -16301,6 +16547,7 @@ Billund;Widowed;2023Q3;1500
 Billund;Widowed;2023Q4;1515
 Billund;Widowed;2024Q1;1518
 Billund;Widowed;2024Q2;1513
+Billund;Widowed;2024Q3;1498
 Billund;Divorced;2008Q1;1550
 Billund;Divorced;2008Q2;1556
 Billund;Divorced;2008Q3;1573
@@ -16367,6 +16614,7 @@ Billund;Divorced;2023Q3;2347
 Billund;Divorced;2023Q4;2341
 Billund;Divorced;2024Q1;2331
 Billund;Divorced;2024Q2;2339
+Billund;Divorced;2024Q3;2345
 Esbjerg;Never married;2008Q1;53244
 Esbjerg;Never married;2008Q2;53499
 Esbjerg;Never married;2008Q3;53470
@@ -16433,6 +16681,7 @@ Esbjerg;Never married;2023Q3;55830
 Esbjerg;Never married;2023Q4;55535
 Esbjerg;Never married;2024Q1;55573
 Esbjerg;Never married;2024Q2;55679
+Esbjerg;Never married;2024Q3;55603
 Esbjerg;Married/separated;2008Q1;45914
 Esbjerg;Married/separated;2008Q2;45795
 Esbjerg;Married/separated;2008Q3;45847
@@ -16499,6 +16748,7 @@ Esbjerg;Married/separated;2023Q3;42765
 Esbjerg;Married/separated;2023Q4;42834
 Esbjerg;Married/separated;2024Q1;42723
 Esbjerg;Married/separated;2024Q2;42492
+Esbjerg;Married/separated;2024Q3;42549
 Esbjerg;Widowed;2008Q1;6413
 Esbjerg;Widowed;2008Q2;6381
 Esbjerg;Widowed;2008Q3;6335
@@ -16565,6 +16815,7 @@ Esbjerg;Widowed;2023Q3;5899
 Esbjerg;Widowed;2023Q4;5909
 Esbjerg;Widowed;2024Q1;5922
 Esbjerg;Widowed;2024Q2;5930
+Esbjerg;Widowed;2024Q3;5938
 Esbjerg;Divorced;2008Q1;8673
 Esbjerg;Divorced;2008Q2;8715
 Esbjerg;Divorced;2008Q3;8746
@@ -16631,6 +16882,7 @@ Esbjerg;Divorced;2023Q3;11252
 Esbjerg;Divorced;2023Q4;11211
 Esbjerg;Divorced;2024Q1;11205
 Esbjerg;Divorced;2024Q2;11218
+Esbjerg;Divorced;2024Q3;11178
 Fanø;Never married;2008Q1;1156
 Fanø;Never married;2008Q2;1169
 Fanø;Never married;2008Q3;1170
@@ -16697,6 +16949,7 @@ Fanø;Never married;2023Q3;1242
 Fanø;Never married;2023Q4;1221
 Fanø;Never married;2024Q1;1215
 Fanø;Never married;2024Q2;1217
+Fanø;Never married;2024Q3;1208
 Fanø;Married/separated;2008Q1;1514
 Fanø;Married/separated;2008Q2;1522
 Fanø;Married/separated;2008Q3;1529
@@ -16763,6 +17016,7 @@ Fanø;Married/separated;2023Q3;1494
 Fanø;Married/separated;2023Q4;1489
 Fanø;Married/separated;2024Q1;1476
 Fanø;Married/separated;2024Q2;1463
+Fanø;Married/separated;2024Q3;1465
 Fanø;Widowed;2008Q1;252
 Fanø;Widowed;2008Q2;251
 Fanø;Widowed;2008Q3;255
@@ -16829,6 +17083,7 @@ Fanø;Widowed;2023Q3;270
 Fanø;Widowed;2023Q4;268
 Fanø;Widowed;2024Q1;271
 Fanø;Widowed;2024Q2;267
+Fanø;Widowed;2024Q3;268
 Fanø;Divorced;2008Q1;270
 Fanø;Divorced;2008Q2;268
 Fanø;Divorced;2008Q3;279
@@ -16895,6 +17150,7 @@ Fanø;Divorced;2023Q3;398
 Fanø;Divorced;2023Q4;394
 Fanø;Divorced;2024Q1;395
 Fanø;Divorced;2024Q2;396
+Fanø;Divorced;2024Q3;386
 Fredericia;Never married;2008Q1;21985
 Fredericia;Never married;2008Q2;22039
 Fredericia;Never married;2008Q3;22067
@@ -16961,6 +17217,7 @@ Fredericia;Never married;2023Q3;24467
 Fredericia;Never married;2023Q4;24358
 Fredericia;Never married;2024Q1;24445
 Fredericia;Never married;2024Q2;24472
+Fredericia;Never married;2024Q3;24416
 Fredericia;Married/separated;2008Q1;20271
 Fredericia;Married/separated;2008Q2;20183
 Fredericia;Married/separated;2008Q3;20203
@@ -17027,6 +17284,7 @@ Fredericia;Married/separated;2023Q3;19436
 Fredericia;Married/separated;2023Q4;19534
 Fredericia;Married/separated;2024Q1;19472
 Fredericia;Married/separated;2024Q2;19380
+Fredericia;Married/separated;2024Q3;19489
 Fredericia;Widowed;2008Q1;3008
 Fredericia;Widowed;2008Q2;3003
 Fredericia;Widowed;2008Q3;2986
@@ -17093,6 +17351,7 @@ Fredericia;Widowed;2023Q3;2749
 Fredericia;Widowed;2023Q4;2744
 Fredericia;Widowed;2024Q1;2742
 Fredericia;Widowed;2024Q2;2738
+Fredericia;Widowed;2024Q3;2729
 Fredericia;Divorced;2008Q1;4199
 Fredericia;Divorced;2008Q2;4220
 Fredericia;Divorced;2008Q3;4251
@@ -17159,6 +17418,7 @@ Fredericia;Divorced;2023Q3;5781
 Fredericia;Divorced;2023Q4;5797
 Fredericia;Divorced;2024Q1;5826
 Fredericia;Divorced;2024Q2;5883
+Fredericia;Divorced;2024Q3;5841
 Haderslev;Never married;2008Q1;24873
 Haderslev;Never married;2008Q2;24937
 Haderslev;Never married;2008Q3;24929
@@ -17225,6 +17485,7 @@ Haderslev;Never married;2023Q3;25096
 Haderslev;Never married;2023Q4;24974
 Haderslev;Never married;2024Q1;25000
 Haderslev;Never married;2024Q2;24964
+Haderslev;Never married;2024Q3;24977
 Haderslev;Married/separated;2008Q1;23800
 Haderslev;Married/separated;2008Q2;23710
 Haderslev;Married/separated;2008Q3;23714
@@ -17291,6 +17552,7 @@ Haderslev;Married/separated;2023Q3;21457
 Haderslev;Married/separated;2023Q4;21510
 Haderslev;Married/separated;2024Q1;21473
 Haderslev;Married/separated;2024Q2;21362
+Haderslev;Married/separated;2024Q3;21410
 Haderslev;Widowed;2008Q1;3662
 Haderslev;Widowed;2008Q2;3651
 Haderslev;Widowed;2008Q3;3632
@@ -17357,6 +17619,7 @@ Haderslev;Widowed;2023Q3;3245
 Haderslev;Widowed;2023Q4;3242
 Haderslev;Widowed;2024Q1;3235
 Haderslev;Widowed;2024Q2;3247
+Haderslev;Widowed;2024Q3;3230
 Haderslev;Divorced;2008Q1;4079
 Haderslev;Divorced;2008Q2;4115
 Haderslev;Divorced;2008Q3;4172
@@ -17423,6 +17686,7 @@ Haderslev;Divorced;2023Q3;5724
 Haderslev;Divorced;2023Q4;5722
 Haderslev;Divorced;2024Q1;5730
 Haderslev;Divorced;2024Q2;5738
+Haderslev;Divorced;2024Q3;5736
 Kolding;Never married;2008Q1;41297
 Kolding;Never married;2008Q2;41512
 Kolding;Never married;2008Q3;41522
@@ -17489,6 +17753,7 @@ Kolding;Never married;2023Q3;46084
 Kolding;Never married;2023Q4;46018
 Kolding;Never married;2024Q1;46137
 Kolding;Never married;2024Q2;46307
+Kolding;Never married;2024Q3;46374
 Kolding;Married/separated;2008Q1;35243
 Kolding;Married/separated;2008Q2;35236
 Kolding;Married/separated;2008Q3;35310
@@ -17555,6 +17820,7 @@ Kolding;Married/separated;2023Q3;35157
 Kolding;Married/separated;2023Q4;35379
 Kolding;Married/separated;2024Q1;35315
 Kolding;Married/separated;2024Q2;35226
+Kolding;Married/separated;2024Q3;35306
 Kolding;Widowed;2008Q1;4849
 Kolding;Widowed;2008Q2;4806
 Kolding;Widowed;2008Q3;4805
@@ -17621,6 +17887,7 @@ Kolding;Widowed;2023Q3;4338
 Kolding;Widowed;2023Q4;4312
 Kolding;Widowed;2024Q1;4330
 Kolding;Widowed;2024Q2;4332
+Kolding;Widowed;2024Q3;4361
 Kolding;Divorced;2008Q1;6392
 Kolding;Divorced;2008Q2;6442
 Kolding;Divorced;2008Q3;6470
@@ -17687,6 +17954,7 @@ Kolding;Divorced;2023Q3;9123
 Kolding;Divorced;2023Q4;9098
 Kolding;Divorced;2024Q1;9150
 Kolding;Divorced;2024Q2;9198
+Kolding;Divorced;2024Q3;9208
 Sønderborg;Never married;2008Q1;33346
 Sønderborg;Never married;2008Q2;33403
 Sønderborg;Never married;2008Q3;33354
@@ -17753,6 +18021,7 @@ Sønderborg;Never married;2023Q3;32484
 Sønderborg;Never married;2023Q4;32552
 Sønderborg;Never married;2024Q1;32518
 Sønderborg;Never married;2024Q2;32509
+Sønderborg;Never married;2024Q3;32460
 Sønderborg;Married/separated;2008Q1;33307
 Sønderborg;Married/separated;2008Q2;33166
 Sønderborg;Married/separated;2008Q3;33190
@@ -17819,6 +18088,7 @@ Sønderborg;Married/separated;2023Q3;29899
 Sønderborg;Married/separated;2023Q4;29994
 Sønderborg;Married/separated;2024Q1;29829
 Sønderborg;Married/separated;2024Q2;29657
+Sønderborg;Married/separated;2024Q3;29675
 Sønderborg;Widowed;2008Q1;4748
 Sønderborg;Widowed;2008Q2;4743
 Sønderborg;Widowed;2008Q3;4744
@@ -17885,6 +18155,7 @@ Sønderborg;Widowed;2023Q3;4603
 Sønderborg;Widowed;2023Q4;4590
 Sønderborg;Widowed;2024Q1;4614
 Sønderborg;Widowed;2024Q2;4601
+Sønderborg;Widowed;2024Q3;4592
 Sønderborg;Divorced;2008Q1;5512
 Sønderborg;Divorced;2008Q2;5571
 Sønderborg;Divorced;2008Q3;5631
@@ -17951,6 +18222,7 @@ Sønderborg;Divorced;2023Q3;7286
 Sønderborg;Divorced;2023Q4;7272
 Sønderborg;Divorced;2024Q1;7272
 Sønderborg;Divorced;2024Q2;7309
+Sønderborg;Divorced;2024Q3;7290
 Tønder;Never married;2008Q1;17406
 Tønder;Never married;2008Q2;17462
 Tønder;Never married;2008Q3;17454
@@ -18017,6 +18289,7 @@ Tønder;Never married;2023Q3;15822
 Tønder;Never married;2023Q4;15767
 Tønder;Never married;2024Q1;15794
 Tønder;Never married;2024Q2;15882
+Tønder;Never married;2024Q3;15784
 Tønder;Married/separated;2008Q1;17429
 Tønder;Married/separated;2008Q2;17335
 Tønder;Married/separated;2008Q3;17330
@@ -18083,6 +18356,7 @@ Tønder;Married/separated;2023Q3;14936
 Tønder;Married/separated;2023Q4;14889
 Tønder;Married/separated;2024Q1;14837
 Tønder;Married/separated;2024Q2;14771
+Tønder;Married/separated;2024Q3;14781
 Tønder;Widowed;2008Q1;2921
 Tønder;Widowed;2008Q2;2904
 Tønder;Widowed;2008Q3;2916
@@ -18149,6 +18423,7 @@ Tønder;Widowed;2023Q3;2363
 Tønder;Widowed;2023Q4;2365
 Tønder;Widowed;2024Q1;2354
 Tønder;Widowed;2024Q2;2319
+Tønder;Widowed;2024Q3;2333
 Tønder;Divorced;2008Q1;2611
 Tønder;Divorced;2008Q2;2664
 Tønder;Divorced;2008Q3;2683
@@ -18215,6 +18490,7 @@ Tønder;Divorced;2023Q3;3646
 Tønder;Divorced;2023Q4;3673
 Tønder;Divorced;2024Q1;3666
 Tønder;Divorced;2024Q2;3674
+Tønder;Divorced;2024Q3;3638
 Varde;Never married;2008Q1;22207
 Varde;Never married;2008Q2;22324
 Varde;Never married;2008Q3;22398
@@ -18281,6 +18557,7 @@ Varde;Never married;2023Q3;22011
 Varde;Never married;2023Q4;21761
 Varde;Never married;2024Q1;21839
 Varde;Never married;2024Q2;21842
+Varde;Never married;2024Q3;21841
 Varde;Married/separated;2008Q1;22141
 Varde;Married/separated;2008Q2;22105
 Varde;Married/separated;2008Q3;22148
@@ -18347,6 +18624,7 @@ Varde;Married/separated;2023Q3;20981
 Varde;Married/separated;2023Q4;21017
 Varde;Married/separated;2024Q1;20950
 Varde;Married/separated;2024Q2;20901
+Varde;Married/separated;2024Q3;20860
 Varde;Widowed;2008Q1;3037
 Varde;Widowed;2008Q2;3022
 Varde;Widowed;2008Q3;3019
@@ -18413,6 +18691,7 @@ Varde;Widowed;2023Q3;2839
 Varde;Widowed;2023Q4;2830
 Varde;Widowed;2024Q1;2811
 Varde;Widowed;2024Q2;2793
+Varde;Widowed;2024Q3;2797
 Varde;Divorced;2008Q1;2740
 Varde;Divorced;2008Q2;2785
 Varde;Divorced;2008Q3;2802
@@ -18479,6 +18758,7 @@ Varde;Divorced;2023Q3;4175
 Varde;Divorced;2023Q4;4192
 Varde;Divorced;2024Q1;4198
 Varde;Divorced;2024Q2;4198
+Varde;Divorced;2024Q3;4203
 Vejen;Never married;2008Q1;19127
 Vejen;Never married;2008Q2;19164
 Vejen;Never married;2008Q3;19235
@@ -18545,6 +18825,7 @@ Vejen;Never married;2023Q3;19622
 Vejen;Never married;2023Q4;19552
 Vejen;Never married;2024Q1;19536
 Vejen;Never married;2024Q2;19631
+Vejen;Never married;2024Q3;19622
 Vejen;Married/separated;2008Q1;18141
 Vejen;Married/separated;2008Q2;18062
 Vejen;Married/separated;2008Q3;18119
@@ -18611,6 +18892,7 @@ Vejen;Married/separated;2023Q3;17156
 Vejen;Married/separated;2023Q4;17201
 Vejen;Married/separated;2024Q1;17152
 Vejen;Married/separated;2024Q2;17108
+Vejen;Married/separated;2024Q3;17126
 Vejen;Widowed;2008Q1;2601
 Vejen;Widowed;2008Q2;2612
 Vejen;Widowed;2008Q3;2603
@@ -18677,6 +18959,7 @@ Vejen;Widowed;2023Q3;2352
 Vejen;Widowed;2023Q4;2352
 Vejen;Widowed;2024Q1;2347
 Vejen;Widowed;2024Q2;2357
+Vejen;Widowed;2024Q3;2350
 Vejen;Divorced;2008Q1;2578
 Vejen;Divorced;2008Q2;2633
 Vejen;Divorced;2008Q3;2647
@@ -18743,6 +19026,7 @@ Vejen;Divorced;2023Q3;3765
 Vejen;Divorced;2023Q4;3749
 Vejen;Divorced;2024Q1;3765
 Vejen;Divorced;2024Q2;3796
+Vejen;Divorced;2024Q3;3787
 Vejle;Never married;2008Q1;48109
 Vejle;Never married;2008Q2;48352
 Vejle;Never married;2008Q3;48465
@@ -18809,6 +19093,7 @@ Vejle;Never married;2023Q3;58554
 Vejle;Never married;2023Q4;58367
 Vejle;Never married;2024Q1;58451
 Vejle;Never married;2024Q2;58644
+Vejle;Never married;2024Q3;58614
 Vejle;Married/separated;2008Q1;43708
 Vejle;Married/separated;2008Q2;43617
 Vejle;Married/separated;2008Q3;43781
@@ -18875,6 +19160,7 @@ Vejle;Married/separated;2023Q3;46403
 Vejle;Married/separated;2023Q4;46616
 Vejle;Married/separated;2024Q1;46557
 Vejle;Married/separated;2024Q2;46433
+Vejle;Married/separated;2024Q3;46577
 Vejle;Widowed;2008Q1;5796
 Vejle;Widowed;2008Q2;5783
 Vejle;Widowed;2008Q3;5791
@@ -18941,6 +19227,7 @@ Vejle;Widowed;2023Q3;5374
 Vejle;Widowed;2023Q4;5391
 Vejle;Widowed;2024Q1;5419
 Vejle;Widowed;2024Q2;5437
+Vejle;Widowed;2024Q3;5476
 Vejle;Divorced;2008Q1;7320
 Vejle;Divorced;2008Q2;7405
 Vejle;Divorced;2008Q3;7444
@@ -19007,6 +19294,7 @@ Vejle;Divorced;2023Q3;11228
 Vejle;Divorced;2023Q4;11242
 Vejle;Divorced;2024Q1;11269
 Vejle;Divorced;2024Q2;11362
+Vejle;Divorced;2024Q3;11355
 Aabenraa;Never married;2008Q1;25661
 Aabenraa;Never married;2008Q2;25777
 Aabenraa;Never married;2008Q3;25820
@@ -19073,6 +19361,7 @@ Aabenraa;Never married;2023Q3;25652
 Aabenraa;Never married;2023Q4;25478
 Aabenraa;Never married;2024Q1;25556
 Aabenraa;Never married;2024Q2;25602
+Aabenraa;Never married;2024Q3;25591
 Aabenraa;Married/separated;2008Q1;26128
 Aabenraa;Married/separated;2008Q2;26043
 Aabenraa;Married/separated;2008Q3;26147
@@ -19139,6 +19428,7 @@ Aabenraa;Married/separated;2023Q3;23587
 Aabenraa;Married/separated;2023Q4;23627
 Aabenraa;Married/separated;2024Q1;23541
 Aabenraa;Married/separated;2024Q2;23543
+Aabenraa;Married/separated;2024Q3;23571
 Aabenraa;Widowed;2008Q1;3823
 Aabenraa;Widowed;2008Q2;3815
 Aabenraa;Widowed;2008Q3;3779
@@ -19205,6 +19495,7 @@ Aabenraa;Widowed;2023Q3;3543
 Aabenraa;Widowed;2023Q4;3542
 Aabenraa;Widowed;2024Q1;3560
 Aabenraa;Widowed;2024Q2;3532
+Aabenraa;Widowed;2024Q3;3527
 Aabenraa;Divorced;2008Q1;4577
 Aabenraa;Divorced;2008Q2;4648
 Aabenraa;Divorced;2008Q3;4681
@@ -19271,6 +19562,7 @@ Aabenraa;Divorced;2023Q3;6006
 Aabenraa;Divorced;2023Q4;5986
 Aabenraa;Divorced;2024Q1;6000
 Aabenraa;Divorced;2024Q2;5996
+Aabenraa;Divorced;2024Q3;5971
 Region Midtjylland;Never married;2008Q1;587538
 Region Midtjylland;Never married;2008Q2;589654
 Region Midtjylland;Never married;2008Q3;589881
@@ -19337,6 +19629,7 @@ Region Midtjylland;Never married;2023Q3;681240
 Region Midtjylland;Never married;2023Q4;682902
 Region Midtjylland;Never married;2024Q1;683885
 Region Midtjylland;Never married;2024Q2;685377
+Region Midtjylland;Never married;2024Q3;685169
 Region Midtjylland;Married/separated;2008Q1;498744
 Region Midtjylland;Married/separated;2008Q2;497768
 Region Midtjylland;Married/separated;2008Q3;499168
@@ -19403,6 +19696,7 @@ Region Midtjylland;Married/separated;2023Q3;499107
 Region Midtjylland;Married/separated;2023Q4;501586
 Region Midtjylland;Married/separated;2024Q1;501107
 Region Midtjylland;Married/separated;2024Q2;499885
+Region Midtjylland;Married/separated;2024Q3;501367
 Region Midtjylland;Widowed;2008Q1;67414
 Region Midtjylland;Widowed;2008Q2;67229
 Region Midtjylland;Widowed;2008Q3;67097
@@ -19469,6 +19763,7 @@ Region Midtjylland;Widowed;2023Q3;62642
 Region Midtjylland;Widowed;2023Q4;62650
 Region Midtjylland;Widowed;2024Q1;62594
 Region Midtjylland;Widowed;2024Q2;62618
+Region Midtjylland;Widowed;2024Q3;62682
 Region Midtjylland;Divorced;2008Q1;83345
 Region Midtjylland;Divorced;2008Q2;84032
 Region Midtjylland;Divorced;2008Q3;84430
@@ -19535,6 +19830,7 @@ Region Midtjylland;Divorced;2023Q3;117784
 Region Midtjylland;Divorced;2023Q4;117715
 Region Midtjylland;Divorced;2024Q1;118102
 Region Midtjylland;Divorced;2024Q2;118627
+Region Midtjylland;Divorced;2024Q3;118591
 Favrskov;Never married;2008Q1;20295
 Favrskov;Never married;2008Q2;20338
 Favrskov;Never married;2008Q3;20471
@@ -19601,6 +19897,7 @@ Favrskov;Never married;2023Q3;22563
 Favrskov;Never married;2023Q4;22468
 Favrskov;Never married;2024Q1;22527
 Favrskov;Never married;2024Q2;22467
+Favrskov;Never married;2024Q3;22512
 Favrskov;Married/separated;2008Q1;20629
 Favrskov;Married/separated;2008Q2;20643
 Favrskov;Married/separated;2008Q3;20774
@@ -19667,6 +19964,7 @@ Favrskov;Married/separated;2023Q3;20736
 Favrskov;Married/separated;2023Q4;20813
 Favrskov;Married/separated;2024Q1;20806
 Favrskov;Married/separated;2024Q2;20746
+Favrskov;Married/separated;2024Q3;20791
 Favrskov;Widowed;2008Q1;2187
 Favrskov;Widowed;2008Q2;2184
 Favrskov;Widowed;2008Q3;2165
@@ -19733,6 +20031,7 @@ Favrskov;Widowed;2023Q3;2275
 Favrskov;Widowed;2023Q4;2258
 Favrskov;Widowed;2024Q1;2251
 Favrskov;Widowed;2024Q2;2241
+Favrskov;Widowed;2024Q3;2239
 Favrskov;Divorced;2008Q1;2493
 Favrskov;Divorced;2008Q2;2538
 Favrskov;Divorced;2008Q3;2573
@@ -19799,6 +20098,7 @@ Favrskov;Divorced;2023Q3;3811
 Favrskov;Divorced;2023Q4;3787
 Favrskov;Divorced;2024Q1;3793
 Favrskov;Divorced;2024Q2;3794
+Favrskov;Divorced;2024Q3;3793
 Hedensted;Never married;2008Q1;20011
 Hedensted;Never married;2008Q2;20101
 Hedensted;Never married;2008Q3;20173
@@ -19865,6 +20165,7 @@ Hedensted;Never married;2023Q3;21009
 Hedensted;Never married;2023Q4;20910
 Hedensted;Never married;2024Q1;20973
 Hedensted;Never married;2024Q2;20935
+Hedensted;Never married;2024Q3;21033
 Hedensted;Married/separated;2008Q1;20377
 Hedensted;Married/separated;2008Q2;20343
 Hedensted;Married/separated;2008Q3;20413
@@ -19931,6 +20232,7 @@ Hedensted;Married/separated;2023Q3;20160
 Hedensted;Married/separated;2023Q4;20229
 Hedensted;Married/separated;2024Q1;20204
 Hedensted;Married/separated;2024Q2;20129
+Hedensted;Married/separated;2024Q3;20232
 Hedensted;Widowed;2008Q1;2635
 Hedensted;Widowed;2008Q2;2635
 Hedensted;Widowed;2008Q3;2620
@@ -19997,6 +20299,7 @@ Hedensted;Widowed;2023Q3;2429
 Hedensted;Widowed;2023Q4;2432
 Hedensted;Widowed;2024Q1;2452
 Hedensted;Widowed;2024Q2;2460
+Hedensted;Widowed;2024Q3;2471
 Hedensted;Divorced;2008Q1;2538
 Hedensted;Divorced;2008Q2;2570
 Hedensted;Divorced;2008Q3;2596
@@ -20063,6 +20366,7 @@ Hedensted;Divorced;2023Q3;4090
 Hedensted;Divorced;2023Q4;4101
 Hedensted;Divorced;2024Q1;4096
 Hedensted;Divorced;2024Q2;4136
+Hedensted;Divorced;2024Q3;4140
 Horsens;Never married;2008Q1;37321
 Horsens;Never married;2008Q2;37545
 Horsens;Never married;2008Q3;37611
@@ -20129,6 +20433,7 @@ Horsens;Never married;2023Q3;48147
 Horsens;Never married;2023Q4;48085
 Horsens;Never married;2024Q1;48316
 Horsens;Never married;2024Q2;48324
+Horsens;Never married;2024Q3;48338
 Horsens;Married/separated;2008Q1;32410
 Horsens;Married/separated;2008Q2;32430
 Horsens;Married/separated;2008Q3;32545
@@ -20195,6 +20500,7 @@ Horsens;Married/separated;2023Q3;35385
 Horsens;Married/separated;2023Q4;35677
 Horsens;Married/separated;2024Q1;35699
 Horsens;Married/separated;2024Q2;35642
+Horsens;Married/separated;2024Q3;35791
 Horsens;Widowed;2008Q1;4416
 Horsens;Widowed;2008Q2;4414
 Horsens;Widowed;2008Q3;4411
@@ -20261,6 +20567,7 @@ Horsens;Widowed;2023Q3;4270
 Horsens;Widowed;2023Q4;4255
 Horsens;Widowed;2024Q1;4259
 Horsens;Widowed;2024Q2;4268
+Horsens;Widowed;2024Q3;4259
 Horsens;Divorced;2008Q1;5955
 Horsens;Divorced;2008Q2;5986
 Horsens;Divorced;2008Q3;6032
@@ -20327,6 +20634,7 @@ Horsens;Divorced;2023Q3;9053
 Horsens;Divorced;2023Q4;9063
 Horsens;Divorced;2024Q1;9118
 Horsens;Divorced;2024Q2;9132
+Horsens;Divorced;2024Q3;9129
 Norddjurs;Never married;2008Q1;16849
 Norddjurs;Never married;2008Q2;16870
 Norddjurs;Never married;2008Q3;16829
@@ -20393,6 +20701,7 @@ Norddjurs;Never married;2023Q3;16512
 Norddjurs;Never married;2023Q4;16461
 Norddjurs;Never married;2024Q1;16401
 Norddjurs;Never married;2024Q2;16412
+Norddjurs;Never married;2024Q3;16382
 Norddjurs;Married/separated;2008Q1;16084
 Norddjurs;Married/separated;2008Q2;15966
 Norddjurs;Married/separated;2008Q3;15972
@@ -20459,6 +20768,7 @@ Norddjurs;Married/separated;2023Q3;14110
 Norddjurs;Married/separated;2023Q4;14118
 Norddjurs;Married/separated;2024Q1;14059
 Norddjurs;Married/separated;2024Q2;14008
+Norddjurs;Married/separated;2024Q3;14004
 Norddjurs;Widowed;2008Q1;2685
 Norddjurs;Widowed;2008Q2;2695
 Norddjurs;Widowed;2008Q3;2693
@@ -20525,6 +20835,7 @@ Norddjurs;Widowed;2023Q3;2343
 Norddjurs;Widowed;2023Q4;2341
 Norddjurs;Widowed;2024Q1;2340
 Norddjurs;Widowed;2024Q2;2336
+Norddjurs;Widowed;2024Q3;2338
 Norddjurs;Divorced;2008Q1;2963
 Norddjurs;Divorced;2008Q2;2991
 Norddjurs;Divorced;2008Q3;3013
@@ -20591,6 +20902,7 @@ Norddjurs;Divorced;2023Q3;3961
 Norddjurs;Divorced;2023Q4;3957
 Norddjurs;Divorced;2024Q1;3973
 Norddjurs;Divorced;2024Q2;3986
+Norddjurs;Divorced;2024Q3;3970
 Odder;Never married;2008Q1;9101
 Odder;Never married;2008Q2;9116
 Odder;Never married;2008Q3;9131
@@ -20657,6 +20969,7 @@ Odder;Never married;2023Q3;10134
 Odder;Never married;2023Q4;10133
 Odder;Never married;2024Q1;10152
 Odder;Never married;2024Q2;10175
+Odder;Never married;2024Q3;10211
 Odder;Married/separated;2008Q1;9821
 Odder;Married/separated;2008Q2;9793
 Odder;Married/separated;2008Q3;9819
@@ -20723,6 +21036,7 @@ Odder;Married/separated;2023Q3;10057
 Odder;Married/separated;2023Q4;10112
 Odder;Married/separated;2024Q1;10106
 Odder;Married/separated;2024Q2;10092
+Odder;Married/separated;2024Q3;10120
 Odder;Widowed;2008Q1;1231
 Odder;Widowed;2008Q2;1241
 Odder;Widowed;2008Q3;1243
@@ -20789,6 +21103,7 @@ Odder;Widowed;2023Q3;1303
 Odder;Widowed;2023Q4;1311
 Odder;Widowed;2024Q1;1313
 Odder;Widowed;2024Q2;1310
+Odder;Widowed;2024Q3;1302
 Odder;Divorced;2008Q1;1409
 Odder;Divorced;2008Q2;1413
 Odder;Divorced;2008Q3;1426
@@ -20855,6 +21170,7 @@ Odder;Divorced;2023Q3;2312
 Odder;Divorced;2023Q4;2323
 Odder;Divorced;2024Q1;2325
 Odder;Divorced;2024Q2;2340
+Odder;Divorced;2024Q3;2338
 Randers;Never married;2008Q1;43371
 Randers;Never married;2008Q2;43566
 Randers;Never married;2008Q3;43582
@@ -20921,6 +21237,7 @@ Randers;Never married;2023Q3;48695
 Randers;Never married;2023Q4;48476
 Randers;Never married;2024Q1;48704
 Randers;Never married;2024Q2;48884
+Randers;Never married;2024Q3;48870
 Randers;Married/separated;2008Q1;37249
 Randers;Married/separated;2008Q2;37172
 Randers;Married/separated;2008Q3;37247
@@ -20987,6 +21304,7 @@ Randers;Married/separated;2023Q3;35855
 Randers;Married/separated;2023Q4;35958
 Randers;Married/separated;2024Q1;35958
 Randers;Married/separated;2024Q2;35935
+Randers;Married/separated;2024Q3;36047
 Randers;Widowed;2008Q1;5818
 Randers;Widowed;2008Q2;5795
 Randers;Widowed;2008Q3;5761
@@ -21053,6 +21371,7 @@ Randers;Widowed;2023Q3;5170
 Randers;Widowed;2023Q4;5150
 Randers;Widowed;2024Q1;5148
 Randers;Widowed;2024Q2;5126
+Randers;Widowed;2024Q3;5107
 Randers;Divorced;2008Q1;7206
 Randers;Divorced;2008Q2;7270
 Randers;Divorced;2008Q3;7283
@@ -21119,6 +21438,7 @@ Randers;Divorced;2023Q3;10114
 Randers;Divorced;2023Q4;10133
 Randers;Divorced;2024Q1;10164
 Randers;Divorced;2024Q2;10222
+Randers;Divorced;2024Q3;10224
 Samsø;Never married;2008Q1;1519
 Samsø;Never married;2008Q2;1507
 Samsø;Never married;2008Q3;1507
@@ -21185,6 +21505,7 @@ Samsø;Never married;2023Q3;1421
 Samsø;Never married;2023Q4;1388
 Samsø;Never married;2024Q1;1383
 Samsø;Never married;2024Q2;1375
+Samsø;Never married;2024Q3;1370
 Samsø;Married/separated;2008Q1;1763
 Samsø;Married/separated;2008Q2;1763
 Samsø;Married/separated;2008Q3;1759
@@ -21251,6 +21572,7 @@ Samsø;Married/separated;2023Q3;1574
 Samsø;Married/separated;2023Q4;1555
 Samsø;Married/separated;2024Q1;1537
 Samsø;Married/separated;2024Q2;1539
+Samsø;Married/separated;2024Q3;1530
 Samsø;Widowed;2008Q1;410
 Samsø;Widowed;2008Q2;409
 Samsø;Widowed;2008Q3;409
@@ -21317,6 +21639,7 @@ Samsø;Widowed;2023Q3;336
 Samsø;Widowed;2023Q4;334
 Samsø;Widowed;2024Q1;334
 Samsø;Widowed;2024Q2;332
+Samsø;Widowed;2024Q3;337
 Samsø;Divorced;2008Q1;393
 Samsø;Divorced;2008Q2;394
 Samsø;Divorced;2008Q3;393
@@ -21383,6 +21706,7 @@ Samsø;Divorced;2023Q3;442
 Samsø;Divorced;2023Q4;438
 Samsø;Divorced;2024Q1;440
 Samsø;Divorced;2024Q2;449
+Samsø;Divorced;2024Q3;442
 Silkeborg;Never married;2008Q1;39923
 Silkeborg;Never married;2008Q2;40139
 Silkeborg;Never married;2008Q3;40194
@@ -21449,6 +21773,7 @@ Silkeborg;Never married;2023Q3;47557
 Silkeborg;Never married;2023Q4;47430
 Silkeborg;Never married;2024Q1;47772
 Silkeborg;Never married;2024Q2;48004
+Silkeborg;Never married;2024Q3;48104
 Silkeborg;Married/separated;2008Q1;36806
 Silkeborg;Married/separated;2008Q2;36767
 Silkeborg;Married/separated;2008Q3;36916
@@ -21515,6 +21840,7 @@ Silkeborg;Married/separated;2023Q3;38875
 Silkeborg;Married/separated;2023Q4;39129
 Silkeborg;Married/separated;2024Q1;39189
 Silkeborg;Married/separated;2024Q2;39143
+Silkeborg;Married/separated;2024Q3;39353
 Silkeborg;Widowed;2008Q1;4609
 Silkeborg;Widowed;2008Q2;4592
 Silkeborg;Widowed;2008Q3;4595
@@ -21581,6 +21907,7 @@ Silkeborg;Widowed;2023Q3;4513
 Silkeborg;Widowed;2023Q4;4524
 Silkeborg;Widowed;2024Q1;4533
 Silkeborg;Widowed;2024Q2;4521
+Silkeborg;Widowed;2024Q3;4517
 Silkeborg;Divorced;2008Q1;6033
 Silkeborg;Divorced;2008Q2;6088
 Silkeborg;Divorced;2008Q3;6101
@@ -21647,6 +21974,7 @@ Silkeborg;Divorced;2023Q3;9148
 Silkeborg;Divorced;2023Q4;9179
 Silkeborg;Divorced;2024Q1;9253
 Silkeborg;Divorced;2024Q2;9306
+Silkeborg;Divorced;2024Q3;9290
 Skanderborg;Never married;2008Q1;25032
 Skanderborg;Never married;2008Q2;25146
 Skanderborg;Never married;2008Q3;25225
@@ -21713,6 +22041,7 @@ Skanderborg;Never married;2023Q3;30569
 Skanderborg;Never married;2023Q4;30424
 Skanderborg;Never married;2024Q1;30421
 Skanderborg;Never married;2024Q2;30497
+Skanderborg;Never married;2024Q3;30506
 Skanderborg;Married/separated;2008Q1;25278
 Skanderborg;Married/separated;2008Q2;25219
 Skanderborg;Married/separated;2008Q3;25256
@@ -21779,6 +22108,7 @@ Skanderborg;Married/separated;2023Q3;27021
 Skanderborg;Married/separated;2023Q4;27097
 Skanderborg;Married/separated;2024Q1;27122
 Skanderborg;Married/separated;2024Q2;27068
+Skanderborg;Married/separated;2024Q3;27156
 Skanderborg;Widowed;2008Q1;2428
 Skanderborg;Widowed;2008Q2;2448
 Skanderborg;Widowed;2008Q3;2450
@@ -21845,6 +22175,7 @@ Skanderborg;Widowed;2023Q3;2670
 Skanderborg;Widowed;2023Q4;2680
 Skanderborg;Widowed;2024Q1;2664
 Skanderborg;Widowed;2024Q2;2698
+Skanderborg;Widowed;2024Q3;2697
 Skanderborg;Divorced;2008Q1;3306
 Skanderborg;Divorced;2008Q2;3336
 Skanderborg;Divorced;2008Q3;3377
@@ -21911,6 +22242,7 @@ Skanderborg;Divorced;2023Q3;5005
 Skanderborg;Divorced;2023Q4;4993
 Skanderborg;Divorced;2024Q1;4998
 Skanderborg;Divorced;2024Q2;5004
+Skanderborg;Divorced;2024Q3;5017
 Syddjurs;Never married;2008Q1;17198
 Syddjurs;Never married;2008Q2;17250
 Syddjurs;Never married;2008Q3;17208
@@ -21977,6 +22309,7 @@ Syddjurs;Never married;2023Q3;18854
 Syddjurs;Never married;2023Q4;18845
 Syddjurs;Never married;2024Q1;18735
 Syddjurs;Never married;2024Q2;18757
+Syddjurs;Never married;2024Q3;18713
 Syddjurs;Married/separated;2008Q1;18520
 Syddjurs;Married/separated;2008Q2;18425
 Syddjurs;Married/separated;2008Q3;18513
@@ -22043,6 +22376,7 @@ Syddjurs;Married/separated;2023Q3;18431
 Syddjurs;Married/separated;2023Q4;18487
 Syddjurs;Married/separated;2024Q1;18466
 Syddjurs;Married/separated;2024Q2;18397
+Syddjurs;Married/separated;2024Q3;18424
 Syddjurs;Widowed;2008Q1;2557
 Syddjurs;Widowed;2008Q2;2548
 Syddjurs;Widowed;2008Q3;2551
@@ -22109,6 +22443,7 @@ Syddjurs;Widowed;2023Q3;2529
 Syddjurs;Widowed;2023Q4;2543
 Syddjurs;Widowed;2024Q1;2544
 Syddjurs;Widowed;2024Q2;2541
+Syddjurs;Widowed;2024Q3;2545
 Syddjurs;Divorced;2008Q1;3006
 Syddjurs;Divorced;2008Q2;3034
 Syddjurs;Divorced;2008Q3;3046
@@ -22175,6 +22510,7 @@ Syddjurs;Divorced;2023Q3;4383
 Syddjurs;Divorced;2023Q4;4354
 Syddjurs;Divorced;2024Q1;4331
 Syddjurs;Divorced;2024Q2;4364
+Syddjurs;Divorced;2024Q3;4351
 Aarhus;Never married;2008Q1;164535
 Aarhus;Never married;2008Q2;164961
 Aarhus;Never married;2008Q3;164472
@@ -22241,6 +22577,7 @@ Aarhus;Never married;2023Q3;219911
 Aarhus;Never married;2023Q4;223471
 Aarhus;Never married;2024Q1;223478
 Aarhus;Never married;2024Q2;224022
+Aarhus;Never married;2024Q3;223753
 Aarhus;Married/separated;2008Q1;98639
 Aarhus;Married/separated;2008Q2;98360
 Aarhus;Married/separated;2008Q3;98614
@@ -22307,6 +22644,7 @@ Aarhus;Married/separated;2023Q3;103318
 Aarhus;Married/separated;2023Q4;104275
 Aarhus;Married/separated;2024Q1;104321
 Aarhus;Married/separated;2024Q2;104216
+Aarhus;Married/separated;2024Q3;104919
 Aarhus;Widowed;2008Q1;13149
 Aarhus;Widowed;2008Q2;13087
 Aarhus;Widowed;2008Q3;13060
@@ -22373,6 +22711,7 @@ Aarhus;Widowed;2023Q3;11620
 Aarhus;Widowed;2023Q4;11640
 Aarhus;Widowed;2024Q1;11609
 Aarhus;Widowed;2024Q2;11601
+Aarhus;Widowed;2024Q3;11636
 Aarhus;Divorced;2008Q1;22215
 Aarhus;Divorced;2008Q2;22302
 Aarhus;Divorced;2008Q3;22355
@@ -22439,6 +22778,7 @@ Aarhus;Divorced;2023Q3;27593
 Aarhus;Divorced;2023Q4;27582
 Aarhus;Divorced;2024Q1;27687
 Aarhus;Divorced;2024Q2;27827
+Aarhus;Divorced;2024Q3;27823
 Herning;Never married;2008Q1;38990
 Herning;Never married;2008Q2;39242
 Herning;Never married;2008Q3;39242
@@ -22505,6 +22845,7 @@ Herning;Never married;2023Q3;42358
 Herning;Never married;2023Q4;42174
 Herning;Never married;2024Q1;42169
 Herning;Never married;2024Q2;42320
+Herning;Never married;2024Q3;42260
 Herning;Married/separated;2008Q1;35399
 Herning;Married/separated;2008Q2;35378
 Herning;Married/separated;2008Q3;35511
@@ -22571,6 +22912,7 @@ Herning;Married/separated;2023Q3;35707
 Herning;Married/separated;2023Q4;35813
 Herning;Married/separated;2024Q1;35719
 Herning;Married/separated;2024Q2;35687
+Herning;Married/separated;2024Q3;35755
 Herning;Widowed;2008Q1;4678
 Herning;Widowed;2008Q2;4646
 Herning;Widowed;2008Q3;4654
@@ -22637,6 +22979,7 @@ Herning;Widowed;2023Q3;4453
 Herning;Widowed;2023Q4;4450
 Herning;Widowed;2024Q1;4434
 Herning;Widowed;2024Q2;4462
+Herning;Widowed;2024Q3;4463
 Herning;Divorced;2008Q1;5141
 Herning;Divorced;2008Q2;5200
 Herning;Divorced;2008Q3;5220
@@ -22703,6 +23046,7 @@ Herning;Divorced;2023Q3;7478
 Herning;Divorced;2023Q4;7483
 Herning;Divorced;2024Q1;7526
 Herning;Divorced;2024Q2;7561
+Herning;Divorced;2024Q3;7527
 Holstebro;Never married;2008Q1;26628
 Holstebro;Never married;2008Q2;26775
 Holstebro;Never married;2008Q3;26791
@@ -22769,6 +23113,7 @@ Holstebro;Never married;2023Q3;27929
 Holstebro;Never married;2023Q4;27785
 Holstebro;Never married;2024Q1;27855
 Holstebro;Never married;2024Q2;27967
+Holstebro;Never married;2024Q3;27942
 Holstebro;Married/separated;2008Q1;23629
 Holstebro;Married/separated;2008Q2;23620
 Holstebro;Married/separated;2008Q3;23655
@@ -22835,6 +23180,7 @@ Holstebro;Married/separated;2023Q3;23013
 Holstebro;Married/separated;2023Q4;23114
 Holstebro;Married/separated;2024Q1;23063
 Holstebro;Married/separated;2024Q2;22931
+Holstebro;Married/separated;2024Q3;22964
 Holstebro;Widowed;2008Q1;3279
 Holstebro;Widowed;2008Q2;3257
 Holstebro;Widowed;2008Q3;3245
@@ -22901,6 +23247,7 @@ Holstebro;Widowed;2023Q3;3018
 Holstebro;Widowed;2023Q4;3016
 Holstebro;Widowed;2024Q1;3011
 Holstebro;Widowed;2024Q2;3014
+Holstebro;Widowed;2024Q3;3023
 Holstebro;Divorced;2008Q1;3484
 Holstebro;Divorced;2008Q2;3520
 Holstebro;Divorced;2008Q3;3508
@@ -22967,6 +23314,7 @@ Holstebro;Divorced;2023Q3;5095
 Holstebro;Divorced;2023Q4;5069
 Holstebro;Divorced;2024Q1;5087
 Holstebro;Divorced;2024Q2;5117
+Holstebro;Divorced;2024Q3;5135
 Ikast-Brande;Never married;2008Q1;17909
 Ikast-Brande;Never married;2008Q2;17989
 Ikast-Brande;Never married;2008Q3;18063
@@ -23033,6 +23381,7 @@ Ikast-Brande;Never married;2023Q3;19455
 Ikast-Brande;Never married;2023Q4;19494
 Ikast-Brande;Never married;2024Q1;19520
 Ikast-Brande;Never married;2024Q2;19590
+Ikast-Brande;Never married;2024Q3;19711
 Ikast-Brande;Married/separated;2008Q1;17324
 Ikast-Brande;Married/separated;2008Q2;17284
 Ikast-Brande;Married/separated;2008Q3;17344
@@ -23099,6 +23448,7 @@ Ikast-Brande;Married/separated;2023Q3;17363
 Ikast-Brande;Married/separated;2023Q4;17416
 Ikast-Brande;Married/separated;2024Q1;17348
 Ikast-Brande;Married/separated;2024Q2;17289
+Ikast-Brande;Married/separated;2024Q3;17290
 Ikast-Brande;Widowed;2008Q1;2220
 Ikast-Brande;Widowed;2008Q2;2213
 Ikast-Brande;Widowed;2008Q3;2209
@@ -23165,6 +23515,7 @@ Ikast-Brande;Widowed;2023Q3;2099
 Ikast-Brande;Widowed;2023Q4;2105
 Ikast-Brande;Widowed;2024Q1;2113
 Ikast-Brande;Widowed;2024Q2;2127
+Ikast-Brande;Widowed;2024Q3;2136
 Ikast-Brande;Divorced;2008Q1;2440
 Ikast-Brande;Divorced;2008Q2;2493
 Ikast-Brande;Divorced;2008Q3;2500
@@ -23231,6 +23582,7 @@ Ikast-Brande;Divorced;2023Q3;3756
 Ikast-Brande;Divorced;2023Q4;3757
 Ikast-Brande;Divorced;2024Q1;3756
 Ikast-Brande;Divorced;2024Q2;3779
+Ikast-Brande;Divorced;2024Q3;3817
 Lemvig;Never married;2008Q1;9412
 Lemvig;Never married;2008Q2;9384
 Lemvig;Never married;2008Q3;9381
@@ -23297,6 +23649,7 @@ Lemvig;Never married;2023Q3;7797
 Lemvig;Never married;2023Q4;7711
 Lemvig;Never married;2024Q1;7674
 Lemvig;Never married;2024Q2;7677
+Lemvig;Never married;2024Q3;7646
 Lemvig;Married/separated;2008Q1;9901
 Lemvig;Married/separated;2008Q2;9846
 Lemvig;Married/separated;2008Q3;9877
@@ -23363,6 +23716,7 @@ Lemvig;Married/separated;2023Q3;8538
 Lemvig;Married/separated;2023Q4;8505
 Lemvig;Married/separated;2024Q1;8465
 Lemvig;Married/separated;2024Q2;8408
+Lemvig;Married/separated;2024Q3;8379
 Lemvig;Widowed;2008Q1;1572
 Lemvig;Widowed;2008Q2;1559
 Lemvig;Widowed;2008Q3;1548
@@ -23429,6 +23783,7 @@ Lemvig;Widowed;2023Q3;1297
 Lemvig;Widowed;2023Q4;1296
 Lemvig;Widowed;2024Q1;1295
 Lemvig;Widowed;2024Q2;1300
+Lemvig;Widowed;2024Q3;1300
 Lemvig;Divorced;2008Q1;1182
 Lemvig;Divorced;2008Q2;1203
 Lemvig;Divorced;2008Q3;1214
@@ -23495,6 +23850,7 @@ Lemvig;Divorced;2023Q3;1666
 Lemvig;Divorced;2023Q4;1670
 Lemvig;Divorced;2024Q1;1676
 Lemvig;Divorced;2024Q2;1676
+Lemvig;Divorced;2024Q3;1661
 Ringkøbing-Skjern;Never married;2008Q1;25739
 Ringkøbing-Skjern;Never married;2008Q2;25830
 Ringkøbing-Skjern;Never married;2008Q3;25974
@@ -23561,6 +23917,7 @@ Ringkøbing-Skjern;Never married;2023Q3;24225
 Ringkøbing-Skjern;Never married;2023Q4;24015
 Ringkøbing-Skjern;Never married;2024Q1;24103
 Ringkøbing-Skjern;Never married;2024Q2;24089
+Ringkøbing-Skjern;Never married;2024Q3;24057
 Ringkøbing-Skjern;Married/separated;2008Q1;25868
 Ringkøbing-Skjern;Married/separated;2008Q2;25832
 Ringkøbing-Skjern;Married/separated;2008Q3;25857
@@ -23627,6 +23984,7 @@ Ringkøbing-Skjern;Married/separated;2023Q3;24247
 Ringkøbing-Skjern;Married/separated;2023Q4;24328
 Ringkøbing-Skjern;Married/separated;2024Q1;24273
 Ringkøbing-Skjern;Married/separated;2024Q2;24129
+Ringkøbing-Skjern;Married/separated;2024Q3;24119
 Ringkøbing-Skjern;Widowed;2008Q1;3594
 Ringkøbing-Skjern;Widowed;2008Q2;3574
 Ringkøbing-Skjern;Widowed;2008Q3;3579
@@ -23693,6 +24051,7 @@ Ringkøbing-Skjern;Widowed;2023Q3;3265
 Ringkøbing-Skjern;Widowed;2023Q4;3256
 Ringkøbing-Skjern;Widowed;2024Q1;3264
 Ringkøbing-Skjern;Widowed;2024Q2;3266
+Ringkøbing-Skjern;Widowed;2024Q3;3266
 Ringkøbing-Skjern;Divorced;2008Q1;3167
 Ringkøbing-Skjern;Divorced;2008Q2;3190
 Ringkøbing-Skjern;Divorced;2008Q3;3238
@@ -23759,6 +24118,7 @@ Ringkøbing-Skjern;Divorced;2023Q3;4591
 Ringkøbing-Skjern;Divorced;2023Q4;4571
 Ringkøbing-Skjern;Divorced;2024Q1;4578
 Ringkøbing-Skjern;Divorced;2024Q2;4596
+Ringkøbing-Skjern;Divorced;2024Q3;4577
 Skive;Never married;2008Q1;21713
 Skive;Never married;2008Q2;21717
 Skive;Never married;2008Q3;21788
@@ -23825,6 +24185,7 @@ Skive;Never married;2023Q3;19802
 Skive;Never married;2023Q4;19659
 Skive;Never married;2024Q1;19642
 Skive;Never married;2024Q2;19674
+Skive;Never married;2024Q3;19629
 Skive;Married/separated;2008Q1;20633
 Skive;Married/separated;2008Q2;20572
 Skive;Married/separated;2008Q3;20588
@@ -23891,6 +24252,7 @@ Skive;Married/separated;2023Q3;18077
 Skive;Married/separated;2023Q4;18153
 Skive;Married/separated;2024Q1;18059
 Skive;Married/separated;2024Q2;17961
+Skive;Married/separated;2024Q3;17937
 Skive;Widowed;2008Q1;3167
 Skive;Widowed;2008Q2;3154
 Skive;Widowed;2008Q3;3143
@@ -23957,6 +24319,7 @@ Skive;Widowed;2023Q3;2718
 Skive;Widowed;2023Q4;2717
 Skive;Widowed;2024Q1;2712
 Skive;Widowed;2024Q2;2710
+Skive;Widowed;2024Q3;2715
 Skive;Divorced;2008Q1;2843
 Skive;Divorced;2008Q2;2869
 Skive;Divorced;2008Q3;2901
@@ -24023,6 +24386,7 @@ Skive;Divorced;2023Q3;4330
 Skive;Divorced;2023Q4;4310
 Skive;Divorced;2024Q1;4326
 Skive;Divorced;2024Q2;4328
+Skive;Divorced;2024Q3;4308
 Struer;Never married;2008Q1;9538
 Struer;Never married;2008Q2;9530
 Struer;Never married;2008Q3;9571
@@ -24089,6 +24453,7 @@ Struer;Never married;2023Q3;8438
 Struer;Never married;2023Q4;8354
 Struer;Never married;2024Q1;8397
 Struer;Never married;2024Q2;8349
+Struer;Never married;2024Q3;8285
 Struer;Married/separated;2008Q1;10247
 Struer;Married/separated;2008Q2;10252
 Struer;Married/separated;2008Q3;10269
@@ -24155,6 +24520,7 @@ Struer;Married/separated;2023Q3;8867
 Struer;Married/separated;2023Q4;8869
 Struer;Married/separated;2024Q1;8832
 Struer;Married/separated;2024Q2;8783
+Struer;Married/separated;2024Q3;8731
 Struer;Widowed;2008Q1;1417
 Struer;Widowed;2008Q2;1419
 Struer;Widowed;2008Q3;1423
@@ -24221,6 +24587,7 @@ Struer;Widowed;2023Q3;1360
 Struer;Widowed;2023Q4;1360
 Struer;Widowed;2024Q1;1354
 Struer;Widowed;2024Q2;1339
+Struer;Widowed;2024Q3;1353
 Struer;Divorced;2008Q1;1470
 Struer;Divorced;2008Q2;1479
 Struer;Divorced;2008Q3;1466
@@ -24287,6 +24654,7 @@ Struer;Divorced;2023Q3;2003
 Struer;Divorced;2023Q4;1994
 Struer;Divorced;2024Q1;2011
 Struer;Divorced;2024Q2;2024
+Struer;Divorced;2024Q3;2040
 Viborg;Never married;2008Q1;42454
 Viborg;Never married;2008Q2;42648
 Viborg;Never married;2008Q3;42668
@@ -24353,6 +24721,7 @@ Viborg;Never married;2023Q3;45864
 Viborg;Never married;2023Q4;45619
 Viborg;Never married;2024Q1;45663
 Viborg;Never married;2024Q2;45859
+Viborg;Never married;2024Q3;45847
 Viborg;Married/separated;2008Q1;38167
 Viborg;Married/separated;2008Q2;38103
 Viborg;Married/separated;2008Q3;38239
@@ -24419,6 +24788,7 @@ Viborg;Married/separated;2023Q3;37773
 Viborg;Married/separated;2023Q4;37938
 Viborg;Married/separated;2024Q1;37881
 Viborg;Married/separated;2024Q2;37782
+Viborg;Married/separated;2024Q3;37825
 Viborg;Widowed;2008Q1;5362
 Viborg;Widowed;2008Q2;5359
 Viborg;Widowed;2008Q3;5338
@@ -24485,6 +24855,7 @@ Viborg;Widowed;2023Q3;4974
 Viborg;Widowed;2023Q4;4982
 Viborg;Widowed;2024Q1;4964
 Viborg;Widowed;2024Q2;4966
+Viborg;Widowed;2024Q3;4978
 Viborg;Divorced;2008Q1;6101
 Viborg;Divorced;2008Q2;6156
 Viborg;Divorced;2008Q3;6188
@@ -24551,6 +24922,7 @@ Viborg;Divorced;2023Q3;8953
 Viborg;Divorced;2023Q4;8951
 Viborg;Divorced;2024Q1;8964
 Viborg;Divorced;2024Q2;8986
+Viborg;Divorced;2024Q3;9009
 Region Nordjylland;Never married;2008Q1;264477
 Region Nordjylland;Never married;2008Q2;265391
 Region Nordjylland;Never married;2008Q3;265432
@@ -24617,6 +24989,7 @@ Region Nordjylland;Never married;2023Q3;285956
 Region Nordjylland;Never married;2023Q4;285273
 Region Nordjylland;Never married;2024Q1;285180
 Region Nordjylland;Never married;2024Q2;285678
+Region Nordjylland;Never married;2024Q3;285250
 Region Nordjylland;Married/separated;2008Q1;237648
 Region Nordjylland;Married/separated;2008Q2;236866
 Region Nordjylland;Married/separated;2008Q3;237298
@@ -24683,6 +25056,7 @@ Region Nordjylland;Married/separated;2023Q3;221396
 Region Nordjylland;Married/separated;2023Q4;222134
 Region Nordjylland;Married/separated;2024Q1;221406
 Region Nordjylland;Married/separated;2024Q2;220398
+Region Nordjylland;Married/separated;2024Q3;220672
 Region Nordjylland;Widowed;2008Q1;37401
 Region Nordjylland;Widowed;2008Q2;37303
 Region Nordjylland;Widowed;2008Q3;37160
@@ -24749,6 +25123,7 @@ Region Nordjylland;Widowed;2023Q3;32811
 Region Nordjylland;Widowed;2023Q4;32826
 Region Nordjylland;Widowed;2024Q1;32849
 Region Nordjylland;Widowed;2024Q2;32870
+Region Nordjylland;Widowed;2024Q3;32842
 Region Nordjylland;Divorced;2008Q1;39313
 Region Nordjylland;Divorced;2008Q2;39588
 Region Nordjylland;Divorced;2008Q3;39712
@@ -24815,6 +25190,7 @@ Region Nordjylland;Divorced;2023Q3;53853
 Region Nordjylland;Divorced;2023Q4;53665
 Region Nordjylland;Divorced;2024Q1;53700
 Region Nordjylland;Divorced;2024Q2;53885
+Region Nordjylland;Divorced;2024Q3;53873
 Brønderslev;Never married;2008Q1;15540
 Brønderslev;Never married;2008Q2;15598
 Brønderslev;Never married;2008Q3;15680
@@ -24881,6 +25257,7 @@ Brønderslev;Never married;2023Q3;16724
 Brønderslev;Never married;2023Q4;16673
 Brønderslev;Never married;2024Q1;16742
 Brønderslev;Never married;2024Q2;16745
+Brønderslev;Never married;2024Q3;16728
 Brønderslev;Married/separated;2008Q1;15291
 Brønderslev;Married/separated;2008Q2;15213
 Brønderslev;Married/separated;2008Q3;15273
@@ -24947,6 +25324,7 @@ Brønderslev;Married/separated;2023Q3;14482
 Brønderslev;Married/separated;2023Q4;14558
 Brønderslev;Married/separated;2024Q1;14487
 Brønderslev;Married/separated;2024Q2;14452
+Brønderslev;Married/separated;2024Q3;14461
 Brønderslev;Widowed;2008Q1;2452
 Brønderslev;Widowed;2008Q2;2438
 Brønderslev;Widowed;2008Q3;2429
@@ -25013,6 +25391,7 @@ Brønderslev;Widowed;2023Q3;2134
 Brønderslev;Widowed;2023Q4;2113
 Brønderslev;Widowed;2024Q1;2120
 Brønderslev;Widowed;2024Q2;2114
+Brønderslev;Widowed;2024Q3;2114
 Brønderslev;Divorced;2008Q1;2242
 Brønderslev;Divorced;2008Q2;2259
 Brønderslev;Divorced;2008Q3;2264
@@ -25079,6 +25458,7 @@ Brønderslev;Divorced;2023Q3;3258
 Brønderslev;Divorced;2023Q4;3243
 Brønderslev;Divorced;2024Q1;3265
 Brønderslev;Divorced;2024Q2;3284
+Brønderslev;Divorced;2024Q3;3299
 Frederikshavn;Never married;2008Q1;26138
 Frederikshavn;Never married;2008Q2;26197
 Frederikshavn;Never married;2008Q3;26165
@@ -25145,6 +25525,7 @@ Frederikshavn;Never married;2023Q3;24610
 Frederikshavn;Never married;2023Q4;24375
 Frederikshavn;Never married;2024Q1;24405
 Frederikshavn;Never married;2024Q2;24513
+Frederikshavn;Never married;2024Q3;24516
 Frederikshavn;Married/separated;2008Q1;27309
 Frederikshavn;Married/separated;2008Q2;27211
 Frederikshavn;Married/separated;2008Q3;27166
@@ -25211,6 +25592,7 @@ Frederikshavn;Married/separated;2023Q3;23895
 Frederikshavn;Married/separated;2023Q4;23873
 Frederikshavn;Married/separated;2024Q1;23754
 Frederikshavn;Married/separated;2024Q2;23605
+Frederikshavn;Married/separated;2024Q3;23617
 Frederikshavn;Widowed;2008Q1;4542
 Frederikshavn;Widowed;2008Q2;4539
 Frederikshavn;Widowed;2008Q3;4519
@@ -25277,6 +25659,7 @@ Frederikshavn;Widowed;2023Q3;4142
 Frederikshavn;Widowed;2023Q4;4145
 Frederikshavn;Widowed;2024Q1;4152
 Frederikshavn;Widowed;2024Q2;4151
+Frederikshavn;Widowed;2024Q3;4140
 Frederikshavn;Divorced;2008Q1;4762
 Frederikshavn;Divorced;2008Q2;4786
 Frederikshavn;Divorced;2008Q3;4804
@@ -25343,6 +25726,7 @@ Frederikshavn;Divorced;2023Q3;6099
 Frederikshavn;Divorced;2023Q4;6066
 Frederikshavn;Divorced;2024Q1;6065
 Frederikshavn;Divorced;2024Q2;6061
+Frederikshavn;Divorced;2024Q3;6039
 Hjørring;Never married;2008Q1;29979
 Hjørring;Never married;2008Q2;30068
 Hjørring;Never married;2008Q3;30126
@@ -25409,6 +25793,7 @@ Hjørring;Never married;2023Q3;28546
 Hjørring;Never married;2023Q4;28375
 Hjørring;Never married;2024Q1;28212
 Hjørring;Never married;2024Q2;28299
+Hjørring;Never married;2024Q3;28308
 Hjørring;Married/separated;2008Q1;27935
 Hjørring;Married/separated;2008Q2;27814
 Hjørring;Married/separated;2008Q3;27876
@@ -25475,6 +25860,7 @@ Hjørring;Married/separated;2023Q3;24969
 Hjørring;Married/separated;2023Q4;25021
 Hjørring;Married/separated;2024Q1;24903
 Hjørring;Married/separated;2024Q2;24794
+Hjørring;Married/separated;2024Q3;24825
 Hjørring;Widowed;2008Q1;4500
 Hjørring;Widowed;2008Q2;4480
 Hjørring;Widowed;2008Q3;4452
@@ -25541,6 +25927,7 @@ Hjørring;Widowed;2023Q3;3903
 Hjørring;Widowed;2023Q4;3930
 Hjørring;Widowed;2024Q1;3908
 Hjørring;Widowed;2024Q2;3918
+Hjørring;Widowed;2024Q3;3907
 Hjørring;Divorced;2008Q1;4707
 Hjørring;Divorced;2008Q2;4781
 Hjørring;Divorced;2008Q3;4796
@@ -25607,6 +25994,7 @@ Hjørring;Divorced;2023Q3;6497
 Hjørring;Divorced;2023Q4;6479
 Hjørring;Divorced;2024Q1;6521
 Hjørring;Divorced;2024Q2;6559
+Hjørring;Divorced;2024Q3;6530
 Jammerbugt;Never married;2008Q1;16612
 Jammerbugt;Never married;2008Q2;16672
 Jammerbugt;Never married;2008Q3;16675
@@ -25673,6 +26061,7 @@ Jammerbugt;Never married;2023Q3;16503
 Jammerbugt;Never married;2023Q4;16483
 Jammerbugt;Never married;2024Q1;16464
 Jammerbugt;Never married;2024Q2;16437
+Jammerbugt;Never married;2024Q3;16450
 Jammerbugt;Married/separated;2008Q1;17484
 Jammerbugt;Married/separated;2008Q2;17449
 Jammerbugt;Married/separated;2008Q3;17508
@@ -25739,6 +26128,7 @@ Jammerbugt;Married/separated;2023Q3;15994
 Jammerbugt;Married/separated;2023Q4;16002
 Jammerbugt;Married/separated;2024Q1;15952
 Jammerbugt;Married/separated;2024Q2;15886
+Jammerbugt;Married/separated;2024Q3;15891
 Jammerbugt;Widowed;2008Q1;2592
 Jammerbugt;Widowed;2008Q2;2597
 Jammerbugt;Widowed;2008Q3;2597
@@ -25805,6 +26195,7 @@ Jammerbugt;Widowed;2023Q3;2401
 Jammerbugt;Widowed;2023Q4;2403
 Jammerbugt;Widowed;2024Q1;2402
 Jammerbugt;Widowed;2024Q2;2411
+Jammerbugt;Widowed;2024Q3;2420
 Jammerbugt;Divorced;2008Q1;2269
 Jammerbugt;Divorced;2008Q2;2287
 Jammerbugt;Divorced;2008Q3;2308
@@ -25871,6 +26262,7 @@ Jammerbugt;Divorced;2023Q3;3432
 Jammerbugt;Divorced;2023Q4;3436
 Jammerbugt;Divorced;2024Q1;3416
 Jammerbugt;Divorced;2024Q2;3425
+Jammerbugt;Divorced;2024Q3;3409
 Læsø;Never married;2008Q1;703
 Læsø;Never married;2008Q2;709
 Læsø;Never married;2008Q3;707
@@ -25937,6 +26329,7 @@ Læsø;Never married;2023Q3;622
 Læsø;Never married;2023Q4;614
 Læsø;Never married;2024Q1;614
 Læsø;Never married;2024Q2;613
+Læsø;Never married;2024Q3;605
 Læsø;Married/separated;2008Q1;908
 Læsø;Married/separated;2008Q2;907
 Læsø;Married/separated;2008Q3;909
@@ -26003,6 +26396,7 @@ Læsø;Married/separated;2023Q3;735
 Læsø;Married/separated;2023Q4;742
 Læsø;Married/separated;2024Q1;742
 Læsø;Married/separated;2024Q2;736
+Læsø;Married/separated;2024Q3;745
 Læsø;Widowed;2008Q1;223
 Læsø;Widowed;2008Q2;226
 Læsø;Widowed;2008Q3;223
@@ -26069,6 +26463,7 @@ Læsø;Widowed;2023Q3;197
 Læsø;Widowed;2023Q4;192
 Læsø;Widowed;2024Q1;191
 Læsø;Widowed;2024Q2;191
+Læsø;Widowed;2024Q3;188
 Læsø;Divorced;2008Q1;169
 Læsø;Divorced;2008Q2;167
 Læsø;Divorced;2008Q3;163
@@ -26135,6 +26530,7 @@ Læsø;Divorced;2023Q3;225
 Læsø;Divorced;2023Q4;217
 Læsø;Divorced;2024Q1;212
 Læsø;Divorced;2024Q2;211
+Læsø;Divorced;2024Q3;213
 Mariagerfjord;Never married;2008Q1;19039
 Mariagerfjord;Never married;2008Q2;19097
 Mariagerfjord;Never married;2008Q3;19096
@@ -26201,6 +26597,7 @@ Mariagerfjord;Never married;2023Q3;18340
 Mariagerfjord;Never married;2023Q4;18177
 Mariagerfjord;Never married;2024Q1;18221
 Mariagerfjord;Never married;2024Q2;18279
+Mariagerfjord;Never married;2024Q3;18319
 Mariagerfjord;Married/separated;2008Q1;18044
 Mariagerfjord;Married/separated;2008Q2;17988
 Mariagerfjord;Married/separated;2008Q3;18019
@@ -26267,6 +26664,7 @@ Mariagerfjord;Married/separated;2023Q3;16998
 Mariagerfjord;Married/separated;2023Q4;17064
 Mariagerfjord;Married/separated;2024Q1;17017
 Mariagerfjord;Married/separated;2024Q2;16967
+Mariagerfjord;Married/separated;2024Q3;17003
 Mariagerfjord;Widowed;2008Q1;2676
 Mariagerfjord;Widowed;2008Q2;2664
 Mariagerfjord;Widowed;2008Q3;2674
@@ -26333,6 +26731,7 @@ Mariagerfjord;Widowed;2023Q3;2467
 Mariagerfjord;Widowed;2023Q4;2472
 Mariagerfjord;Widowed;2024Q1;2482
 Mariagerfjord;Widowed;2024Q2;2486
+Mariagerfjord;Widowed;2024Q3;2475
 Mariagerfjord;Divorced;2008Q1;2908
 Mariagerfjord;Divorced;2008Q2;2921
 Mariagerfjord;Divorced;2008Q3;2894
@@ -26399,6 +26798,7 @@ Mariagerfjord;Divorced;2023Q3;4072
 Mariagerfjord;Divorced;2023Q4;4063
 Mariagerfjord;Divorced;2024Q1;4042
 Mariagerfjord;Divorced;2024Q2;4031
+Mariagerfjord;Divorced;2024Q3;4047
 Morsø;Never married;2008Q1;9605
 Morsø;Never married;2008Q2;9684
 Morsø;Never married;2008Q3;9688
@@ -26465,6 +26865,7 @@ Morsø;Never married;2023Q3;8700
 Morsø;Never married;2023Q4;8705
 Morsø;Never married;2024Q1;8669
 Morsø;Never married;2024Q2;8664
+Morsø;Never married;2024Q3;8628
 Morsø;Married/separated;2008Q1;9500
 Morsø;Married/separated;2008Q2;9480
 Morsø;Married/separated;2008Q3;9478
@@ -26531,6 +26932,7 @@ Morsø;Married/separated;2023Q3;7882
 Morsø;Married/separated;2023Q4;7884
 Morsø;Married/separated;2024Q1;7820
 Morsø;Married/separated;2024Q2;7746
+Morsø;Married/separated;2024Q3;7723
 Morsø;Widowed;2008Q1;1595
 Morsø;Widowed;2008Q2;1587
 Morsø;Widowed;2008Q3;1589
@@ -26597,6 +26999,7 @@ Morsø;Widowed;2023Q3;1335
 Morsø;Widowed;2023Q4;1335
 Morsø;Widowed;2024Q1;1341
 Morsø;Widowed;2024Q2;1347
+Morsø;Widowed;2024Q3;1359
 Morsø;Divorced;2008Q1;1391
 Morsø;Divorced;2008Q2;1415
 Morsø;Divorced;2008Q3;1406
@@ -26663,6 +27066,7 @@ Morsø;Divorced;2023Q3;1920
 Morsø;Divorced;2023Q4;1916
 Morsø;Divorced;2024Q1;1904
 Morsø;Divorced;2024Q2;1892
+Morsø;Divorced;2024Q3;1901
 Rebild;Never married;2008Q1;12763
 Rebild;Never married;2008Q2;12801
 Rebild;Never married;2008Q3;12816
@@ -26729,6 +27133,7 @@ Rebild;Never married;2023Q3;14122
 Rebild;Never married;2023Q4;14061
 Rebild;Never married;2024Q1;14147
 Rebild;Never married;2024Q2;14203
+Rebild;Never married;2024Q3;14192
 Rebild;Married/separated;2008Q1;12676
 Rebild;Married/separated;2008Q2;12651
 Rebild;Married/separated;2008Q3;12726
@@ -26795,6 +27200,7 @@ Rebild;Married/separated;2023Q3;12851
 Rebild;Married/separated;2023Q4;12882
 Rebild;Married/separated;2024Q1;12858
 Rebild;Married/separated;2024Q2;12787
+Rebild;Married/separated;2024Q3;12804
 Rebild;Widowed;2008Q1;1663
 Rebild;Widowed;2008Q2;1652
 Rebild;Widowed;2008Q3;1648
@@ -26861,6 +27267,7 @@ Rebild;Widowed;2023Q3;1515
 Rebild;Widowed;2023Q4;1509
 Rebild;Widowed;2024Q1;1514
 Rebild;Widowed;2024Q2;1515
+Rebild;Widowed;2024Q3;1518
 Rebild;Divorced;2008Q1;1651
 Rebild;Divorced;2008Q2;1694
 Rebild;Divorced;2008Q3;1700
@@ -26927,6 +27334,7 @@ Rebild;Divorced;2023Q3;2446
 Rebild;Divorced;2023Q4;2442
 Rebild;Divorced;2024Q1;2418
 Rebild;Divorced;2024Q2;2434
+Rebild;Divorced;2024Q3;2448
 Thisted;Never married;2008Q1;19721
 Thisted;Never married;2008Q2;19769
 Thisted;Never married;2008Q3;19821
@@ -26993,6 +27401,7 @@ Thisted;Never married;2023Q3;18977
 Thisted;Never married;2023Q4;18855
 Thisted;Never married;2024Q1;18805
 Thisted;Never married;2024Q2;18826
+Thisted;Never married;2024Q3;18816
 Thisted;Married/separated;2008Q1;19929
 Thisted;Married/separated;2008Q2;19922
 Thisted;Married/separated;2008Q3;19949
@@ -27059,6 +27468,7 @@ Thisted;Married/separated;2023Q3;17762
 Thisted;Married/separated;2023Q4;17763
 Thisted;Married/separated;2024Q1;17637
 Thisted;Married/separated;2024Q2;17578
+Thisted;Married/separated;2024Q3;17549
 Thisted;Widowed;2008Q1;3216
 Thisted;Widowed;2008Q2;3226
 Thisted;Widowed;2008Q3;3206
@@ -27125,6 +27535,7 @@ Thisted;Widowed;2023Q3;2731
 Thisted;Widowed;2023Q4;2732
 Thisted;Widowed;2024Q1;2739
 Thisted;Widowed;2024Q2;2734
+Thisted;Widowed;2024Q3;2727
 Thisted;Divorced;2008Q1;2683
 Thisted;Divorced;2008Q2;2692
 Thisted;Divorced;2008Q3;2700
@@ -27191,6 +27602,7 @@ Thisted;Divorced;2023Q3;3858
 Thisted;Divorced;2023Q4;3818
 Thisted;Divorced;2024Q1;3808
 Thisted;Divorced;2024Q2;3811
+Thisted;Divorced;2024Q3;3818
 Vesthimmerlands;Never married;2008Q1;17245
 Vesthimmerlands;Never married;2008Q2;17360
 Vesthimmerlands;Never married;2008Q3;17442
@@ -27257,6 +27669,7 @@ Vesthimmerlands;Never married;2023Q3;16031
 Vesthimmerlands;Never married;2023Q4;15864
 Vesthimmerlands;Never married;2024Q1;15833
 Vesthimmerlands;Never married;2024Q2;15837
+Vesthimmerlands;Never married;2024Q3;15775
 Vesthimmerlands;Married/separated;2008Q1;15926
 Vesthimmerlands;Married/separated;2008Q2;15912
 Vesthimmerlands;Married/separated;2008Q3;15958
@@ -27323,6 +27736,7 @@ Vesthimmerlands;Married/separated;2023Q3;14433
 Vesthimmerlands;Married/separated;2023Q4;14471
 Vesthimmerlands;Married/separated;2024Q1;14405
 Vesthimmerlands;Married/separated;2024Q2;14309
+Vesthimmerlands;Married/separated;2024Q3;14285
 Vesthimmerlands;Widowed;2008Q1;2670
 Vesthimmerlands;Widowed;2008Q2;2665
 Vesthimmerlands;Widowed;2008Q3;2653
@@ -27389,6 +27803,7 @@ Vesthimmerlands;Widowed;2023Q3;2249
 Vesthimmerlands;Widowed;2023Q4;2234
 Vesthimmerlands;Widowed;2024Q1;2238
 Vesthimmerlands;Widowed;2024Q2;2236
+Vesthimmerlands;Widowed;2024Q3;2234
 Vesthimmerlands;Divorced;2008Q1;2436
 Vesthimmerlands;Divorced;2008Q2;2425
 Vesthimmerlands;Divorced;2008Q3;2451
@@ -27455,6 +27870,7 @@ Vesthimmerlands;Divorced;2023Q3;3554
 Vesthimmerlands;Divorced;2023Q4;3544
 Vesthimmerlands;Divorced;2024Q1;3536
 Vesthimmerlands;Divorced;2024Q2;3562
+Vesthimmerlands;Divorced;2024Q3;3570
 Aalborg;Never married;2008Q1;97132
 Aalborg;Never married;2008Q2;97436
 Aalborg;Never married;2008Q3;97216
@@ -27521,6 +27937,7 @@ Aalborg;Never married;2023Q3;122781
 Aalborg;Never married;2023Q4;123091
 Aalborg;Never married;2024Q1;123068
 Aalborg;Never married;2024Q2;123262
+Aalborg;Never married;2024Q3;122913
 Aalborg;Married/separated;2008Q1;72646
 Aalborg;Married/separated;2008Q2;72319
 Aalborg;Married/separated;2008Q3;72436
@@ -27587,6 +28004,7 @@ Aalborg;Married/separated;2023Q3;71395
 Aalborg;Married/separated;2023Q4;71874
 Aalborg;Married/separated;2024Q1;71831
 Aalborg;Married/separated;2024Q2;71538
+Aalborg;Married/separated;2024Q3;71769
 Aalborg;Widowed;2008Q1;11272
 Aalborg;Widowed;2008Q2;11229
 Aalborg;Widowed;2008Q3;11170
@@ -27653,6 +28071,7 @@ Aalborg;Widowed;2023Q3;9737
 Aalborg;Widowed;2023Q4;9761
 Aalborg;Widowed;2024Q1;9762
 Aalborg;Widowed;2024Q2;9767
+Aalborg;Widowed;2024Q3;9760
 Aalborg;Divorced;2008Q1;14095
 Aalborg;Divorced;2008Q2;14161
 Aalborg;Divorced;2008Q3;14226
@@ -27719,3 +28138,4 @@ Aalborg;Divorced;2023Q3;18492
 Aalborg;Divorced;2023Q4;18441
 Aalborg;Divorced;2024Q1;18513
 Aalborg;Divorced;2024Q2;18615
+Aalborg;Divorced;2024Q3;18599

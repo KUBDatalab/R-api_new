@@ -42,7 +42,7 @@ If the data is not still in memory, we can read it in:
 ```
 
 ``` output
-Rows: 27720 Columns: 4
+Rows: 28140 Columns: 4
 ── Column specification ────────────────────────────────────────────────────────
 Delimiter: ";"
 chr (3): OMRÅDE, CIVILSTAND, TID

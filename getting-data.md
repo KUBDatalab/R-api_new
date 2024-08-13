@@ -53,10 +53,10 @@ GET("https://icanhazdadjoke.com/")
 
 ``` output
 Response [https://icanhazdadjoke.com/]
-  Date: 2024-08-07 09:33
+  Date: 2024-08-13 01:48
   Status: 200
   Content-Type: text/html; charset=utf-8
-  Size: 9.83 kB
+  Size: 9.75 kB
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -95,10 +95,10 @@ result
 
 ``` output
 Response [https://icanhazdadjoke.com/]
-  Date: 2024-08-07 09:33
+  Date: 2024-08-13 01:48
   Status: 200
   Content-Type: text/plain
-  Size: 78 B
+  Size: 38 B
 ```
 We still get the response from the server, telling us that Status is 200, and
 everything is OK. But where is our dad-joke?
@@ -116,7 +116,7 @@ No encoding supplied: defaulting to UTF-8.
 ```
 
 ``` output
-[1] "We all know where the Big Apple is but does anyone know where the Minneapolis?"
+[1] "which flower is most fierce? Dandelion"
 ```
 
 There is a little warning about the encoding of the string. But now we have a dad-joke!
@@ -168,11 +168,11 @@ result
 
 ``` output
 Response [https://icanhazdadjoke.com/]
-  Date: 2024-08-07 09:33
+  Date: 2024-08-13 01:48
   Status: 200
   Content-Type: application/json
-  Size: 79 B
-{"id":"nOfNJY89EBd","joke":"Without geometry life is pointless.","status":200}
+  Size: 115 B
+{"id":"IexXD5TnGBd","joke":"I knew a guy who collected candy canes, they were...
 ```
 
 Again - everything is nice and 200 = OK.
@@ -188,10 +188,10 @@ content(result)
 
 ``` output
 $id
-[1] "nOfNJY89EBd"
+[1] "IexXD5TnGBd"
 
 $joke
-[1] "Without geometry life is pointless."
+[1] "I knew a guy who collected candy canes, they were all in mint condition"
 
 $status
 [1] 200
@@ -263,18 +263,18 @@ $previous_page
 $results
 $results[[1]]
 $results[[1]]$id
-[1] "82wHlbaapzd"
+[1] "YvkV8xXnjyd"
 
 $results[[1]]$joke
-[1] "Me: If humans lose the ability to hear high frequency volumes as they get older, can my 4 week old son hear a dog whistle?\r\n\r\nDoctor: No, humans can never hear that high of a frequency no matter what age they are.\r\n\r\nMe: Trick question... dogs can't whistle."
+[1] "Why did the cowboy have a weiner dog? Somebody told him to get a long little doggy."
 
 
 $results[[2]]
 $results[[2]]$id
-[1] "YvkV8xXnjyd"
+[1] "82wHlbaapzd"
 
 $results[[2]]$joke
-[1] "Why did the cowboy have a weiner dog? Somebody told him to get a long little doggy."
+[1] "Me: If humans lose the ability to hear high frequency volumes as they get older, can my 4 week old son hear a dog whistle?\r\n\r\nDoctor: No, humans can never hear that high of a frequency no matter what age they are.\r\n\r\nMe: Trick question... dogs can't whistle."
 
 
 $results[[3]]
@@ -435,10 +435,10 @@ $results
 6  GtH6E6UD5Ed
 7   obhFBljb2g
 8  89MZLmWnWvc
-9  R7UfaahVfFd
-10  71wsPKeF6h
-11 AQn3wPKeqrc
-12 sPRnOfiyAAd
+9   71wsPKeF6h
+10 R7UfaahVfFd
+11 sPRnOfiyAAd
+12 AQn3wPKeqrc
 13 Lmjqzsr49pb
                                                                                                                                                                                                                                                                          joke
 1  Me: If humans lose the ability to hear high frequency volumes as they get older, can my 4 week old son hear a dog whistle?\r\n\r\nDoctor: No, humans can never hear that high of a frequency no matter what age they are.\r\n\r\nMe: Trick question... dogs can't whistle.
@@ -449,10 +449,10 @@ $results
 6                                                                                                                                                                                                What kind of dog lives in a particle accelerator? A Fermilabrador Retriever.
 7                                                                                                                                                                                     I adopted my dog from a blacksmith. As soon as we got home he made a bolt for the door.
 8                                                                                                                                                I can't take my dog to the pond anymore because the ducks keep attacking him. That's what I get for buying a pure bread dog.
-9                                                                                                                                                                                     My dog used to chase people on a bike a lot. It got so bad I had to take his bike away.
-10                                                                                                                                                                                                                          What did the dog say to the two trees? Bark bark.
-11                                                                                                                                                                                                  It was raining cats and dogs the other day. I almost stepped in a poodle.
-12                                                                                                                                              At the boxing match, the dad got into the popcorn line and the line for hot dogs, but he wanted to stay out of the punchline.
+9                                                                                                                                                                                                                           What did the dog say to the two trees? Bark bark.
+10                                                                                                                                                                                    My dog used to chase people on a bike a lot. It got so bad I had to take his bike away.
+11                                                                                                                                              At the boxing match, the dad got into the popcorn line and the line for hot dogs, but he wanted to stay out of the punchline.
+12                                                                                                                                                                                                  It was raining cats and dogs the other day. I almost stepped in a poodle.
 13                                                                                                                                                                                            What did the Zen Buddist say to the hotdog vendor? Make me one with everything.
 
 $search_term
@@ -515,8 +515,8 @@ $previous_page
 
 $results
             id
-1  82wHlbaapzd
-2  YvkV8xXnjyd
+1  YvkV8xXnjyd
+2  82wHlbaapzd
 3  lyk3EIBQfxc
 4  DIeaUDlbUDd
 5  EBQfiyXD5ob
@@ -525,12 +525,12 @@ $results
 8  89MZLmWnWvc
 9  R7UfaahVfFd
 10  71wsPKeF6h
-11 sPRnOfiyAAd
-12 AQn3wPKeqrc
+11 AQn3wPKeqrc
+12 sPRnOfiyAAd
 13 Lmjqzsr49pb
                                                                                                                                                                                                                                                                          joke
-1  Me: If humans lose the ability to hear high frequency volumes as they get older, can my 4 week old son hear a dog whistle?\r\n\r\nDoctor: No, humans can never hear that high of a frequency no matter what age they are.\r\n\r\nMe: Trick question... dogs can't whistle.
-2                                                                                                                                                                                         Why did the cowboy have a weiner dog? Somebody told him to get a long little doggy.
+1                                                                                                                                                                                         Why did the cowboy have a weiner dog? Somebody told him to get a long little doggy.
+2  Me: If humans lose the ability to hear high frequency volumes as they get older, can my 4 week old son hear a dog whistle?\r\n\r\nDoctor: No, humans can never hear that high of a frequency no matter what age they are.\r\n\r\nMe: Trick question... dogs can't whistle.
 3                                                                                                                                                                                             I went to the zoo the other day, there was only one dog in it. It was a shitzu.
 4                                                                                                                                                                                                                          “My Dog has no nose.” “How does he smell?” “Awful”
 5                                                                                                                                                                                                          what do you call a dog that can do magic tricks? a labracadabrador
@@ -539,8 +539,8 @@ $results
 8                                                                                                                                                I can't take my dog to the pond anymore because the ducks keep attacking him. That's what I get for buying a pure bread dog.
 9                                                                                                                                                                                     My dog used to chase people on a bike a lot. It got so bad I had to take his bike away.
 10                                                                                                                                                                                                                          What did the dog say to the two trees? Bark bark.
-11                                                                                                                                              At the boxing match, the dad got into the popcorn line and the line for hot dogs, but he wanted to stay out of the punchline.
-12                                                                                                                                                                                                  It was raining cats and dogs the other day. I almost stepped in a poodle.
+11                                                                                                                                                                                                  It was raining cats and dogs the other day. I almost stepped in a poodle.
+12                                                                                                                                              At the boxing match, the dad got into the popcorn line and the line for hot dogs, but he wanted to stay out of the punchline.
 13                                                                                                                                                                                            What did the Zen Buddist say to the hotdog vendor? Make me one with everything.
 
 $search_term
