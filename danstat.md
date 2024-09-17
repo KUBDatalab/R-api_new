@@ -276,7 +276,7 @@ tables
 29                                                                Average age
                unit             updated firstPeriod latestPeriod active
 1            Number 2024-08-12T08:00:00      2008Q1       2024Q3   TRUE
-2            Number 2024-08-12T08:00:00     2021M10      2024M07   TRUE
+2            Number 2024-09-10T08:00:00     2021M10      2024M08   TRUE
 3            Number 2024-02-12T08:00:00        1971         2024   TRUE
 4            Number 2024-02-12T08:00:00        1901         2024   TRUE
 5            Number 2024-02-12T08:00:00        2008         2024   TRUE
