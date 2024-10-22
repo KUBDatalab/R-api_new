@@ -238,12 +238,11 @@ tables
 21    BEF5F
 22    BEF5G
 23    BEV22
-24 FRGNSK24
-25   LABY01
-26   BEV107
-27 KMSTA003
-28   GALDER
-29 KMGALDER
+24   LABY01
+25   BEV107
+26 KMSTA003
+27   GALDER
+28 KMGALDER
                                                                          text
 1                                  Population at the first day of the quarter
 2                                    Population at the first day of the month
@@ -268,15 +267,14 @@ tables
 21              People born in Faroe Islands and living in Denmark 1. January
 22                  People born in Greenland and living in Denmark 1. January
 23                                Summary vital statistics (provisional data)
-24                                                   Summary vital statistics
-25                                       Population increase per 1,000 capita
+24                                       Population increase per 1,000 capita
+25                                                   Summary vital statistics
 26                                                   Summary vital statistics
-27                                                   Summary vital statistics
+27                                                                Average age
 28                                                                Average age
-29                                                                Average age
                unit             updated firstPeriod latestPeriod active
 1            Number 2024-08-12T08:00:00      2008Q1       2024Q3   TRUE
-2            Number 2024-09-10T08:00:00     2021M10      2024M08   TRUE
+2            Number 2024-10-10T08:00:00     2021M10      2024M09   TRUE
 3            Number 2024-02-12T08:00:00        1971         2024   TRUE
 4            Number 2024-02-12T08:00:00        1901         2024   TRUE
 5            Number 2024-02-12T08:00:00        2008         2024   TRUE
@@ -298,12 +296,11 @@ tables
 21           Number 2024-02-12T08:00:00        2008         2024   TRUE
 22           Number 2024-02-12T08:00:00        2008         2024   TRUE
 23           Number 2024-08-12T08:00:00      2007Q2       2024Q2   TRUE
-24           Number 2024-06-04T08:00:00        1992         2023   TRUE
-25 Per 1,000 capita 2024-02-12T08:00:00        2007         2023   TRUE
-26           Number 2024-02-12T08:00:00        2006         2023   TRUE
-27           Number 2024-02-12T08:00:00        2015         2023   TRUE
-28             Avg. 2024-02-12T08:00:00        2005         2024   TRUE
-29             Avg. 2024-02-12T08:00:00        2007         2024   TRUE
+24 Per 1,000 capita 2024-02-12T08:00:00        2007         2023   TRUE
+25           Number 2024-02-12T08:00:00        2006         2023   TRUE
+26           Number 2024-02-12T08:00:00        2015         2023   TRUE
+27             Avg. 2024-02-12T08:00:00        2005         2024   TRUE
+28             Avg. 2024-02-12T08:00:00        2007         2024   TRUE
                                                              variables
 1                               region, sex, age, marital status, time
 2                                               region, sex, age, time
@@ -328,12 +325,11 @@ tables
 21                              sex, age, parents place of birth, time
 22                              sex, age, parents place of birth, time
 23                                 region, type of movement, sex, time
-24                                    type of movement, age, sex, time
-25                         municipality groups, type of movement, time
-26                                 region, type of movement, sex, time
-27                                             parish, movements, time
-28                                             municipality, sex, time
-29                                                   parish, sex, time
+24                         municipality groups, type of movement, time
+25                                 region, type of movement, sex, time
+26                                             parish, movements, time
+27                                             municipality, sex, time
+28                                                   parish, sex, time
 ```
 
 We get at lot of information here. The id identifies the table, text gives a 
