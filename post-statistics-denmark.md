@@ -141,7 +141,7 @@ result
 
 ``` output
 Response [https://api.statbank.dk/v1/subjects]
-  Date: 2024-10-22 01:59
+  Date: 2024-10-29 01:49
   Status: 200
   Content-Type: text/json; charset=utf-8
   Size: 884 B
