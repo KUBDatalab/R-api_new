@@ -141,7 +141,7 @@ result
 
 ``` output
 Response [https://api.statbank.dk/v1/subjects]
-  Date: 2024-10-29 01:49
+  Date: 2024-11-05 01:45
   Status: 200
   Content-Type: text/json; charset=utf-8
   Size: 884 B
@@ -386,8 +386,8 @@ $active
 [1] TRUE
 
 $contacts
-           name    phone       mail
-1 Dorthe Larsen 39173307 dla@dst.dk
+           name       phone       mail
+1 Dorthe Larsen +4523498326 dla@dst.dk
 
 $documentation
 $documentation$id
