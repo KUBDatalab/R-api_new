@@ -59,7 +59,7 @@ SD_data <- read_csv2("data/SD_data.csv")
 ```
 
 ``` output
-Rows: 28140 Columns: 4
+Rows: 28560 Columns: 4
 ── Column specification ────────────────────────────────────────────────────────
 Delimiter: ";"
 chr (3): OMRÅDE, CIVILSTAND, TID
